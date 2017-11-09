@@ -6,3 +6,5 @@
 1. poscb 这个模块被编译成动态库，提供一个连接openFire服务器的接口`char* ConnectOpenFire(char *filein)`，这个动态库是基于gloox开源库的。
 1. poscbApp 这个模块主要包含面向用户的登录界面，登录信息可以通过读取配置文件自动填写，也可以用户自己手动填写，填写完毕后可回写到配置文件中，在这个客户端中调用poscb提供的ConnectOpenFire接口来连接openFire服务器，并打印相关日志。
 1. sqliteApp 这个模块是数据库操作模块，用于存储交易信息。
+
+注：删除部分代码后，可能导致部分功能不能使用，如有疑问请开issues，我会尽快回复。开源万岁，共同进步。

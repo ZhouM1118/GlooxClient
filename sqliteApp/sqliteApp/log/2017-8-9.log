@@ -1,0 +1,19 @@
+INFO:打开poscb.db数据库成功
+2017-8-9 15:16:38 : INFO:打开poscb.db数据库成功
+2017-8-9 15:16:43 : INFO:打开poscb.db数据库成功
+2017-8-9 15:16:49 : INFO:打开poscb.db数据库成功
+2017-8-9 15:16:53 : INFO:打开poscb.db数据库成功
+2017-8-9 15:16:56 : INFO:打开poscb.db数据库成功
+2017-8-9 15:18:19 : INFO:打开poscb.db数据库成功
+2017-8-9 15:19:52 : INFO:打开poscb.db数据库成功
+2017-8-9 15:20:01 : INFO:打开poscb.db数据库成功
+2017-8-9 15:20:13 : INFO:打开poscb.db数据库成功
+2017-8-9 15:20:17 : INFO:打开poscb.db数据库成功
+2017-8-9 15:20:19 : INFO:打开poscb.db数据库成功
+2017-8-9 15:20:20 : INFO:打开poscb.db数据库成功
+2017-8-9 15:20:27 : INFO:打开poscb.db数据库成功
+2017-8-9 15:22:32 : INFO:打开poscb.db数据库成功
+2017-8-9 15:26:31 : INFO:SELECT * FROM poscb WHERE billDate = '2017-07-06'  AND merOrderId = '100017070648210190950052120';
+2017-8-9 15:26:31 : INFO:打开poscb.db数据库成功
+2017-8-9 15:32:01 : INFO:SELECT * FROM poscb WHERE billDate = '2017-07-06'  AND merOrderId = '100017070648210190950052120';
+2017-8-9 15:32:01 : 

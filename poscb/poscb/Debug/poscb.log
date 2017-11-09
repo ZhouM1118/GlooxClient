@@ -1,0 +1,296 @@
+﻿生成启动时间为 2017/8/14 14:52:57。
+     1>项目“D:\Cworkspace\poscb\poscb\poscb.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(346,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D POSCB_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\gloox\adhoc.cpp ..\gloox\amp.cpp ..\gloox\annotations.cpp ..\gloox\atomicrefcount.cpp ..\gloox\attention.cpp ..\gloox\base64.cpp ..\gloox\bookmarkstorage.cpp ..\gloox\capabilities.cpp ..\gloox\carbons.cpp ..\gloox\chatstate.cpp ..\gloox\chatstatefilter.cpp ..\gloox\client.cpp ..\gloox\clientbase.cpp ..\gloox\component.cpp ..\gloox\compressiondefault.cpp ..\gloox\compressionzlib.cpp ..\gloox\connectionbosh.cpp ..\gloox\connectionhttpproxy.cpp ..\gloox\connectionsocks5proxy.cpp ..\gloox\connectiontcpbase.cpp ..\gloox\connectiontcpclient.cpp ..\gloox\connectiontcpserver.cpp ..\gloox\connectiontls.cpp ..\gloox\connectiontlsserver.cpp ..\gloox\dataform.cpp ..\gloox\dataformfield.cpp ..\gloox\dataformfieldcontainer.cpp ..\gloox\dataformitem.cpp ..\gloox\dataformreported.cpp ..\gloox\delayeddelivery.cpp ..\gloox\disco.cpp ..\gloox\dns.cpp ..\gloox\error.cpp ..\gloox\eventdispatcher.cpp ..\gloox\featureneg.cpp ..\gloox\flexoff.cpp ..\gloox\forward.cpp ..\gloox\gloox.cpp ..\gloox\gpgencrypted.cpp ..\gloox\gpgsigned.cpp ..\gloox\inbandbytestream.cpp ..\gloox\instantmucroom.cpp ..\gloox\iodata.cpp ..\gloox\iq.cpp ..\gloox\jid.cpp ..\gloox\jinglecontent.cpp ..\gloox\jinglefiletransfer.cpp ..\gloox\jingleiceudp.cpp ..\gloox\jinglepluginfactory.cpp ..\gloox\jinglesession.cpp ..\gloox\jinglesessionmanager.cpp ..\gloox\lastactivity.cpp ..\gloox\linklocalclient.cpp ..\gloox\linklocalmanager.cpp ..\gloox\logsink.cpp ..\gloox\md5.cpp ..\gloox\message.cpp ..\gloox\messageevent.cpp ..\gloox\messageeventfilter.cpp ..\gloox\messagefilter.cpp ..\gloox\messagesession.cpp ..\gloox\mucinvitationhandler.cpp ..\gloox\mucmessagesession.cpp ..\gloox\mucroom.cpp ..\gloox\mutex.cpp ..\gloox\nickname.cpp ..\gloox\nonsaslauth.cpp ..\gloox\oob.cpp ..\gloox\parser.cpp ..\gloox\prep.cpp ..\gloox\presence.cpp ..\gloox\privacyitem.cpp ..\gloox\privacymanager.cpp ..\gloox\privatexml.cpp ..\gloox\pubsubevent.cpp ..\gloox\pubsubitem.cpp ..\gloox\pubsubmanager.cpp ..\gloox\receipt.cpp ..\gloox\registration.cpp ..\gloox\rosteritem.cpp ..\gloox\rostermanager.cpp ..\gloox\search.cpp ..\gloox\sha.cpp ..\gloox\shim.cpp ..\gloox\simanager.cpp ..\gloox\siprofileft.cpp ..\gloox\socks5bytestream.cpp ..\gloox\socks5bytestreammanager.cpp ..\gloox\socks5bytestreamserver.cpp ..\gloox\softwareversion.cpp ..\gloox\stanza.cpp ..\gloox\stanzaextensionfactory.cpp ..\gloox\subscription.cpp ..\gloox\tag.cpp ..\gloox\tlsdefault.cpp ..\gloox\tlsgnutlsbase.cpp ..\gloox\tlsgnutlsclient.cpp ..\gloox\tlsgnutlsclientanon.cpp ..\gloox\tlsgnutlsserveranon.cpp ..\gloox\tlsopensslbase.cpp ..\gloox\tlsopensslclient.cpp ..\gloox\tlsopensslserver.cpp ..\gloox\tlsschannel.cpp ..\gloox\uniquemucroom.cpp ..\gloox\util.cpp ..\gloox\vcard.cpp ..\gloox\vcardmanager.cpp ..\gloox\vcardupdate.cpp ..\gloox\xhtmlim.cpp poscb.cpp
+         poscb.cpp
+     1>d:\cworkspace\poscb\poscb\poscb.h(114): warning C4275: 非 dll 接口 class“gloox::MessageSessionHandler”用作 dll 接口 class“poscb::XmppClient”的基
+                 d:\cworkspace\poscb\gloox\messagesessionhandler.h(35) : 参见“gloox::MessageSessionHandler”的声明
+                 d:\cworkspace\poscb\poscb\poscb.h(114) : 参见“poscb::XmppClient”的声明
+     1>d:\cworkspace\poscb\poscb\poscb.h(114): warning C4275: 非 dll 接口 class“gloox::ConnectionListener”用作 dll 接口 class“poscb::XmppClient”的基
+                 d:\cworkspace\poscb\gloox\connectionlistener.h(34) : 参见“gloox::ConnectionListener”的声明
+                 d:\cworkspace\poscb\poscb\poscb.h(114) : 参见“poscb::XmppClient”的声明
+     1>d:\cworkspace\poscb\poscb\poscb.h(114): warning C4275: 非 dll 接口 class“gloox::LogHandler”用作 dll 接口 class“poscb::XmppClient”的基
+                 d:\cworkspace\poscb\gloox\loghandler.h(34) : 参见“gloox::LogHandler”的声明
+                 d:\cworkspace\poscb\poscb\poscb.h(114) : 参见“poscb::XmppClient”的声明
+     1>d:\cworkspace\poscb\poscb\poscb.h(115): warning C4275: 非 dll 接口 class“gloox::MessageEventHandler”用作 dll 接口 class“poscb::XmppClient”的基
+                 d:\cworkspace\poscb\gloox\messageeventhandler.h(32) : 参见“gloox::MessageEventHandler”的声明
+                 d:\cworkspace\poscb\poscb\poscb.h(114) : 参见“poscb::XmppClient”的声明
+     1>d:\cworkspace\poscb\poscb\poscb.h(115): warning C4275: 非 dll 接口 class“gloox::MessageHandler”用作 dll 接口 class“poscb::XmppClient”的基
+                 d:\cworkspace\poscb\gloox\messagehandler.h(37) : 参见“gloox::MessageHandler”的声明
+                 d:\cworkspace\poscb\poscb\poscb.h(114) : 参见“poscb::XmppClient”的声明
+     1>d:\cworkspace\poscb\poscb\poscb.h(116): warning C4275: 非 dll 接口 class“gloox::ChatStateHandler”用作 dll 接口 class“poscb::XmppClient”的基
+                 d:\cworkspace\poscb\gloox\chatstatehandler.h(32) : 参见“gloox::ChatStateHandler”的声明
+                 d:\cworkspace\poscb\poscb\poscb.h(114) : 参见“poscb::XmppClient”的声明
+     1>d:\cworkspace\poscb\poscb\poscb.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\cworkspace\poscb\poscb\poscb.cpp(200): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>d:\cworkspace\poscb\poscb\poscb.cpp(238): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 11.0\vc\include\time.inl(86) : 参见“ctime”的声明
+     1>d:\cworkspace\poscb\poscb\poscb.cpp(239): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 11.0\vc\include\time.inl(86) : 参见“ctime”的声明
+     1>d:\cworkspace\poscb\poscb\poscb.cpp(246): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 11.0\vc\include\time.inl(86) : 参见“ctime”的声明
+         xhtmlim.cpp
+         vcardupdate.cpp
+         vcardmanager.cpp
+         vcard.cpp
+         util.cpp
+     1>d:\cworkspace\poscb\gloox\util.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+         uniquemucroom.cpp
+         tlsschannel.cpp
+         tlsopensslserver.cpp
+         tlsopensslclient.cpp
+         tlsopensslbase.cpp
+         tlsgnutlsserveranon.cpp
+         tlsgnutlsclientanon.cpp
+         tlsgnutlsclient.cpp
+         tlsgnutlsbase.cpp
+         tlsdefault.cpp
+         tag.cpp
+         subscription.cpp
+         stanzaextensionfactory.cpp
+         stanza.cpp
+         正在生成代码...
+     1>d:\cworkspace\poscb\poscb\poscb.cpp(474): warning C4715: “ConnectOpenFire”: 不是所有的控件路径都返回值
+         正在编译...
+         softwareversion.cpp
+         socks5bytestreamserver.cpp
+     1>d:\cworkspace\poscb\gloox\socks5bytestreamserver.cpp(171): warning C4309: “static_cast”: 截断常量值
+         socks5bytestreammanager.cpp
+         socks5bytestream.cpp
+         siprofileft.cpp
+         simanager.cpp
+         shim.cpp
+         sha.cpp
+         search.cpp
+         rostermanager.cpp
+     1>d:\cworkspace\poscb\gloox\rosteritemdata.h(65): warning C4996: 'gloox::RosterItemData::m_jid': 被声明为已否决
+                 d:\cworkspace\poscb\gloox\rosteritemdata.h(218) : 参见“gloox::RosterItemData::m_jid”的声明
+     1>d:\cworkspace\poscb\gloox\rosteritemdata.h(97): warning C4996: 'gloox::RosterItemData::m_jid': 被声明为已否决
+                 d:\cworkspace\poscb\gloox\rosteritemdata.h(218) : 参见“gloox::RosterItemData::m_jid”的声明
+     1>d:\cworkspace\poscb\gloox\rosteritemdata.h(104): warning C4996: 'gloox::RosterItemData::m_jid': 被声明为已否决
+                 d:\cworkspace\poscb\gloox\rosteritemdata.h(218) : 参见“gloox::RosterItemData::m_jid”的声明
+         rosteritem.cpp
+     1>d:\cworkspace\poscb\gloox\rosteritemdata.h(65): warning C4996: 'gloox::RosterItemData::m_jid': 被声明为已否决
+                 d:\cworkspace\poscb\gloox\rosteritemdata.h(218) : 参见“gloox::RosterItemData::m_jid”的声明
+     1>d:\cworkspace\poscb\gloox\rosteritemdata.h(97): warning C4996: 'gloox::RosterItemData::m_jid': 被声明为已否决
+                 d:\cworkspace\poscb\gloox\rosteritemdata.h(218) : 参见“gloox::RosterItemData::m_jid”的声明
+     1>d:\cworkspace\poscb\gloox\rosteritemdata.h(104): warning C4996: 'gloox::RosterItemData::m_jid': 被声明为已否决
+                 d:\cworkspace\poscb\gloox\rosteritemdata.h(218) : 参见“gloox::RosterItemData::m_jid”的声明
+     1>d:\cworkspace\poscb\gloox\rosteritem.cpp(65): warning C4996: 'gloox::RosterItemData::jid': 被声明为已否决
+                 d:\cworkspace\poscb\gloox\rosteritemdata.h(104) : 参见“gloox::RosterItemData::jid”的声明
+         registration.cpp
+         receipt.cpp
+         pubsubmanager.cpp
+         pubsubitem.cpp
+         pubsubevent.cpp
+         privatexml.cpp
+         privacymanager.cpp
+         privacyitem.cpp
+         presence.cpp
+         正在生成代码...
+         正在编译...
+         prep.cpp
+         parser.cpp
+         oob.cpp
+         nonsaslauth.cpp
+         nickname.cpp
+         mutex.cpp
+         mucroom.cpp
+         mucmessagesession.cpp
+         mucinvitationhandler.cpp
+         messagesession.cpp
+         messagefilter.cpp
+         messageeventfilter.cpp
+         messageevent.cpp
+         message.cpp
+         md5.cpp
+         logsink.cpp
+         linklocalmanager.cpp
+         linklocalclient.cpp
+         lastactivity.cpp
+         jinglesessionmanager.cpp
+         正在生成代码...
+         正在编译...
+         jinglesession.cpp
+         jinglepluginfactory.cpp
+         jingleiceudp.cpp
+         jinglefiletransfer.cpp
+         jinglecontent.cpp
+         jid.cpp
+         iq.cpp
+         iodata.cpp
+         instantmucroom.cpp
+         inbandbytestream.cpp
+         gpgsigned.cpp
+         gpgencrypted.cpp
+         gloox.cpp
+         forward.cpp
+         flexoff.cpp
+         featureneg.cpp
+         eventdispatcher.cpp
+         error.cpp
+         dns.cpp
+         disco.cpp
+         正在生成代码...
+         正在编译...
+         delayeddelivery.cpp
+         dataformreported.cpp
+         dataformitem.cpp
+         dataformfieldcontainer.cpp
+         dataformfield.cpp
+         dataform.cpp
+         connectiontlsserver.cpp
+         connectiontls.cpp
+         connectiontcpserver.cpp
+         connectiontcpclient.cpp
+         connectiontcpbase.cpp
+         connectionsocks5proxy.cpp
+     1>d:\cworkspace\poscb\gloox\connectionsocks5proxy.cpp(223): warning C4309: “static_cast”: 截断常量值
+         connectionhttpproxy.cpp
+         connectionbosh.cpp
+     1>d:\cworkspace\poscb\gloox\connectionbosh.cpp(228): warning C4244: “初始化”: 从“time_t”转换到“unsigned long”，可能丢失数据
+         compressionzlib.cpp
+         compressiondefault.cpp
+         component.cpp
+         clientbase.cpp
+     1>d:\cworkspace\poscb\gloox\clientbase.cpp(134): warning C4244: “参数”: 从“time_t”转换到“long”，可能丢失数据
+         client.cpp
+         chatstatefilter.cpp
+         正在生成代码...
+         正在编译...
+         chatstate.cpp
+         carbons.cpp
+         capabilities.cpp
+         bookmarkstorage.cpp
+         base64.cpp
+         attention.cpp
+         atomicrefcount.cpp
+     1>d:\cworkspace\poscb\gloox\atomicrefcount.cpp(77): warning C4197: “volatile LONG”: 忽略转换中的顶级 volatile 变量
+         annotations.cpp
+         amp.cpp
+         adhoc.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\version.res" ..\gloox\version.rc 
+       Link:
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\ums\poscb.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib json_vc71_libmtd.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\ums\poscb.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\ums\poscb.lib" /MACHINE:X86 /DLL Debug\version.res
+         Debug\adhoc.obj
+         Debug\amp.obj
+         Debug\annotations.obj
+         Debug\atomicrefcount.obj
+         Debug\attention.obj
+         Debug\base64.obj
+         Debug\bookmarkstorage.obj
+         Debug\capabilities.obj
+         Debug\carbons.obj
+         Debug\chatstate.obj
+         Debug\chatstatefilter.obj
+         Debug\client.obj
+         Debug\clientbase.obj
+         Debug\component.obj
+         Debug\compressiondefault.obj
+         Debug\compressionzlib.obj
+         Debug\connectionbosh.obj
+         Debug\connectionhttpproxy.obj
+         Debug\connectionsocks5proxy.obj
+         Debug\connectiontcpbase.obj
+         Debug\connectiontcpclient.obj
+         Debug\connectiontcpserver.obj
+         Debug\connectiontls.obj
+         Debug\connectiontlsserver.obj
+         Debug\dataform.obj
+         Debug\dataformfield.obj
+         Debug\dataformfieldcontainer.obj
+         Debug\dataformitem.obj
+         Debug\dataformreported.obj
+         Debug\delayeddelivery.obj
+         Debug\disco.obj
+         Debug\dns.obj
+         Debug\error.obj
+         Debug\eventdispatcher.obj
+         Debug\featureneg.obj
+         Debug\flexoff.obj
+         Debug\forward.obj
+         Debug\gloox.obj
+         Debug\gpgencrypted.obj
+         Debug\gpgsigned.obj
+         Debug\inbandbytestream.obj
+         Debug\instantmucroom.obj
+         Debug\iodata.obj
+         Debug\iq.obj
+         Debug\jid.obj
+         Debug\jinglecontent.obj
+         Debug\jinglefiletransfer.obj
+         Debug\jingleiceudp.obj
+         Debug\jinglepluginfactory.obj
+         Debug\jinglesession.obj
+         Debug\jinglesessionmanager.obj
+         Debug\lastactivity.obj
+         Debug\linklocalclient.obj
+         Debug\linklocalmanager.obj
+         Debug\logsink.obj
+         Debug\md5.obj
+         Debug\message.obj
+         Debug\messageevent.obj
+         Debug\messageeventfilter.obj
+         Debug\messagefilter.obj
+         Debug\messagesession.obj
+         Debug\mucinvitationhandler.obj
+         Debug\mucmessagesession.obj
+         Debug\mucroom.obj
+         Debug\mutex.obj
+         Debug\nickname.obj
+         Debug\nonsaslauth.obj
+         Debug\oob.obj
+         Debug\parser.obj
+         Debug\prep.obj
+         Debug\presence.obj
+         Debug\privacyitem.obj
+         Debug\privacymanager.obj
+         Debug\privatexml.obj
+         Debug\pubsubevent.obj
+         Debug\pubsubitem.obj
+         Debug\pubsubmanager.obj
+         Debug\receipt.obj
+         Debug\registration.obj
+         Debug\rosteritem.obj
+         Debug\rostermanager.obj
+         Debug\search.obj
+         Debug\sha.obj
+         Debug\shim.obj
+         Debug\simanager.obj
+         Debug\siprofileft.obj
+         Debug\socks5bytestream.obj
+         Debug\socks5bytestreammanager.obj
+         Debug\socks5bytestreamserver.obj
+         Debug\softwareversion.obj
+         Debug\stanza.obj
+         Debug\stanzaextensionfactory.obj
+         Debug\subscription.obj
+         Debug\tag.obj
+         Debug\tlsdefault.obj
+         Debug\tlsgnutlsbase.obj
+         Debug\tlsgnutlsclient.obj
+         Debug\tlsgnutlsclientanon.obj
+         Debug\tlsgnutlsserveranon.obj
+         Debug\tlsopensslbase.obj
+         Debug\tlsopensslclient.obj
+         Debug\tlsopensslserver.obj
+         Debug\tlsschannel.obj
+         Debug\uniquemucroom.obj
+         Debug\util.obj
+         Debug\vcard.obj
+         Debug\vcardmanager.obj
+         Debug\vcardupdate.obj
+         Debug\xhtmlim.obj
+         Debug\poscb.obj
+            正在创建库 C:\Users\Administrator\Desktop\ums\poscb.lib 和对象 C:\Users\Administrator\Desktop\ums\poscb.exp
+         poscb.vcxproj -> C:\Users\Administrator\Desktop\ums\poscb.dll
+     1>已完成生成项目“D:\Cworkspace\poscb\poscb\poscb.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:02:14.42

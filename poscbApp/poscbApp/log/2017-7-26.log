@@ -1,0 +1,195 @@
+INFO:开始登录
+2017-7-26 10:32:37 : INFO:读取配置文件
+2017-7-26 10:32:37 : INFO:连接失败，重新连接
+2017-7-26 10:32:37 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:37 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:38 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:39 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:39 : ERROR:连接失败
+2017-7-26 10:32:39 : INFO:读取配置文件
+2017-7-26 10:32:39 : INFO:连接失败，重新连接
+2017-7-26 10:32:39 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:39 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:39 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:40 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:40 : ERROR:连接失败
+2017-7-26 10:32:40 : INFO:读取配置文件
+2017-7-26 10:32:40 : INFO:连接失败，重新连接
+2017-7-26 10:32:40 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:40 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:40 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:42 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:42 : ERROR:连接失败
+2017-7-26 10:32:42 : INFO:读取配置文件
+2017-7-26 10:32:42 : INFO:连接失败，重新连接
+2017-7-26 10:32:42 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:42 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:42 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:43 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:43 : ERROR:连接失败
+2017-7-26 10:32:43 : INFO:读取配置文件
+2017-7-26 10:32:43 : INFO:连接失败，重新连接
+2017-7-26 10:32:43 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:43 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:43 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:44 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:44 : ERROR:连接失败
+2017-7-26 10:32:44 : INFO:读取配置文件
+2017-7-26 10:32:44 : INFO:连接失败，重新连接
+2017-7-26 10:32:44 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:44 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:44 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:45 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:45 : ERROR:连接失败
+2017-7-26 10:32:45 : INFO:读取配置文件
+2017-7-26 10:32:45 : INFO:连接失败，重新连接
+2017-7-26 10:32:45 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:45 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:45 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:46 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:46 : ERROR:连接失败
+2017-7-26 10:32:46 : INFO:读取配置文件
+2017-7-26 10:32:46 : INFO:连接失败，重新连接
+2017-7-26 10:32:46 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:46 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:46 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:47 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:47 : ERROR:连接失败
+2017-7-26 10:32:47 : INFO:读取配置文件
+2017-7-26 10:32:47 : INFO:连接失败，重新连接
+2017-7-26 10:32:48 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:48 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:48 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:49 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:49 : ERROR:连接失败
+2017-7-26 10:32:49 : INFO:读取配置文件
+2017-7-26 10:32:49 : INFO:连接失败，重新连接
+2017-7-26 10:32:49 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:49 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:49 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:50 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:50 : ERROR:连接失败
+2017-7-26 10:32:50 : INFO:读取配置文件
+2017-7-26 10:32:50 : INFO:连接失败，重新连接
+2017-7-26 10:32:50 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:50 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:50 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:51 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:51 : ERROR:连接失败
+2017-7-26 10:32:51 : INFO:读取配置文件
+2017-7-26 10:32:51 : INFO:连接失败，重新连接
+2017-7-26 10:32:51 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:51 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:51 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:52 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:52 : ERROR:连接失败
+2017-7-26 10:32:52 : INFO:读取配置文件
+2017-7-26 10:32:52 : INFO:连接失败，重新连接
+2017-7-26 10:32:52 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:52 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:52 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:53 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:53 : ERROR:连接失败
+2017-7-26 10:32:53 : INFO:读取配置文件
+2017-7-26 10:32:53 : INFO:连接失败，重新连接
+2017-7-26 10:32:53 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:53 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:53 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:54 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:54 : ERROR:连接失败
+2017-7-26 10:32:54 : INFO:读取配置文件
+2017-7-26 10:32:54 : INFO:连接失败，重新连接
+2017-7-26 10:32:54 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:54 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:55 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:56 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:56 : ERROR:连接失败
+2017-7-26 10:32:56 : INFO:读取配置文件
+2017-7-26 10:32:56 : INFO:连接失败，重新连接
+2017-7-26 10:32:56 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:56 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:56 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:57 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:57 : ERROR:连接失败
+2017-7-26 10:32:57 : INFO:读取配置文件
+2017-7-26 10:32:57 : INFO:连接失败，重新连接
+2017-7-26 10:32:57 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:57 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:57 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:58 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:58 : ERROR:连接失败
+2017-7-26 10:32:58 : INFO:读取配置文件
+2017-7-26 10:32:58 : INFO:连接失败，重新连接
+2017-7-26 10:32:58 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:58 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:58 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:32:59 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:32:59 : ERROR:连接失败
+2017-7-26 10:32:59 : INFO:读取配置文件
+2017-7-26 10:32:59 : INFO:连接失败，重新连接
+2017-7-26 10:32:59 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:32:59 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:32:59 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:33:00 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:33:00 : ERROR:连接失败
+2017-7-26 10:33:00 : INFO:读取配置文件
+2017-7-26 10:33:00 : INFO:连接失败，重新连接
+2017-7-26 10:33:00 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:33:00 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:33:00 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:33:01 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:33:01 : ERROR:连接失败
+2017-7-26 10:33:01 : INFO:读取配置文件
+2017-7-26 10:33:01 : INFO:连接失败，重新连接
+2017-7-26 10:33:01 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:33:01 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:33:01 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:33:02 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:33:02 : ERROR:连接失败
+2017-7-26 10:33:02 : INFO:读取配置文件
+2017-7-26 10:33:02 : INFO:连接失败，重新连接
+2017-7-26 10:33:02 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:33:02 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:33:02 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:33:03 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:33:03 : ERROR:连接失败
+2017-7-26 10:33:03 : INFO:读取配置文件
+2017-7-26 10:33:03 : INFO:连接失败，重新连接
+2017-7-26 10:33:03 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:33:03 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:33:03 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:33:04 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:33:04 : ERROR:连接失败
+2017-7-26 10:33:04 : INFO:读取配置文件
+2017-7-26 10:33:04 : INFO:连接失败，重新连接
+2017-7-26 10:33:04 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:33:05 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:33:05 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:33:06 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:33:06 : ERROR:连接失败
+2017-7-26 10:33:06 : INFO:读取配置文件
+2017-7-26 10:33:06 : INFO:连接失败，重新连接
+2017-7-26 10:33:06 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:33:06 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:33:06 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:33:07 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:33:07 : ERROR:连接失败
+2017-7-26 10:33:07 : INFO:读取配置文件
+2017-7-26 10:33:07 : INFO:连接失败，重新连接
+2017-7-26 10:33:07 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:33:07 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:33:07 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:33:08 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:33:08 : ERROR:连接失败
+2017-7-26 10:33:08 : INFO:读取配置文件
+2017-7-26 10:33:08 : INFO:连接失败，重新连接
+2017-7-26 10:33:08 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:33:08 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:33:08 : INFO:log: level: 0, area: 32, Connection to 172.27.52.47 (172.27.52.47:5333) failed. WSAGetLastError: 10061
+2017-7-26 10:33:09 : INFO:log: level: 2, area: 256, 172.27.52.47: connection refused
+2017-7-26 10:33:09 : ERROR:连接失败
+2017-7-26 10:33:09 : INFO:读取配置文件
+2017-7-26 10:33:09 : INFO:连接失败，重新连接
+2017-7-26 10:33:09 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5333...
+2017-7-26 10:33:09 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5333)
+2017-7-26 10:33:09 : 

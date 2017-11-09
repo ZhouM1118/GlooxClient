@@ -1,0 +1,2257 @@
+INFO:开始登录
+2017-8-10 14:23:59 : INFO:读取配置文件
+2017-8-10 14:23:59 : INFO:连接失败，重新连接
+2017-8-10 14:23:59 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.38:5222...
+2017-8-10 14:23:59 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.38 (172.27.52.38:5222)
+2017-8-10 14:23:59 : INFO:log: level: 0, area: 32, Connection to 172.27.52.38 (172.27.52.38:5222) failed. WSAGetLastError: 10060
+2017-8-10 14:24:20 : INFO:log: level: 2, area: 256, 172.27.52.38: connection refused
+2017-8-10 14:24:20 : ERROR:连接失败
+2017-8-10 14:24:20 : INFO:读取配置文件
+2017-8-10 14:24:30 : INFO:连接失败，重新连接
+2017-8-10 14:24:30 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.38:5222...
+2017-8-10 14:24:30 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.38 (172.27.52.38:5222)
+2017-8-10 14:24:30 : INFO:开始登录
+2017-8-10 14:24:52 : INFO:读取配置文件
+2017-8-10 14:24:52 : INFO:连接失败，重新连接
+2017-8-10 14:24:52 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.8:5222...
+2017-8-10 14:24:52 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.8 (172.27.52.8:5222)
+2017-8-10 14:24:52 : INFO:log: level: 0, area: 32, Connected to 172.27.52.8 (172.27.52.8:5222)
+2017-8-10 14:24:52 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.8' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-8-10 14:24:52 : INFO:第0次循环监听
+2017-8-10 14:24:52 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='5b2lrz4skk' xml:lang='en' version='1.0'/>
+2017-8-10 14:24:52 : INFO:ce = 0
+2017-8-10 14:24:52 : INFO:第1次循环监听
+2017-8-10 14:24:52 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-8-10 14:24:53 : INFO:log: level: 0, area: 262144, <starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-8-10 14:24:53 : INFO:ce = 0
+2017-8-10 14:24:53 : INFO:第2次循环监听
+2017-8-10 14:24:53 : INFO:log: level: 0, area: 131072, <proceed xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-8-10 14:24:53 : INFO:log: level: 0, area: 4, starting TLS handshake...
+2017-8-10 14:24:53 : INFO:ce = 0
+2017-8-10 14:24:53 : INFO:第3次循环监听
+2017-8-10 14:24:53 : INFO:ce = 0
+2017-8-10 14:24:53 : INFO:第4次循环监听
+2017-8-10 14:24:53 : INFO:ce = 0
+2017-8-10 14:24:53 : INFO:第5次循环监听
+2017-8-10 14:24:53 : INFO:status: -842150451,issuer: CN=127.0.0.1,peer: CN=127.0.0.1,protocol: TLSv1,mac: SHA,cipher: AES_128,compression: ,from: Tue Jul 11 06:43:25 2017
+,to: Tue Jul 11 06:43:25 2017
+
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 8, connection encryption active
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.8' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-8-10 14:25:08 : INFO:ce = 0
+2017-8-10 14:25:08 : INFO:第6次循环监听
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='5b2lrz4skk' xml:lang='en' version='1.0'/>
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 262144, <auth xmlns='urn:ietf:params:xml:ns:xmpp-sasl' mechanism='SCRAM-SHA-1'>biwsbj10ZXN0LHI9MDAwMDM5YjgwMDAwN2QyYjAwMDAzOTZjMDAwMDE3OGM=</auth>
+2017-8-10 14:25:08 : INFO:ce = 0
+2017-8-10 14:25:08 : INFO:第7次循环监听
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 131072, <challenge xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>cj0wMDAwMzliODAwMDA3ZDJiMDAwMDM5NmMwMDAwMTc4Y2RhYTJhOGY3LTUzMzAtNGUxMS1hYzE4LWY2M2IyMmQxZjk1MyxzPVVXeURwQWtsdW5kN2h6VUk1ak5OV2I4TUFuYjkrNGllLGk9NDA5Ng==</challenge>
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 4, Processing SASL challenge
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 262144, <response xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>Yz1iaXdzLHI9MDAwMDM5YjgwMDAwN2QyYjAwMDAzOTZjMDAwMDE3OGNkYWEyYThmNy01MzMwLTRlMTEtYWMxOC1mNjNiMjJkMWY5NTMscD04bkg3WU8yVGlwTC8xRVJUTXVKOUpCYjg5Q0E9</response>
+2017-8-10 14:25:08 : INFO:ce = 0
+2017-8-10 14:25:08 : INFO:第8次循环监听
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 131072, <success xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>dj1JdU1UMFhHOGJabFFHejBjTTFUc2F2VWg0enM9</success>
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 4, SASL authentication successful
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.8' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-8-10 14:25:08 : INFO:ce = 0
+2017-8-10 14:25:08 : INFO:第9次循环监听
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='5b2lrz4skk' xml:lang='en' version='1.0'/>
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'/><session xmlns='urn:ietf:params:xml:ns:xmpp-session'><optional/></session><sm xmlns='urn:xmpp:sm:2'/><sm xmlns='urn:xmpp:sm:3'/></stream:features>
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 262144, <iq id='a6b960ed9f3e66906d53d93bf43c1212589964e800000001' type='set' xmlns='jabber:client'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><resource/></bind></iq>
+2017-8-10 14:25:08 : INFO:ce = 0
+2017-8-10 14:25:08 : INFO:第10次循环监听
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 131072, <iq type='result' id='a6b960ed9f3e66906d53d93bf43c1212589964e800000001' to='127.0.0.1/5b2lrz4skk'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><jid>test@127.0.0.1/5b2lrz4skk</jid></bind></iq>
+2017-8-10 14:25:08 : INFO:log: level: 0, area: 262144, <iq id='a6b960ed9f3e66906d53d93bf43c1212589964e800000002' type='set' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'><session xmlns='urn:ietf:params:xml:ns:xmpp-session'/></iq>
+2017-8-10 14:25:09 : INFO:ce = 0
+2017-8-10 14:25:09 : INFO:第11次循环监听
+2017-8-10 14:25:09 : INFO:log: level: 0, area: 131072, <iq type='result' id='a6b960ed9f3e66906d53d93bf43c1212589964e800000002' to='test@127.0.0.1/5b2lrz4skk'/>
+2017-8-10 14:25:09 : INFO:log: level: 0, area: 262144, <iq id='a6b960ed9f3e66906d53d93bf43c1212589964e800000003' type='get' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-8-10 14:25:09 : INFO:log: level: 0, area: 262144, <iq id='a6b960ed9f3e66906d53d93bf43c1212589964e800000004' type='get' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'><query xmlns='jabber:iq:roster'/></iq>
+2017-8-10 14:25:09 : INFO:ce = 0
+2017-8-10 14:25:09 : INFO:第12次循环监听
+2017-8-10 14:25:09 : INFO:log: level: 0, area: 131072, <iq type='result' id='a6b960ed9f3e66906d53d93bf43c1212589964e800000003' to='test@127.0.0.1/5b2lrz4skk'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-8-10 14:25:09 : INFO:ce = 0
+2017-8-10 14:25:09 : INFO:第13次循环监听
+2017-8-10 14:25:09 : INFO:log: level: 0, area: 131072, <iq type='result' id='a6b960ed9f3e66906d53d93bf43c1212589964e800000004' to='test@127.0.0.1/5b2lrz4skk'><query xmlns='jabber:iq:roster'><item jid='admin@127.0.0.1' name='admin' subscription='both'><group>Friends</group></item></query></iq>
+2017-8-10 14:25:09 : INFO:log: level: 0, area: 262144, <presence from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'><priority>0</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://camaya.net/gloox' ver='MCjlOscOkUNT+8QzA5fFJj2oMSU='/></presence>
+2017-8-10 14:25:09 : INFO:连接成功
+2017-8-10 14:25:09 : INFO:ce = 0
+2017-8-10 14:25:14 : INFO:times=0
+2017-8-10 14:25:14 : INFO:第14次循环监听
+2017-8-10 14:25:14 : INFO:log: level: 0, area: 131072, <iq type='get' id='276-1722' to='test@127.0.0.1/5b2lrz4skk' from='127.0.0.1'><query xmlns='http://jabber.org/protocol/disco#info'/></iq>
+2017-8-10 14:25:14 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' from='test@127.0.0.1/5b2lrz4skk' id='276-1722' type='result' xmlns='jabber:client'><query xmlns='http://jabber.org/protocol/disco#info'><identity category='client' type='bot'/><feature var='http://jabber.org/protocol/chatstates'/><feature var='http://jabber.org/protocol/disco#info'/><feature var='http://jabber.org/protocol/disco#items'/><feature var='jabber:iq:version'/><feature var='urn:xmpp:ping'/></query></iq>
+2017-8-10 14:25:14 : INFO:log: level: 0, area: 131072, <presence id='qEyjr-10' from='test@127.0.0.1/Spark' to='test@127.0.0.1/5b2lrz4skk'><status>鍦ㄧ嚎</status><priority>1</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 14:25:14 : INFO:log: level: 0, area: 131072, <presence id='82b6R-123' from='admin@127.0.0.1/Spark' to='test@127.0.0.1/5b2lrz4skk'><status>鍦ㄧ嚎</status><priority>1</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 14:25:14 : INFO:ce = 0
+2017-8-10 14:25:14 : INFO:times=0
+2017-8-10 14:25:14 : INFO:第15次循环监听
+2017-8-10 14:25:14 : INFO:ce = 0
+2017-8-10 14:25:24 : INFO:times=1
+2017-8-10 14:25:24 : INFO:第16次循环监听
+2017-8-10 14:25:24 : INFO:ce = 0
+2017-8-10 14:25:34 : INFO:times=2
+2017-8-10 14:25:34 : INFO:第17次循环监听
+2017-8-10 14:25:34 : INFO:ce = 0
+2017-8-10 14:25:44 : INFO:times=3
+2017-8-10 14:25:44 : INFO:第18次循环监听
+2017-8-10 14:25:44 : INFO:ce = 0
+2017-8-10 14:25:54 : INFO:times=4
+2017-8-10 14:25:54 : INFO:第19次循环监听
+2017-8-10 14:25:54 : INFO:ce = 0
+2017-8-10 14:26:04 : INFO:times=5
+2017-8-10 14:26:04 : INFO:第20次循环监听
+2017-8-10 14:26:04 : INFO:ce = 0
+2017-8-10 14:26:14 : INFO:times=6
+2017-8-10 14:26:14 : INFO:第21次循环监听
+2017-8-10 14:26:14 : INFO:log: level: 0, area: 131072, <iq type='get' id='791-1725' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:26:14 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='791-1725' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:26:14 : INFO:ce = 0
+2017-8-10 14:26:14 : INFO:times=0
+2017-8-10 14:26:14 : INFO:第22次循环监听
+2017-8-10 14:26:14 : INFO:ce = 0
+2017-8-10 14:26:24 : INFO:times=1
+2017-8-10 14:26:24 : INFO:第23次循环监听
+2017-8-10 14:26:24 : INFO:ce = 0
+2017-8-10 14:26:34 : INFO:times=2
+2017-8-10 14:26:34 : INFO:第24次循环监听
+2017-8-10 14:26:34 : INFO:ce = 0
+2017-8-10 14:26:44 : INFO:times=3
+2017-8-10 14:26:44 : INFO:第25次循环监听
+2017-8-10 14:26:44 : INFO:ce = 0
+2017-8-10 14:26:54 : INFO:times=4
+2017-8-10 14:26:54 : INFO:第26次循环监听
+2017-8-10 14:26:54 : INFO:ce = 0
+2017-8-10 14:27:04 : INFO:times=5
+2017-8-10 14:27:04 : INFO:第27次循环监听
+2017-8-10 14:27:04 : INFO:ce = 0
+2017-8-10 14:27:14 : INFO:times=6
+2017-8-10 14:27:14 : INFO:第28次循环监听
+2017-8-10 14:27:14 : INFO:log: level: 0, area: 131072, <iq type='get' id='232-1728' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:27:14 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='232-1728' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:27:14 : INFO:ce = 0
+2017-8-10 14:27:14 : INFO:times=0
+2017-8-10 14:27:14 : INFO:第29次循环监听
+2017-8-10 14:27:14 : INFO:ce = 0
+2017-8-10 14:27:24 : INFO:times=1
+2017-8-10 14:27:24 : INFO:第30次循环监听
+2017-8-10 14:27:24 : INFO:ce = 0
+2017-8-10 14:27:34 : INFO:times=2
+2017-8-10 14:27:34 : INFO:第31次循环监听
+2017-8-10 14:27:34 : INFO:ce = 0
+2017-8-10 14:27:44 : INFO:times=3
+2017-8-10 14:27:44 : INFO:第32次循环监听
+2017-8-10 14:27:44 : INFO:ce = 0
+2017-8-10 14:27:54 : INFO:times=4
+2017-8-10 14:27:54 : INFO:第33次循环监听
+2017-8-10 14:27:54 : INFO:ce = 0
+2017-8-10 14:28:04 : INFO:times=5
+2017-8-10 14:28:04 : INFO:第34次循环监听
+2017-8-10 14:28:04 : INFO:log: level: 0, area: 131072, <presence id='82b6R-203' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>绂诲紑</status><priority>0</priority><show>away</show><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 14:28:14 : INFO:ce = 0
+2017-8-10 14:28:14 : INFO:times=0
+2017-8-10 14:28:14 : INFO:第35次循环监听
+2017-8-10 14:28:14 : INFO:log: level: 0, area: 131072, <iq type='get' id='381-1731' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:28:15 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='381-1731' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:28:15 : INFO:ce = 0
+2017-8-10 14:28:15 : INFO:times=0
+2017-8-10 14:28:15 : INFO:第36次循环监听
+2017-8-10 14:28:15 : INFO:ce = 0
+2017-8-10 14:28:25 : INFO:times=1
+2017-8-10 14:28:25 : INFO:第37次循环监听
+2017-8-10 14:28:25 : INFO:ce = 0
+2017-8-10 14:28:35 : INFO:times=2
+2017-8-10 14:28:35 : INFO:第38次循环监听
+2017-8-10 14:28:35 : INFO:ce = 0
+2017-8-10 14:28:45 : INFO:times=3
+2017-8-10 14:28:45 : INFO:第39次循环监听
+2017-8-10 14:28:45 : INFO:ce = 0
+2017-8-10 14:28:55 : INFO:times=4
+2017-8-10 14:28:55 : INFO:第40次循环监听
+2017-8-10 14:28:55 : INFO:ce = 0
+2017-8-10 14:29:05 : INFO:times=5
+2017-8-10 14:29:05 : INFO:第41次循环监听
+2017-8-10 14:29:05 : INFO:ce = 0
+2017-8-10 14:29:15 : INFO:times=6
+2017-8-10 14:29:15 : INFO:第42次循环监听
+2017-8-10 14:29:15 : INFO:log: level: 0, area: 131072, <iq type='get' id='616-1734' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:29:15 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='616-1734' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:29:15 : INFO:ce = 0
+2017-8-10 14:29:15 : INFO:times=0
+2017-8-10 14:29:15 : INFO:第43次循环监听
+2017-8-10 14:29:15 : INFO:ce = 0
+2017-8-10 14:29:25 : INFO:times=1
+2017-8-10 14:29:25 : INFO:第44次循环监听
+2017-8-10 14:29:25 : INFO:ce = 0
+2017-8-10 14:29:35 : INFO:times=2
+2017-8-10 14:29:35 : INFO:第45次循环监听
+2017-8-10 14:29:35 : INFO:ce = 0
+2017-8-10 14:29:45 : INFO:times=3
+2017-8-10 14:29:45 : INFO:第46次循环监听
+2017-8-10 14:29:45 : INFO:ce = 0
+2017-8-10 14:29:55 : INFO:times=4
+2017-8-10 14:29:55 : INFO:第47次循环监听
+2017-8-10 14:29:55 : INFO:ce = 0
+2017-8-10 14:30:05 : INFO:times=5
+2017-8-10 14:30:05 : INFO:第48次循环监听
+2017-8-10 14:30:05 : INFO:ce = 0
+2017-8-10 14:30:15 : INFO:times=6
+2017-8-10 14:30:15 : INFO:第49次循环监听
+2017-8-10 14:30:15 : INFO:log: level: 0, area: 131072, <iq type='get' id='101-1737' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:30:15 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='101-1737' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:30:16 : INFO:ce = 0
+2017-8-10 14:30:16 : INFO:times=0
+2017-8-10 14:30:16 : INFO:第50次循环监听
+2017-8-10 14:30:16 : INFO:ce = 0
+2017-8-10 14:30:26 : INFO:times=1
+2017-8-10 14:30:26 : INFO:第51次循环监听
+2017-8-10 14:30:26 : INFO:ce = 0
+2017-8-10 14:30:36 : INFO:times=2
+2017-8-10 14:30:36 : INFO:第52次循环监听
+2017-8-10 14:30:36 : INFO:ce = 0
+2017-8-10 14:30:46 : INFO:times=3
+2017-8-10 14:30:46 : INFO:第53次循环监听
+2017-8-10 14:30:46 : INFO:ce = 0
+2017-8-10 14:30:56 : INFO:times=4
+2017-8-10 14:30:56 : INFO:第54次循环监听
+2017-8-10 14:30:56 : INFO:ce = 0
+2017-8-10 14:31:06 : INFO:times=5
+2017-8-10 14:31:06 : INFO:第55次循环监听
+2017-8-10 14:31:06 : INFO:ce = 0
+2017-8-10 14:31:16 : INFO:times=6
+2017-8-10 14:31:16 : INFO:第56次循环监听
+2017-8-10 14:31:16 : INFO:log: level: 0, area: 131072, <iq type='get' id='804-1740' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:31:16 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='804-1740' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:31:16 : INFO:ce = 0
+2017-8-10 14:31:16 : INFO:times=0
+2017-8-10 14:31:16 : INFO:第57次循环监听
+2017-8-10 14:31:16 : INFO:ce = 0
+2017-8-10 14:31:26 : INFO:times=1
+2017-8-10 14:31:26 : INFO:第58次循环监听
+2017-8-10 14:31:26 : INFO:ce = 0
+2017-8-10 14:31:36 : INFO:times=2
+2017-8-10 14:31:36 : INFO:第59次循环监听
+2017-8-10 14:31:36 : INFO:log: level: 0, area: 131072, <presence id='82b6R-123' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>鍦ㄧ嚎</status><priority>1</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 14:31:37 : INFO:ce = 0
+2017-8-10 14:31:37 : INFO:times=0
+2017-8-10 14:31:37 : INFO:第60次循环监听
+2017-8-10 14:31:37 : INFO:ce = 0
+2017-8-10 14:31:47 : INFO:times=1
+2017-8-10 14:31:47 : INFO:第61次循环监听
+2017-8-10 14:31:47 : INFO:ce = 0
+2017-8-10 14:31:57 : INFO:times=2
+2017-8-10 14:31:57 : INFO:第62次循环监听
+2017-8-10 14:31:57 : INFO:ce = 0
+2017-8-10 14:32:07 : INFO:times=3
+2017-8-10 14:32:07 : INFO:第63次循环监听
+2017-8-10 14:32:07 : INFO:log: level: 0, area: 131072, <iq type='get' id='614-1742' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:32:17 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='614-1742' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:32:17 : INFO:ce = 0
+2017-8-10 14:32:17 : INFO:times=0
+2017-8-10 14:32:17 : INFO:第64次循环监听
+2017-8-10 14:32:17 : INFO:ce = 0
+2017-8-10 14:32:27 : INFO:times=1
+2017-8-10 14:32:27 : INFO:第65次循环监听
+2017-8-10 14:32:27 : INFO:ce = 0
+2017-8-10 14:32:37 : INFO:times=2
+2017-8-10 14:32:37 : INFO:第66次循环监听
+2017-8-10 14:32:37 : INFO:ce = 0
+2017-8-10 14:32:47 : INFO:times=3
+2017-8-10 14:32:47 : INFO:第67次循环监听
+2017-8-10 14:32:47 : INFO:ce = 0
+2017-8-10 14:32:57 : INFO:times=4
+2017-8-10 14:32:57 : INFO:第68次循环监听
+2017-8-10 14:32:57 : INFO:ce = 0
+2017-8-10 14:33:07 : INFO:times=5
+2017-8-10 14:33:07 : INFO:第69次循环监听
+2017-8-10 14:33:07 : INFO:ce = 0
+2017-8-10 14:33:17 : INFO:times=6
+2017-8-10 14:33:17 : INFO:第70次循环监听
+2017-8-10 14:33:17 : INFO:log: level: 0, area: 131072, <iq type='get' id='543-1745' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:33:18 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='543-1745' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:33:18 : INFO:ce = 0
+2017-8-10 14:33:18 : INFO:times=0
+2017-8-10 14:33:18 : INFO:第71次循环监听
+2017-8-10 14:33:18 : INFO:ce = 0
+2017-8-10 14:33:28 : INFO:times=1
+2017-8-10 14:33:28 : INFO:第72次循环监听
+2017-8-10 14:33:28 : INFO:ce = 0
+2017-8-10 14:33:38 : INFO:times=2
+2017-8-10 14:33:38 : INFO:第73次循环监听
+2017-8-10 14:33:38 : INFO:ce = 0
+2017-8-10 14:33:48 : INFO:times=3
+2017-8-10 14:33:48 : INFO:第74次循环监听
+2017-8-10 14:33:48 : INFO:ce = 0
+2017-8-10 14:33:58 : INFO:times=4
+2017-8-10 14:33:58 : INFO:第75次循环监听
+2017-8-10 14:33:58 : INFO:ce = 0
+2017-8-10 14:34:08 : INFO:times=5
+2017-8-10 14:34:08 : INFO:第76次循环监听
+2017-8-10 14:34:08 : INFO:ce = 0
+2017-8-10 14:34:18 : INFO:times=6
+2017-8-10 14:34:18 : INFO:第77次循环监听
+2017-8-10 14:34:18 : INFO:log: level: 0, area: 131072, <iq type='get' id='324-1748' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:34:19 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='324-1748' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:34:19 : INFO:ce = 0
+2017-8-10 14:34:19 : INFO:times=0
+2017-8-10 14:34:19 : INFO:第78次循环监听
+2017-8-10 14:34:19 : INFO:ce = 0
+2017-8-10 14:34:29 : INFO:times=1
+2017-8-10 14:34:29 : INFO:第79次循环监听
+2017-8-10 14:34:29 : INFO:ce = 0
+2017-8-10 14:34:39 : INFO:times=2
+2017-8-10 14:34:39 : INFO:第80次循环监听
+2017-8-10 14:34:39 : INFO:ce = 0
+2017-8-10 14:34:49 : INFO:times=3
+2017-8-10 14:34:49 : INFO:第81次循环监听
+2017-8-10 14:34:49 : INFO:ce = 0
+2017-8-10 14:34:59 : INFO:times=4
+2017-8-10 14:34:59 : INFO:第82次循环监听
+2017-8-10 14:34:59 : INFO:ce = 0
+2017-8-10 14:35:09 : INFO:times=5
+2017-8-10 14:35:09 : INFO:第83次循环监听
+2017-8-10 14:35:09 : INFO:ce = 0
+2017-8-10 14:35:19 : INFO:times=6
+2017-8-10 14:35:19 : INFO:第84次循环监听
+2017-8-10 14:35:19 : INFO:log: level: 0, area: 131072, <iq type='get' id='457-1751' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:35:20 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='457-1751' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:35:20 : INFO:ce = 0
+2017-8-10 14:35:20 : INFO:times=0
+2017-8-10 14:35:20 : INFO:第85次循环监听
+2017-8-10 14:35:20 : INFO:ce = 0
+2017-8-10 14:35:30 : INFO:times=1
+2017-8-10 14:35:30 : INFO:第86次循环监听
+2017-8-10 14:35:30 : INFO:ce = 0
+2017-8-10 14:35:40 : INFO:times=2
+2017-8-10 14:35:40 : INFO:第87次循环监听
+2017-8-10 14:35:40 : INFO:ce = 0
+2017-8-10 14:35:50 : INFO:times=3
+2017-8-10 14:35:50 : INFO:第88次循环监听
+2017-8-10 14:35:50 : INFO:ce = 0
+2017-8-10 14:36:00 : INFO:times=4
+2017-8-10 14:36:00 : INFO:第89次循环监听
+2017-8-10 14:36:00 : INFO:ce = 0
+2017-8-10 14:36:10 : INFO:times=5
+2017-8-10 14:36:10 : INFO:第90次循环监听
+2017-8-10 14:36:10 : INFO:ce = 0
+2017-8-10 14:36:20 : INFO:times=6
+2017-8-10 14:36:20 : INFO:第91次循环监听
+2017-8-10 14:36:20 : INFO:log: level: 0, area: 131072, <iq type='get' id='429-1754' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:36:21 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='429-1754' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:36:21 : INFO:ce = 0
+2017-8-10 14:36:21 : INFO:times=0
+2017-8-10 14:36:21 : INFO:第92次循环监听
+2017-8-10 14:36:21 : INFO:ce = 0
+2017-8-10 14:36:31 : INFO:times=1
+2017-8-10 14:36:31 : INFO:第93次循环监听
+2017-8-10 14:36:31 : INFO:ce = 0
+2017-8-10 14:36:41 : INFO:times=2
+2017-8-10 14:36:41 : INFO:第94次循环监听
+2017-8-10 14:36:41 : INFO:ce = 0
+2017-8-10 14:36:51 : INFO:times=3
+2017-8-10 14:36:51 : INFO:第95次循环监听
+2017-8-10 14:36:51 : INFO:ce = 0
+2017-8-10 14:37:01 : INFO:times=4
+2017-8-10 14:37:01 : INFO:第96次循环监听
+2017-8-10 14:37:01 : INFO:ce = 0
+2017-8-10 14:37:11 : INFO:times=5
+2017-8-10 14:37:11 : INFO:第97次循环监听
+2017-8-10 14:37:11 : INFO:ce = 0
+2017-8-10 14:37:21 : INFO:times=6
+2017-8-10 14:37:21 : INFO:第98次循环监听
+2017-8-10 14:37:21 : INFO:log: level: 0, area: 131072, <iq type='get' id='825-1757' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:37:22 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='825-1757' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:37:22 : INFO:ce = 0
+2017-8-10 14:37:22 : INFO:times=0
+2017-8-10 14:37:22 : INFO:第99次循环监听
+2017-8-10 14:37:22 : INFO:ce = 0
+2017-8-10 14:37:32 : INFO:times=1
+2017-8-10 14:37:32 : INFO:第100次循环监听
+2017-8-10 14:37:32 : INFO:ce = 0
+2017-8-10 14:37:42 : INFO:times=2
+2017-8-10 14:37:42 : INFO:第101次循环监听
+2017-8-10 14:37:42 : INFO:ce = 0
+2017-8-10 14:37:52 : INFO:times=3
+2017-8-10 14:37:52 : INFO:第102次循环监听
+2017-8-10 14:37:52 : INFO:ce = 0
+2017-8-10 14:38:02 : INFO:times=4
+2017-8-10 14:38:02 : INFO:第103次循环监听
+2017-8-10 14:38:02 : INFO:ce = 0
+2017-8-10 14:38:12 : INFO:times=5
+2017-8-10 14:38:12 : INFO:第104次循环监听
+2017-8-10 14:38:12 : INFO:ce = 0
+2017-8-10 14:38:22 : INFO:times=6
+2017-8-10 14:38:22 : INFO:第105次循环监听
+2017-8-10 14:38:22 : INFO:log: level: 0, area: 131072, <iq type='get' id='945-1760' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:38:22 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='945-1760' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:38:22 : INFO:ce = 0
+2017-8-10 14:38:22 : INFO:times=0
+2017-8-10 14:38:22 : INFO:第106次循环监听
+2017-8-10 14:38:22 : INFO:ce = 0
+2017-8-10 14:38:32 : INFO:times=1
+2017-8-10 14:38:32 : INFO:第107次循环监听
+2017-8-10 14:38:32 : INFO:ce = 0
+2017-8-10 14:38:42 : INFO:times=2
+2017-8-10 14:38:42 : INFO:第108次循环监听
+2017-8-10 14:38:42 : INFO:log: level: 0, area: 131072, <presence id='82b6R-226' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>绂诲紑</status><priority>0</priority><show>away</show><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 14:38:52 : INFO:ce = 0
+2017-8-10 14:38:52 : INFO:times=0
+2017-8-10 14:38:52 : INFO:第109次循环监听
+2017-8-10 14:38:52 : INFO:ce = 0
+2017-8-10 14:39:02 : INFO:times=1
+2017-8-10 14:39:02 : INFO:第110次循环监听
+2017-8-10 14:39:02 : INFO:ce = 0
+2017-8-10 14:39:12 : INFO:times=2
+2017-8-10 14:39:12 : INFO:第111次循环监听
+2017-8-10 14:39:12 : INFO:ce = 0
+2017-8-10 14:39:22 : INFO:times=3
+2017-8-10 14:39:22 : INFO:第112次循环监听
+2017-8-10 14:39:22 : INFO:log: level: 0, area: 131072, <iq type='get' id='191-1763' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:39:23 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='191-1763' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:39:23 : INFO:ce = 0
+2017-8-10 14:39:23 : INFO:times=0
+2017-8-10 14:39:23 : INFO:第113次循环监听
+2017-8-10 14:39:23 : INFO:ce = 0
+2017-8-10 14:39:33 : INFO:times=1
+2017-8-10 14:39:33 : INFO:第114次循环监听
+2017-8-10 14:39:33 : INFO:ce = 0
+2017-8-10 14:39:43 : INFO:times=2
+2017-8-10 14:39:43 : INFO:第115次循环监听
+2017-8-10 14:39:43 : INFO:ce = 0
+2017-8-10 14:39:53 : INFO:times=3
+2017-8-10 14:39:53 : INFO:第116次循环监听
+2017-8-10 14:39:53 : INFO:ce = 0
+2017-8-10 14:40:03 : INFO:times=4
+2017-8-10 14:40:03 : INFO:第117次循环监听
+2017-8-10 14:40:03 : INFO:ce = 0
+2017-8-10 14:40:13 : INFO:times=5
+2017-8-10 14:40:13 : INFO:第118次循环监听
+2017-8-10 14:40:13 : INFO:ce = 0
+2017-8-10 14:40:23 : INFO:times=6
+2017-8-10 14:40:23 : INFO:第119次循环监听
+2017-8-10 14:40:23 : INFO:log: level: 0, area: 131072, <iq type='get' id='108-1767' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:40:24 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='108-1767' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:40:24 : INFO:ce = 0
+2017-8-10 14:40:24 : INFO:times=0
+2017-8-10 14:40:24 : INFO:第120次循环监听
+2017-8-10 14:40:24 : INFO:log: level: 0, area: 131072, <presence id='82b6R-123' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>鍦ㄧ嚎</status><priority>1</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 14:40:33 : INFO:ce = 0
+2017-8-10 14:40:33 : INFO:times=0
+2017-8-10 14:40:33 : INFO:第121次循环监听
+2017-8-10 14:40:33 : INFO:ce = 0
+2017-8-10 14:40:43 : INFO:times=1
+2017-8-10 14:40:43 : INFO:第122次循环监听
+2017-8-10 14:40:43 : INFO:ce = 0
+2017-8-10 14:40:53 : INFO:times=2
+2017-8-10 14:40:53 : INFO:第123次循环监听
+2017-8-10 14:40:53 : INFO:ce = 0
+2017-8-10 14:41:03 : INFO:times=3
+2017-8-10 14:41:03 : INFO:第124次循环监听
+2017-8-10 14:41:03 : INFO:ce = 0
+2017-8-10 14:41:13 : INFO:times=4
+2017-8-10 14:41:13 : INFO:第125次循环监听
+2017-8-10 14:41:13 : INFO:ce = 0
+2017-8-10 14:41:23 : INFO:times=5
+2017-8-10 14:41:23 : INFO:第126次循环监听
+2017-8-10 14:41:23 : INFO:log: level: 0, area: 131072, <iq type='get' id='900-1769' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:41:24 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='900-1769' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:41:24 : INFO:ce = 0
+2017-8-10 14:41:24 : INFO:times=0
+2017-8-10 14:41:24 : INFO:第127次循环监听
+2017-8-10 14:41:24 : INFO:ce = 0
+2017-8-10 14:41:34 : INFO:times=1
+2017-8-10 14:41:34 : INFO:第128次循环监听
+2017-8-10 14:41:34 : INFO:ce = 0
+2017-8-10 14:41:44 : INFO:times=2
+2017-8-10 14:41:44 : INFO:第129次循环监听
+2017-8-10 14:41:44 : INFO:ce = 0
+2017-8-10 14:41:54 : INFO:times=3
+2017-8-10 14:41:54 : INFO:第130次循环监听
+2017-8-10 14:41:54 : INFO:ce = 0
+2017-8-10 14:42:04 : INFO:times=4
+2017-8-10 14:42:04 : INFO:第131次循环监听
+2017-8-10 14:42:04 : INFO:ce = 0
+2017-8-10 14:42:14 : INFO:times=5
+2017-8-10 14:42:14 : INFO:第132次循环监听
+2017-8-10 14:42:14 : INFO:ce = 0
+2017-8-10 14:42:24 : INFO:times=6
+2017-8-10 14:42:24 : INFO:第133次循环监听
+2017-8-10 14:42:24 : INFO:log: level: 0, area: 131072, <iq type='get' id='153-1772' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:42:24 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='153-1772' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:42:24 : INFO:ce = 0
+2017-8-10 14:42:24 : INFO:times=0
+2017-8-10 14:42:24 : INFO:第134次循环监听
+2017-8-10 14:42:24 : INFO:ce = 0
+2017-8-10 14:42:34 : INFO:times=1
+2017-8-10 14:42:34 : INFO:第135次循环监听
+2017-8-10 14:42:34 : INFO:ce = 0
+2017-8-10 14:42:44 : INFO:times=2
+2017-8-10 14:42:44 : INFO:第136次循环监听
+2017-8-10 14:42:44 : INFO:ce = 0
+2017-8-10 14:42:54 : INFO:times=3
+2017-8-10 14:42:54 : INFO:第137次循环监听
+2017-8-10 14:42:54 : INFO:ce = 0
+2017-8-10 14:43:04 : INFO:times=4
+2017-8-10 14:43:04 : INFO:第138次循环监听
+2017-8-10 14:43:04 : INFO:ce = 0
+2017-8-10 14:43:14 : INFO:times=5
+2017-8-10 14:43:14 : INFO:第139次循环监听
+2017-8-10 14:43:14 : INFO:ce = 0
+2017-8-10 14:43:24 : INFO:times=6
+2017-8-10 14:43:24 : INFO:第140次循环监听
+2017-8-10 14:43:24 : INFO:log: level: 0, area: 131072, <iq type='get' id='756-1774' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:43:25 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='756-1774' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:43:25 : INFO:ce = 0
+2017-8-10 14:43:25 : INFO:times=0
+2017-8-10 14:43:25 : INFO:第141次循环监听
+2017-8-10 14:43:25 : INFO:ce = 0
+2017-8-10 14:43:35 : INFO:times=1
+2017-8-10 14:43:35 : INFO:第142次循环监听
+2017-8-10 14:43:35 : INFO:ce = 0
+2017-8-10 14:43:45 : INFO:times=2
+2017-8-10 14:43:45 : INFO:第143次循环监听
+2017-8-10 14:43:45 : INFO:ce = 0
+2017-8-10 14:43:55 : INFO:times=3
+2017-8-10 14:43:55 : INFO:第144次循环监听
+2017-8-10 14:43:55 : INFO:ce = 0
+2017-8-10 14:44:05 : INFO:times=4
+2017-8-10 14:44:05 : INFO:第145次循环监听
+2017-8-10 14:44:05 : INFO:log: level: 0, area: 131072, <presence id='82b6R-237' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>绂诲紑</status><priority>0</priority><show>away</show><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 14:44:09 : INFO:ce = 0
+2017-8-10 14:44:09 : INFO:times=0
+2017-8-10 14:44:09 : INFO:第146次循环监听
+2017-8-10 14:44:09 : INFO:ce = 0
+2017-8-10 14:44:19 : INFO:times=1
+2017-8-10 14:44:19 : INFO:第147次循环监听
+2017-8-10 14:44:19 : INFO:log: level: 0, area: 131072, <iq type='get' id='857-1776' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:44:26 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='857-1776' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:44:26 : INFO:ce = 0
+2017-8-10 14:44:26 : INFO:times=0
+2017-8-10 14:44:26 : INFO:第148次循环监听
+2017-8-10 14:44:26 : INFO:ce = 0
+2017-8-10 14:44:36 : INFO:times=1
+2017-8-10 14:44:36 : INFO:第149次循环监听
+2017-8-10 14:44:36 : INFO:ce = 0
+2017-8-10 14:44:46 : INFO:times=2
+2017-8-10 14:44:46 : INFO:第150次循环监听
+2017-8-10 14:44:46 : INFO:ce = 0
+2017-8-10 14:44:56 : INFO:times=3
+2017-8-10 14:44:56 : INFO:第151次循环监听
+2017-8-10 14:44:56 : INFO:ce = 0
+2017-8-10 14:45:06 : INFO:times=4
+2017-8-10 14:45:06 : INFO:第152次循环监听
+2017-8-10 14:45:06 : INFO:ce = 0
+2017-8-10 14:45:16 : INFO:times=5
+2017-8-10 14:45:16 : INFO:第153次循环监听
+2017-8-10 14:45:16 : INFO:ce = 0
+2017-8-10 14:45:26 : INFO:times=6
+2017-8-10 14:45:26 : INFO:第154次循环监听
+2017-8-10 14:45:26 : INFO:log: level: 0, area: 131072, <iq type='get' id='64-1780' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:45:27 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='64-1780' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:45:27 : INFO:ce = 0
+2017-8-10 14:45:27 : INFO:times=0
+2017-8-10 14:45:27 : INFO:第155次循环监听
+2017-8-10 14:45:27 : INFO:ce = 0
+2017-8-10 14:45:37 : INFO:times=1
+2017-8-10 14:45:37 : INFO:第156次循环监听
+2017-8-10 14:45:37 : INFO:ce = 0
+2017-8-10 14:45:47 : INFO:times=2
+2017-8-10 14:45:47 : INFO:第157次循环监听
+2017-8-10 14:45:47 : INFO:ce = 0
+2017-8-10 14:45:57 : INFO:times=3
+2017-8-10 14:45:57 : INFO:第158次循环监听
+2017-8-10 14:45:57 : INFO:ce = 0
+2017-8-10 14:46:07 : INFO:times=4
+2017-8-10 14:46:07 : INFO:第159次循环监听
+2017-8-10 14:46:07 : INFO:ce = 0
+2017-8-10 14:46:17 : INFO:times=5
+2017-8-10 14:46:17 : INFO:第160次循环监听
+2017-8-10 14:46:17 : INFO:ce = 0
+2017-8-10 14:46:27 : INFO:times=6
+2017-8-10 14:46:27 : INFO:第161次循环监听
+2017-8-10 14:46:27 : INFO:log: level: 0, area: 131072, <iq type='get' id='300-1782' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:46:28 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='300-1782' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:46:28 : INFO:ce = 0
+2017-8-10 14:46:28 : INFO:times=0
+2017-8-10 14:46:28 : INFO:第162次循环监听
+2017-8-10 14:46:28 : INFO:ce = 0
+2017-8-10 14:46:38 : INFO:times=1
+2017-8-10 14:46:38 : INFO:第163次循环监听
+2017-8-10 14:46:38 : INFO:ce = 0
+2017-8-10 14:46:48 : INFO:times=2
+2017-8-10 14:46:48 : INFO:第164次循环监听
+2017-8-10 14:46:48 : INFO:ce = 0
+2017-8-10 14:46:58 : INFO:times=3
+2017-8-10 14:46:58 : INFO:第165次循环监听
+2017-8-10 14:46:58 : INFO:ce = 0
+2017-8-10 14:47:08 : INFO:times=4
+2017-8-10 14:47:08 : INFO:第166次循环监听
+2017-8-10 14:47:08 : INFO:ce = 0
+2017-8-10 14:47:18 : INFO:times=5
+2017-8-10 14:47:18 : INFO:第167次循环监听
+2017-8-10 14:47:18 : INFO:ce = 0
+2017-8-10 14:47:28 : INFO:times=6
+2017-8-10 14:47:28 : INFO:第168次循环监听
+2017-8-10 14:47:28 : INFO:log: level: 0, area: 131072, <iq type='get' id='126-1785' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:47:29 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='126-1785' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:47:29 : INFO:ce = 0
+2017-8-10 14:47:29 : INFO:times=0
+2017-8-10 14:47:29 : INFO:第169次循环监听
+2017-8-10 14:47:29 : INFO:ce = 0
+2017-8-10 14:47:39 : INFO:times=1
+2017-8-10 14:47:39 : INFO:第170次循环监听
+2017-8-10 14:47:39 : INFO:ce = 0
+2017-8-10 14:47:49 : INFO:times=2
+2017-8-10 14:47:49 : INFO:第171次循环监听
+2017-8-10 14:47:49 : INFO:ce = 0
+2017-8-10 14:47:59 : INFO:times=3
+2017-8-10 14:47:59 : INFO:第172次循环监听
+2017-8-10 14:47:59 : INFO:ce = 0
+2017-8-10 14:48:09 : INFO:times=4
+2017-8-10 14:48:09 : INFO:第173次循环监听
+2017-8-10 14:48:09 : INFO:ce = 0
+2017-8-10 14:48:19 : INFO:times=5
+2017-8-10 14:48:19 : INFO:第174次循环监听
+2017-8-10 14:48:19 : INFO:ce = 0
+2017-8-10 14:48:29 : INFO:times=6
+2017-8-10 14:48:29 : INFO:第175次循环监听
+2017-8-10 14:48:29 : INFO:log: level: 0, area: 131072, <iq type='get' id='711-1788' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:48:29 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='711-1788' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:48:29 : INFO:ce = 0
+2017-8-10 14:48:29 : INFO:times=0
+2017-8-10 14:48:29 : INFO:第176次循环监听
+2017-8-10 14:48:29 : INFO:ce = 0
+2017-8-10 14:48:39 : INFO:times=1
+2017-8-10 14:48:39 : INFO:第177次循环监听
+2017-8-10 14:48:39 : INFO:ce = 0
+2017-8-10 14:48:49 : INFO:times=2
+2017-8-10 14:48:49 : INFO:第178次循环监听
+2017-8-10 14:48:49 : INFO:ce = 0
+2017-8-10 14:48:59 : INFO:times=3
+2017-8-10 14:48:59 : INFO:第179次循环监听
+2017-8-10 14:48:59 : INFO:ce = 0
+2017-8-10 14:49:09 : INFO:times=4
+2017-8-10 14:49:09 : INFO:第180次循环监听
+2017-8-10 14:49:09 : INFO:ce = 0
+2017-8-10 14:49:19 : INFO:times=5
+2017-8-10 14:49:19 : INFO:第181次循环监听
+2017-8-10 14:49:19 : INFO:ce = 0
+2017-8-10 14:49:29 : INFO:times=6
+2017-8-10 14:49:29 : INFO:第182次循环监听
+2017-8-10 14:49:29 : INFO:log: level: 0, area: 131072, <iq type='get' id='638-1792' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:49:30 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='638-1792' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:49:30 : INFO:ce = 0
+2017-8-10 14:49:30 : INFO:times=0
+2017-8-10 14:49:30 : INFO:第183次循环监听
+2017-8-10 14:49:30 : INFO:ce = 0
+2017-8-10 14:49:40 : INFO:times=1
+2017-8-10 14:49:40 : INFO:第184次循环监听
+2017-8-10 14:49:40 : INFO:ce = 0
+2017-8-10 14:49:50 : INFO:times=2
+2017-8-10 14:49:50 : INFO:第185次循环监听
+2017-8-10 14:49:50 : INFO:ce = 0
+2017-8-10 14:50:00 : INFO:times=3
+2017-8-10 14:50:00 : INFO:第186次循环监听
+2017-8-10 14:50:00 : INFO:ce = 0
+2017-8-10 14:50:10 : INFO:times=4
+2017-8-10 14:50:10 : INFO:第187次循环监听
+2017-8-10 14:50:10 : INFO:ce = 0
+2017-8-10 14:50:20 : INFO:times=5
+2017-8-10 14:50:20 : INFO:第188次循环监听
+2017-8-10 14:50:20 : INFO:ce = 0
+2017-8-10 14:50:30 : INFO:times=6
+2017-8-10 14:50:30 : INFO:第189次循环监听
+2017-8-10 14:50:30 : INFO:log: level: 0, area: 131072, <iq type='get' id='140-1794' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:50:31 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='140-1794' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:50:31 : INFO:ce = 0
+2017-8-10 14:50:31 : INFO:times=0
+2017-8-10 14:50:31 : INFO:第190次循环监听
+2017-8-10 14:50:31 : INFO:ce = 0
+2017-8-10 14:50:41 : INFO:times=1
+2017-8-10 14:50:41 : INFO:第191次循环监听
+2017-8-10 14:50:41 : INFO:ce = 0
+2017-8-10 14:50:51 : INFO:times=2
+2017-8-10 14:50:51 : INFO:第192次循环监听
+2017-8-10 14:50:51 : INFO:ce = 0
+2017-8-10 14:51:01 : INFO:times=3
+2017-8-10 14:51:01 : INFO:第193次循环监听
+2017-8-10 14:51:01 : INFO:ce = 0
+2017-8-10 14:51:11 : INFO:times=4
+2017-8-10 14:51:11 : INFO:第194次循环监听
+2017-8-10 14:51:11 : INFO:ce = 0
+2017-8-10 14:51:21 : INFO:times=5
+2017-8-10 14:51:21 : INFO:第195次循环监听
+2017-8-10 14:51:21 : INFO:ce = 0
+2017-8-10 14:51:31 : INFO:times=6
+2017-8-10 14:51:31 : INFO:第196次循环监听
+2017-8-10 14:51:31 : INFO:log: level: 0, area: 131072, <iq type='get' id='928-1798' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:51:32 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='928-1798' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:51:32 : INFO:ce = 0
+2017-8-10 14:51:32 : INFO:times=0
+2017-8-10 14:51:32 : INFO:第197次循环监听
+2017-8-10 14:51:32 : INFO:ce = 0
+2017-8-10 14:51:42 : INFO:times=1
+2017-8-10 14:51:42 : INFO:第198次循环监听
+2017-8-10 14:51:42 : INFO:ce = 0
+2017-8-10 14:51:52 : INFO:times=2
+2017-8-10 14:51:52 : INFO:第199次循环监听
+2017-8-10 14:51:52 : INFO:ce = 0
+2017-8-10 14:52:02 : INFO:times=3
+2017-8-10 14:52:02 : INFO:第200次循环监听
+2017-8-10 14:52:02 : INFO:ce = 0
+2017-8-10 14:52:12 : INFO:times=4
+2017-8-10 14:52:12 : INFO:第201次循环监听
+2017-8-10 14:52:12 : INFO:ce = 0
+2017-8-10 14:52:22 : INFO:times=5
+2017-8-10 14:52:22 : INFO:第202次循环监听
+2017-8-10 14:52:22 : INFO:log: level: 0, area: 131072, <presence id='82b6R-123' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>鍦ㄧ嚎</status><priority>1</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 14:52:31 : INFO:ce = 0
+2017-8-10 14:52:31 : INFO:times=0
+2017-8-10 14:52:31 : INFO:第203次循环监听
+2017-8-10 14:52:31 : INFO:log: level: 0, area: 131072, <iq type='get' id='417-1800' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:52:33 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='417-1800' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:52:33 : INFO:ce = 0
+2017-8-10 14:52:33 : INFO:times=0
+2017-8-10 14:52:33 : INFO:第204次循环监听
+2017-8-10 14:52:33 : INFO:ce = 0
+2017-8-10 14:52:43 : INFO:times=1
+2017-8-10 14:52:43 : INFO:第205次循环监听
+2017-8-10 14:52:43 : INFO:ce = 0
+2017-8-10 14:52:53 : INFO:times=2
+2017-8-10 14:52:53 : INFO:第206次循环监听
+2017-8-10 14:52:53 : INFO:ce = 0
+2017-8-10 14:53:03 : INFO:times=3
+2017-8-10 14:53:03 : INFO:第207次循环监听
+2017-8-10 14:53:03 : INFO:ce = 0
+2017-8-10 14:53:13 : INFO:times=4
+2017-8-10 14:53:13 : INFO:第208次循环监听
+2017-8-10 14:53:13 : INFO:ce = 0
+2017-8-10 14:53:23 : INFO:times=5
+2017-8-10 14:53:23 : INFO:第209次循环监听
+2017-8-10 14:53:23 : INFO:ce = 0
+2017-8-10 14:53:33 : INFO:times=6
+2017-8-10 14:53:33 : INFO:第210次循环监听
+2017-8-10 14:53:33 : INFO:log: level: 0, area: 131072, <iq type='get' id='144-1803' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:53:33 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='144-1803' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:53:33 : INFO:ce = 0
+2017-8-10 14:53:33 : INFO:times=0
+2017-8-10 14:53:33 : INFO:第211次循环监听
+2017-8-10 14:53:33 : INFO:ce = 0
+2017-8-10 14:53:43 : INFO:times=1
+2017-8-10 14:53:43 : INFO:第212次循环监听
+2017-8-10 14:53:43 : INFO:ce = 0
+2017-8-10 14:53:53 : INFO:times=2
+2017-8-10 14:53:53 : INFO:第213次循环监听
+2017-8-10 14:53:53 : INFO:ce = 0
+2017-8-10 14:54:03 : INFO:times=3
+2017-8-10 14:54:03 : INFO:第214次循环监听
+2017-8-10 14:54:03 : INFO:ce = 0
+2017-8-10 14:54:13 : INFO:times=4
+2017-8-10 14:54:13 : INFO:第215次循环监听
+2017-8-10 14:54:13 : INFO:ce = 0
+2017-8-10 14:54:23 : INFO:times=5
+2017-8-10 14:54:23 : INFO:第216次循环监听
+2017-8-10 14:54:23 : INFO:ce = 0
+2017-8-10 14:54:33 : INFO:times=6
+2017-8-10 14:54:33 : INFO:第217次循环监听
+2017-8-10 14:54:33 : INFO:log: level: 0, area: 131072, <iq type='get' id='304-1807' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:54:34 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='304-1807' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:54:34 : INFO:ce = 0
+2017-8-10 14:54:34 : INFO:times=0
+2017-8-10 14:54:34 : INFO:第218次循环监听
+2017-8-10 14:54:34 : INFO:ce = 0
+2017-8-10 14:54:44 : INFO:times=1
+2017-8-10 14:54:44 : INFO:第219次循环监听
+2017-8-10 14:54:44 : INFO:ce = 0
+2017-8-10 14:54:54 : INFO:times=2
+2017-8-10 14:54:54 : INFO:第220次循环监听
+2017-8-10 14:54:54 : INFO:ce = 0
+2017-8-10 14:55:04 : INFO:times=3
+2017-8-10 14:55:04 : INFO:第221次循环监听
+2017-8-10 14:55:04 : INFO:ce = 0
+2017-8-10 14:55:14 : INFO:times=4
+2017-8-10 14:55:14 : INFO:第222次循环监听
+2017-8-10 14:55:14 : INFO:ce = 0
+2017-8-10 14:55:24 : INFO:times=5
+2017-8-10 14:55:24 : INFO:第223次循环监听
+2017-8-10 14:55:24 : INFO:ce = 0
+2017-8-10 14:55:34 : INFO:times=6
+2017-8-10 14:55:34 : INFO:第224次循环监听
+2017-8-10 14:55:34 : INFO:log: level: 0, area: 131072, <iq type='get' id='948-1809' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:55:35 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='948-1809' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:55:35 : INFO:ce = 0
+2017-8-10 14:55:35 : INFO:times=0
+2017-8-10 14:55:35 : INFO:第225次循环监听
+2017-8-10 14:55:35 : INFO:ce = 0
+2017-8-10 14:55:45 : INFO:times=1
+2017-8-10 14:55:45 : INFO:第226次循环监听
+2017-8-10 14:55:45 : INFO:ce = 0
+2017-8-10 14:55:55 : INFO:times=2
+2017-8-10 14:55:55 : INFO:第227次循环监听
+2017-8-10 14:55:55 : INFO:ce = 0
+2017-8-10 14:56:05 : INFO:times=3
+2017-8-10 14:56:05 : INFO:第228次循环监听
+2017-8-10 14:56:05 : INFO:ce = 0
+2017-8-10 14:56:15 : INFO:times=4
+2017-8-10 14:56:15 : INFO:第229次循环监听
+2017-8-10 14:56:15 : INFO:ce = 0
+2017-8-10 14:56:25 : INFO:times=5
+2017-8-10 14:56:25 : INFO:第230次循环监听
+2017-8-10 14:56:25 : INFO:ce = 0
+2017-8-10 14:56:35 : INFO:times=6
+2017-8-10 14:56:35 : INFO:第231次循环监听
+2017-8-10 14:56:35 : INFO:log: level: 0, area: 131072, <iq type='get' id='333-1813' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:56:35 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='333-1813' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:56:35 : INFO:ce = 0
+2017-8-10 14:56:35 : INFO:times=0
+2017-8-10 14:56:35 : INFO:第232次循环监听
+2017-8-10 14:56:35 : INFO:ce = 0
+2017-8-10 14:56:45 : INFO:times=1
+2017-8-10 14:56:45 : INFO:第233次循环监听
+2017-8-10 14:56:45 : INFO:ce = 0
+2017-8-10 14:56:55 : INFO:times=2
+2017-8-10 14:56:55 : INFO:第234次循环监听
+2017-8-10 14:56:55 : INFO:log: level: 0, area: 131072, <presence id='82b6R-264' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>绂诲紑</status><priority>0</priority><show>away</show><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 14:56:58 : INFO:ce = 0
+2017-8-10 14:56:58 : INFO:times=0
+2017-8-10 14:56:58 : INFO:第235次循环监听
+2017-8-10 14:56:58 : INFO:ce = 0
+2017-8-10 14:57:08 : INFO:times=1
+2017-8-10 14:57:08 : INFO:第236次循环监听
+2017-8-10 14:57:08 : INFO:ce = 0
+2017-8-10 14:57:18 : INFO:times=2
+2017-8-10 14:57:18 : INFO:第237次循环监听
+2017-8-10 14:57:18 : INFO:ce = 0
+2017-8-10 14:57:28 : INFO:times=3
+2017-8-10 14:57:28 : INFO:第238次循环监听
+2017-8-10 14:57:28 : INFO:log: level: 0, area: 131072, <iq type='get' id='17-1814' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:57:36 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='17-1814' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:57:36 : INFO:ce = 0
+2017-8-10 14:57:36 : INFO:times=0
+2017-8-10 14:57:36 : INFO:第239次循环监听
+2017-8-10 14:57:36 : INFO:ce = 0
+2017-8-10 14:57:46 : INFO:times=1
+2017-8-10 14:57:46 : INFO:第240次循环监听
+2017-8-10 14:57:46 : INFO:ce = 0
+2017-8-10 14:57:56 : INFO:times=2
+2017-8-10 14:57:56 : INFO:第241次循环监听
+2017-8-10 14:57:56 : INFO:ce = 0
+2017-8-10 14:58:06 : INFO:times=3
+2017-8-10 14:58:06 : INFO:第242次循环监听
+2017-8-10 14:58:06 : INFO:ce = 0
+2017-8-10 14:58:16 : INFO:times=4
+2017-8-10 14:58:16 : INFO:第243次循环监听
+2017-8-10 14:58:16 : INFO:ce = 0
+2017-8-10 14:58:26 : INFO:times=5
+2017-8-10 14:58:26 : INFO:第244次循环监听
+2017-8-10 14:58:26 : INFO:log: level: 0, area: 131072, <iq type='get' id='212-1817' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:58:36 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='212-1817' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:58:36 : INFO:ce = 0
+2017-8-10 14:58:36 : INFO:times=0
+2017-8-10 14:58:36 : INFO:第245次循环监听
+2017-8-10 14:58:36 : INFO:ce = 0
+2017-8-10 14:58:46 : INFO:times=1
+2017-8-10 14:58:46 : INFO:第246次循环监听
+2017-8-10 14:58:46 : INFO:ce = 0
+2017-8-10 14:58:56 : INFO:times=2
+2017-8-10 14:58:56 : INFO:第247次循环监听
+2017-8-10 14:58:56 : INFO:ce = 0
+2017-8-10 14:59:06 : INFO:times=3
+2017-8-10 14:59:06 : INFO:第248次循环监听
+2017-8-10 14:59:06 : INFO:ce = 0
+2017-8-10 14:59:16 : INFO:times=4
+2017-8-10 14:59:16 : INFO:第249次循环监听
+2017-8-10 14:59:16 : INFO:ce = 0
+2017-8-10 14:59:26 : INFO:times=5
+2017-8-10 14:59:26 : INFO:第250次循环监听
+2017-8-10 14:59:26 : INFO:ce = 0
+2017-8-10 14:59:36 : INFO:times=6
+2017-8-10 14:59:36 : INFO:第251次循环监听
+2017-8-10 14:59:36 : INFO:log: level: 0, area: 131072, <iq type='get' id='853-1821' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 14:59:37 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='853-1821' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 14:59:37 : INFO:ce = 0
+2017-8-10 14:59:37 : INFO:times=0
+2017-8-10 14:59:37 : INFO:第252次循环监听
+2017-8-10 14:59:37 : INFO:ce = 0
+2017-8-10 14:59:47 : INFO:times=1
+2017-8-10 14:59:47 : INFO:第253次循环监听
+2017-8-10 14:59:47 : INFO:ce = 0
+2017-8-10 14:59:57 : INFO:times=2
+2017-8-10 14:59:57 : INFO:第254次循环监听
+2017-8-10 14:59:57 : INFO:ce = 0
+2017-8-10 15:00:07 : INFO:times=3
+2017-8-10 15:00:07 : INFO:第255次循环监听
+2017-8-10 15:00:07 : INFO:ce = 0
+2017-8-10 15:00:17 : INFO:times=4
+2017-8-10 15:00:17 : INFO:第256次循环监听
+2017-8-10 15:00:17 : INFO:ce = 0
+2017-8-10 15:00:27 : INFO:times=5
+2017-8-10 15:00:27 : INFO:第257次循环监听
+2017-8-10 15:00:27 : INFO:ce = 0
+2017-8-10 15:00:37 : INFO:times=6
+2017-8-10 15:00:37 : INFO:第258次循环监听
+2017-8-10 15:00:37 : INFO:log: level: 0, area: 131072, <iq type='get' id='695-1824' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:00:38 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='695-1824' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:00:38 : INFO:ce = 0
+2017-8-10 15:00:38 : INFO:times=0
+2017-8-10 15:00:38 : INFO:第259次循环监听
+2017-8-10 15:00:38 : INFO:ce = 0
+2017-8-10 15:00:48 : INFO:times=1
+2017-8-10 15:00:48 : INFO:第260次循环监听
+2017-8-10 15:00:48 : INFO:ce = 0
+2017-8-10 15:00:58 : INFO:times=2
+2017-8-10 15:00:58 : INFO:第261次循环监听
+2017-8-10 15:00:58 : INFO:ce = 0
+2017-8-10 15:01:08 : INFO:times=3
+2017-8-10 15:01:08 : INFO:第262次循环监听
+2017-8-10 15:01:08 : INFO:ce = 0
+2017-8-10 15:01:18 : INFO:times=4
+2017-8-10 15:01:18 : INFO:第263次循环监听
+2017-8-10 15:01:18 : INFO:ce = 0
+2017-8-10 15:01:28 : INFO:times=5
+2017-8-10 15:01:28 : INFO:第264次循环监听
+2017-8-10 15:01:28 : INFO:ce = 0
+2017-8-10 15:01:38 : INFO:times=6
+2017-8-10 15:01:38 : INFO:第265次循环监听
+2017-8-10 15:01:38 : INFO:log: level: 0, area: 131072, <iq type='get' id='787-1827' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:01:39 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='787-1827' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:01:39 : INFO:ce = 0
+2017-8-10 15:01:39 : INFO:times=0
+2017-8-10 15:01:39 : INFO:第266次循环监听
+2017-8-10 15:01:39 : INFO:ce = 0
+2017-8-10 15:01:49 : INFO:times=1
+2017-8-10 15:01:49 : INFO:第267次循环监听
+2017-8-10 15:01:49 : INFO:ce = 0
+2017-8-10 15:01:59 : INFO:times=2
+2017-8-10 15:01:59 : INFO:第268次循环监听
+2017-8-10 15:01:59 : INFO:ce = 0
+2017-8-10 15:02:09 : INFO:times=3
+2017-8-10 15:02:09 : INFO:第269次循环监听
+2017-8-10 15:02:09 : INFO:ce = 0
+2017-8-10 15:02:19 : INFO:times=4
+2017-8-10 15:02:19 : INFO:第270次循环监听
+2017-8-10 15:02:19 : INFO:ce = 0
+2017-8-10 15:02:29 : INFO:times=5
+2017-8-10 15:02:29 : INFO:第271次循环监听
+2017-8-10 15:02:29 : INFO:ce = 0
+2017-8-10 15:02:39 : INFO:times=6
+2017-8-10 15:02:39 : INFO:第272次循环监听
+2017-8-10 15:02:39 : INFO:log: level: 0, area: 131072, <iq type='get' id='119-1830' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:02:39 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='119-1830' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:02:39 : INFO:ce = 0
+2017-8-10 15:02:39 : INFO:times=0
+2017-8-10 15:02:39 : INFO:第273次循环监听
+2017-8-10 15:02:39 : INFO:ce = 0
+2017-8-10 15:02:49 : INFO:times=1
+2017-8-10 15:02:49 : INFO:第274次循环监听
+2017-8-10 15:02:49 : INFO:ce = 0
+2017-8-10 15:02:59 : INFO:times=2
+2017-8-10 15:02:59 : INFO:第275次循环监听
+2017-8-10 15:02:59 : INFO:ce = 0
+2017-8-10 15:03:09 : INFO:times=3
+2017-8-10 15:03:09 : INFO:第276次循环监听
+2017-8-10 15:03:09 : INFO:ce = 0
+2017-8-10 15:03:19 : INFO:times=4
+2017-8-10 15:03:19 : INFO:第277次循环监听
+2017-8-10 15:03:19 : INFO:ce = 0
+2017-8-10 15:03:29 : INFO:times=5
+2017-8-10 15:03:29 : INFO:第278次循环监听
+2017-8-10 15:03:29 : INFO:ce = 0
+2017-8-10 15:03:39 : INFO:times=6
+2017-8-10 15:03:39 : INFO:第279次循环监听
+2017-8-10 15:03:39 : INFO:log: level: 0, area: 131072, <iq type='get' id='91-1833' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:03:40 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='91-1833' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:03:40 : INFO:ce = 0
+2017-8-10 15:03:40 : INFO:times=0
+2017-8-10 15:03:40 : INFO:第280次循环监听
+2017-8-10 15:03:40 : INFO:ce = 0
+2017-8-10 15:03:50 : INFO:times=1
+2017-8-10 15:03:50 : INFO:第281次循环监听
+2017-8-10 15:03:50 : INFO:ce = 0
+2017-8-10 15:04:00 : INFO:times=2
+2017-8-10 15:04:00 : INFO:第282次循环监听
+2017-8-10 15:04:00 : INFO:ce = 0
+2017-8-10 15:04:10 : INFO:times=3
+2017-8-10 15:04:10 : INFO:第283次循环监听
+2017-8-10 15:04:10 : INFO:ce = 0
+2017-8-10 15:04:20 : INFO:times=4
+2017-8-10 15:04:20 : INFO:第284次循环监听
+2017-8-10 15:04:20 : INFO:ce = 0
+2017-8-10 15:04:30 : INFO:times=5
+2017-8-10 15:04:30 : INFO:第285次循环监听
+2017-8-10 15:04:30 : INFO:ce = 0
+2017-8-10 15:04:40 : INFO:times=6
+2017-8-10 15:04:40 : INFO:第286次循环监听
+2017-8-10 15:04:40 : INFO:log: level: 0, area: 131072, <iq type='get' id='715-1836' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:04:41 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='715-1836' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:04:41 : INFO:ce = 0
+2017-8-10 15:04:41 : INFO:times=0
+2017-8-10 15:04:41 : INFO:第287次循环监听
+2017-8-10 15:04:41 : INFO:ce = 0
+2017-8-10 15:04:51 : INFO:times=1
+2017-8-10 15:04:51 : INFO:第288次循环监听
+2017-8-10 15:04:51 : INFO:ce = 0
+2017-8-10 15:05:01 : INFO:times=2
+2017-8-10 15:05:01 : INFO:第289次循环监听
+2017-8-10 15:05:01 : INFO:ce = 0
+2017-8-10 15:05:11 : INFO:times=3
+2017-8-10 15:05:11 : INFO:第290次循环监听
+2017-8-10 15:05:11 : INFO:log: level: 0, area: 131072, <presence id='82b6R-123' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>鍦ㄧ嚎</status><priority>1</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 15:05:12 : INFO:ce = 0
+2017-8-10 15:05:12 : INFO:times=0
+2017-8-10 15:05:12 : INFO:第291次循环监听
+2017-8-10 15:05:12 : INFO:ce = 0
+2017-8-10 15:05:22 : INFO:times=1
+2017-8-10 15:05:22 : INFO:第292次循环监听
+2017-8-10 15:05:22 : INFO:ce = 0
+2017-8-10 15:05:32 : INFO:times=2
+2017-8-10 15:05:32 : INFO:第293次循环监听
+2017-8-10 15:05:32 : INFO:log: level: 0, area: 131072, <iq type='get' id='511-1839' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:05:41 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='511-1839' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:05:41 : INFO:ce = 0
+2017-8-10 15:05:41 : INFO:times=0
+2017-8-10 15:05:41 : INFO:第294次循环监听
+2017-8-10 15:05:41 : INFO:ce = 0
+2017-8-10 15:05:51 : INFO:times=1
+2017-8-10 15:05:51 : INFO:第295次循环监听
+2017-8-10 15:05:51 : INFO:ce = 0
+2017-8-10 15:06:01 : INFO:times=2
+2017-8-10 15:06:01 : INFO:第296次循环监听
+2017-8-10 15:06:01 : INFO:ce = 0
+2017-8-10 15:06:11 : INFO:times=3
+2017-8-10 15:06:11 : INFO:第297次循环监听
+2017-8-10 15:06:11 : INFO:ce = 0
+2017-8-10 15:06:21 : INFO:times=4
+2017-8-10 15:06:21 : INFO:第298次循环监听
+2017-8-10 15:06:21 : INFO:ce = 0
+2017-8-10 15:06:31 : INFO:times=5
+2017-8-10 15:06:31 : INFO:第299次循环监听
+2017-8-10 15:06:31 : INFO:ce = 0
+2017-8-10 15:06:41 : INFO:times=6
+2017-8-10 15:06:41 : INFO:第300次循环监听
+2017-8-10 15:06:41 : INFO:log: level: 0, area: 131072, <iq type='get' id='321-1842' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:06:41 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='321-1842' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:06:41 : INFO:ce = 0
+2017-8-10 15:06:41 : INFO:times=0
+2017-8-10 15:06:41 : INFO:第301次循环监听
+2017-8-10 15:06:41 : INFO:ce = 0
+2017-8-10 15:06:51 : INFO:times=1
+2017-8-10 15:06:51 : INFO:第302次循环监听
+2017-8-10 15:06:51 : INFO:ce = 0
+2017-8-10 15:07:01 : INFO:times=2
+2017-8-10 15:07:01 : INFO:第303次循环监听
+2017-8-10 15:07:01 : INFO:ce = 0
+2017-8-10 15:07:11 : INFO:times=3
+2017-8-10 15:07:11 : INFO:第304次循环监听
+2017-8-10 15:07:11 : INFO:ce = 0
+2017-8-10 15:07:21 : INFO:times=4
+2017-8-10 15:07:21 : INFO:第305次循环监听
+2017-8-10 15:07:21 : INFO:ce = 0
+2017-8-10 15:07:31 : INFO:times=5
+2017-8-10 15:07:31 : INFO:第306次循环监听
+2017-8-10 15:07:31 : INFO:ce = 0
+2017-8-10 15:07:41 : INFO:times=6
+2017-8-10 15:07:41 : INFO:第307次循环监听
+2017-8-10 15:07:41 : INFO:log: level: 0, area: 131072, <iq type='get' id='374-1845' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:07:41 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='374-1845' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:07:42 : INFO:ce = 0
+2017-8-10 15:07:42 : INFO:times=0
+2017-8-10 15:07:42 : INFO:第308次循环监听
+2017-8-10 15:07:42 : INFO:ce = 0
+2017-8-10 15:07:52 : INFO:times=1
+2017-8-10 15:07:52 : INFO:第309次循环监听
+2017-8-10 15:07:52 : INFO:ce = 0
+2017-8-10 15:08:02 : INFO:times=2
+2017-8-10 15:08:02 : INFO:第310次循环监听
+2017-8-10 15:08:02 : INFO:ce = 0
+2017-8-10 15:08:12 : INFO:times=3
+2017-8-10 15:08:12 : INFO:第311次循环监听
+2017-8-10 15:08:12 : INFO:ce = 0
+2017-8-10 15:08:22 : INFO:times=4
+2017-8-10 15:08:22 : INFO:第312次循环监听
+2017-8-10 15:08:22 : INFO:ce = 0
+2017-8-10 15:08:32 : INFO:times=5
+2017-8-10 15:08:32 : INFO:第313次循环监听
+2017-8-10 15:08:32 : INFO:ce = 0
+2017-8-10 15:08:42 : INFO:times=6
+2017-8-10 15:08:42 : INFO:第314次循环监听
+2017-8-10 15:08:42 : INFO:log: level: 0, area: 131072, <iq type='get' id='85-1847' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:08:42 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='85-1847' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:08:42 : INFO:ce = 0
+2017-8-10 15:08:42 : INFO:times=0
+2017-8-10 15:08:42 : INFO:第315次循环监听
+2017-8-10 15:08:42 : INFO:log: level: 0, area: 131072, <presence id='82b6R-289' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>绂诲紑</status><priority>0</priority><show>away</show><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 15:08:48 : INFO:ce = 0
+2017-8-10 15:08:48 : INFO:times=0
+2017-8-10 15:08:48 : INFO:第316次循环监听
+2017-8-10 15:08:48 : INFO:ce = 0
+2017-8-10 15:08:58 : INFO:times=1
+2017-8-10 15:08:58 : INFO:第317次循环监听
+2017-8-10 15:08:58 : INFO:ce = 0
+2017-8-10 15:09:08 : INFO:times=2
+2017-8-10 15:09:08 : INFO:第318次循环监听
+2017-8-10 15:09:08 : INFO:ce = 0
+2017-8-10 15:09:18 : INFO:times=3
+2017-8-10 15:09:18 : INFO:第319次循环监听
+2017-8-10 15:09:18 : INFO:ce = 0
+2017-8-10 15:09:28 : INFO:times=4
+2017-8-10 15:09:28 : INFO:第320次循环监听
+2017-8-10 15:09:28 : INFO:ce = 0
+2017-8-10 15:09:38 : INFO:times=5
+2017-8-10 15:09:38 : INFO:第321次循环监听
+2017-8-10 15:09:38 : INFO:log: level: 0, area: 131072, <iq type='get' id='371-1849' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:09:42 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='371-1849' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:09:42 : INFO:ce = 0
+2017-8-10 15:09:42 : INFO:times=0
+2017-8-10 15:09:42 : INFO:第322次循环监听
+2017-8-10 15:09:42 : INFO:ce = 0
+2017-8-10 15:09:52 : INFO:times=1
+2017-8-10 15:09:52 : INFO:第323次循环监听
+2017-8-10 15:09:52 : INFO:ce = 0
+2017-8-10 15:10:02 : INFO:times=2
+2017-8-10 15:10:02 : INFO:第324次循环监听
+2017-8-10 15:10:02 : INFO:ce = 0
+2017-8-10 15:10:12 : INFO:times=3
+2017-8-10 15:10:12 : INFO:第325次循环监听
+2017-8-10 15:10:12 : INFO:ce = 0
+2017-8-10 15:10:22 : INFO:times=4
+2017-8-10 15:10:22 : INFO:第326次循环监听
+2017-8-10 15:10:22 : INFO:ce = 0
+2017-8-10 15:10:32 : INFO:times=5
+2017-8-10 15:10:32 : INFO:第327次循环监听
+2017-8-10 15:10:32 : INFO:ce = 0
+2017-8-10 15:10:42 : INFO:times=6
+2017-8-10 15:10:42 : INFO:第328次循环监听
+2017-8-10 15:10:42 : INFO:log: level: 0, area: 131072, <iq type='get' id='135-1852' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:10:42 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='135-1852' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:10:42 : INFO:ce = 0
+2017-8-10 15:10:42 : INFO:times=0
+2017-8-10 15:10:42 : INFO:第329次循环监听
+2017-8-10 15:10:42 : INFO:ce = 0
+2017-8-10 15:10:52 : INFO:times=1
+2017-8-10 15:10:52 : INFO:第330次循环监听
+2017-8-10 15:10:52 : INFO:ce = 0
+2017-8-10 15:11:02 : INFO:times=2
+2017-8-10 15:11:02 : INFO:第331次循环监听
+2017-8-10 15:11:02 : INFO:ce = 0
+2017-8-10 15:11:12 : INFO:times=3
+2017-8-10 15:11:12 : INFO:第332次循环监听
+2017-8-10 15:11:12 : INFO:ce = 0
+2017-8-10 15:11:22 : INFO:times=4
+2017-8-10 15:11:22 : INFO:第333次循环监听
+2017-8-10 15:11:22 : INFO:ce = 0
+2017-8-10 15:11:32 : INFO:times=5
+2017-8-10 15:11:32 : INFO:第334次循环监听
+2017-8-10 15:11:32 : INFO:ce = 0
+2017-8-10 15:11:42 : INFO:times=6
+2017-8-10 15:11:42 : INFO:第335次循环监听
+2017-8-10 15:11:42 : INFO:log: level: 0, area: 131072, <iq type='get' id='590-1855' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:11:43 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='590-1855' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:11:43 : INFO:ce = 0
+2017-8-10 15:11:43 : INFO:times=0
+2017-8-10 15:11:43 : INFO:第336次循环监听
+2017-8-10 15:11:43 : INFO:ce = 0
+2017-8-10 15:11:53 : INFO:times=1
+2017-8-10 15:11:53 : INFO:第337次循环监听
+2017-8-10 15:11:53 : INFO:ce = 0
+2017-8-10 15:12:03 : INFO:times=2
+2017-8-10 15:12:03 : INFO:第338次循环监听
+2017-8-10 15:12:03 : INFO:ce = 0
+2017-8-10 15:12:13 : INFO:times=3
+2017-8-10 15:12:13 : INFO:第339次循环监听
+2017-8-10 15:12:13 : INFO:ce = 0
+2017-8-10 15:12:23 : INFO:times=4
+2017-8-10 15:12:23 : INFO:第340次循环监听
+2017-8-10 15:12:23 : INFO:ce = 0
+2017-8-10 15:12:33 : INFO:times=5
+2017-8-10 15:12:33 : INFO:第341次循环监听
+2017-8-10 15:12:33 : INFO:ce = 0
+2017-8-10 15:12:43 : INFO:times=6
+2017-8-10 15:12:43 : INFO:第342次循环监听
+2017-8-10 15:12:43 : INFO:log: level: 0, area: 131072, <iq type='get' id='98-1858' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:12:44 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='98-1858' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:12:44 : INFO:ce = 0
+2017-8-10 15:12:44 : INFO:times=0
+2017-8-10 15:12:44 : INFO:第343次循环监听
+2017-8-10 15:12:44 : INFO:ce = 0
+2017-8-10 15:12:54 : INFO:times=1
+2017-8-10 15:12:54 : INFO:第344次循环监听
+2017-8-10 15:12:54 : INFO:ce = 0
+2017-8-10 15:13:04 : INFO:times=2
+2017-8-10 15:13:04 : INFO:第345次循环监听
+2017-8-10 15:13:04 : INFO:ce = 0
+2017-8-10 15:13:14 : INFO:times=3
+2017-8-10 15:13:14 : INFO:第346次循环监听
+2017-8-10 15:13:14 : INFO:ce = 0
+2017-8-10 15:13:24 : INFO:times=4
+2017-8-10 15:13:24 : INFO:第347次循环监听
+2017-8-10 15:13:24 : INFO:ce = 0
+2017-8-10 15:13:34 : INFO:times=5
+2017-8-10 15:13:34 : INFO:第348次循环监听
+2017-8-10 15:13:34 : INFO:ce = 0
+2017-8-10 15:13:44 : INFO:times=6
+2017-8-10 15:13:44 : INFO:第349次循环监听
+2017-8-10 15:13:44 : INFO:log: level: 0, area: 131072, <iq type='get' id='334-1861' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:13:44 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='334-1861' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:13:44 : INFO:ce = 0
+2017-8-10 15:13:44 : INFO:times=0
+2017-8-10 15:13:44 : INFO:第350次循环监听
+2017-8-10 15:13:44 : INFO:ce = 0
+2017-8-10 15:13:54 : INFO:times=1
+2017-8-10 15:13:54 : INFO:第351次循环监听
+2017-8-10 15:13:54 : INFO:ce = 0
+2017-8-10 15:14:04 : INFO:times=2
+2017-8-10 15:14:04 : INFO:第352次循环监听
+2017-8-10 15:14:04 : INFO:ce = 0
+2017-8-10 15:14:14 : INFO:times=3
+2017-8-10 15:14:14 : INFO:第353次循环监听
+2017-8-10 15:14:14 : INFO:ce = 0
+2017-8-10 15:14:24 : INFO:times=4
+2017-8-10 15:14:24 : INFO:第354次循环监听
+2017-8-10 15:14:24 : INFO:ce = 0
+2017-8-10 15:14:34 : INFO:times=5
+2017-8-10 15:14:34 : INFO:第355次循环监听
+2017-8-10 15:14:34 : INFO:ce = 0
+2017-8-10 15:14:44 : INFO:times=6
+2017-8-10 15:14:44 : INFO:第356次循环监听
+2017-8-10 15:14:44 : INFO:log: level: 0, area: 131072, <iq type='get' id='292-1864' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:14:45 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='292-1864' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:14:45 : INFO:ce = 0
+2017-8-10 15:14:45 : INFO:times=0
+2017-8-10 15:14:45 : INFO:第357次循环监听
+2017-8-10 15:14:45 : INFO:ce = 0
+2017-8-10 15:14:55 : INFO:times=1
+2017-8-10 15:14:55 : INFO:第358次循环监听
+2017-8-10 15:14:55 : INFO:ce = 0
+2017-8-10 15:15:05 : INFO:times=2
+2017-8-10 15:15:05 : INFO:第359次循环监听
+2017-8-10 15:15:05 : INFO:ce = 0
+2017-8-10 15:15:15 : INFO:times=3
+2017-8-10 15:15:15 : INFO:第360次循环监听
+2017-8-10 15:15:15 : INFO:ce = 0
+2017-8-10 15:15:25 : INFO:times=4
+2017-8-10 15:15:25 : INFO:第361次循环监听
+2017-8-10 15:15:25 : INFO:ce = 0
+2017-8-10 15:15:35 : INFO:times=5
+2017-8-10 15:15:35 : INFO:第362次循环监听
+2017-8-10 15:15:35 : INFO:ce = 0
+2017-8-10 15:15:45 : INFO:times=6
+2017-8-10 15:15:45 : INFO:第363次循环监听
+2017-8-10 15:15:45 : INFO:log: level: 0, area: 131072, <iq type='get' id='985-1867' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:15:46 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='985-1867' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:15:46 : INFO:ce = 0
+2017-8-10 15:15:46 : INFO:times=0
+2017-8-10 15:15:46 : INFO:第364次循环监听
+2017-8-10 15:15:46 : INFO:ce = 0
+2017-8-10 15:15:56 : INFO:times=1
+2017-8-10 15:15:56 : INFO:第365次循环监听
+2017-8-10 15:15:56 : INFO:ce = 0
+2017-8-10 15:16:06 : INFO:times=2
+2017-8-10 15:16:06 : INFO:第366次循环监听
+2017-8-10 15:16:06 : INFO:ce = 0
+2017-8-10 15:16:16 : INFO:times=3
+2017-8-10 15:16:16 : INFO:第367次循环监听
+2017-8-10 15:16:16 : INFO:ce = 0
+2017-8-10 15:16:26 : INFO:times=4
+2017-8-10 15:16:26 : INFO:第368次循环监听
+2017-8-10 15:16:26 : INFO:ce = 0
+2017-8-10 15:16:36 : INFO:times=5
+2017-8-10 15:16:36 : INFO:第369次循环监听
+2017-8-10 15:16:36 : INFO:ce = 0
+2017-8-10 15:16:46 : INFO:times=6
+2017-8-10 15:16:46 : INFO:第370次循环监听
+2017-8-10 15:16:46 : INFO:log: level: 0, area: 131072, <iq type='get' id='447-1870' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:16:46 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='447-1870' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:16:46 : INFO:ce = 0
+2017-8-10 15:16:46 : INFO:times=0
+2017-8-10 15:16:46 : INFO:第371次循环监听
+2017-8-10 15:16:46 : INFO:ce = 0
+2017-8-10 15:16:56 : INFO:times=1
+2017-8-10 15:16:56 : INFO:第372次循环监听
+2017-8-10 15:16:56 : INFO:ce = 0
+2017-8-10 15:17:06 : INFO:times=2
+2017-8-10 15:17:06 : INFO:第373次循环监听
+2017-8-10 15:17:07 : INFO:ce = 0
+2017-8-10 15:17:17 : INFO:times=3
+2017-8-10 15:17:17 : INFO:第374次循环监听
+2017-8-10 15:17:17 : INFO:ce = 0
+2017-8-10 15:17:27 : INFO:times=4
+2017-8-10 15:17:27 : INFO:第375次循环监听
+2017-8-10 15:17:27 : INFO:ce = 0
+2017-8-10 15:17:37 : INFO:times=5
+2017-8-10 15:17:37 : INFO:第376次循环监听
+2017-8-10 15:17:37 : INFO:ce = 0
+2017-8-10 15:17:47 : INFO:times=6
+2017-8-10 15:17:47 : INFO:第377次循环监听
+2017-8-10 15:17:47 : INFO:log: level: 0, area: 131072, <iq type='get' id='646-1873' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:17:47 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='646-1873' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:17:47 : INFO:ce = 0
+2017-8-10 15:17:47 : INFO:times=0
+2017-8-10 15:17:47 : INFO:第378次循环监听
+2017-8-10 15:17:47 : INFO:ce = 0
+2017-8-10 15:17:57 : INFO:times=1
+2017-8-10 15:17:57 : INFO:第379次循环监听
+2017-8-10 15:17:57 : INFO:ce = 0
+2017-8-10 15:18:07 : INFO:times=2
+2017-8-10 15:18:07 : INFO:第380次循环监听
+2017-8-10 15:18:07 : INFO:ce = 0
+2017-8-10 15:18:17 : INFO:times=3
+2017-8-10 15:18:17 : INFO:第381次循环监听
+2017-8-10 15:18:17 : INFO:ce = 0
+2017-8-10 15:18:27 : INFO:times=4
+2017-8-10 15:18:27 : INFO:第382次循环监听
+2017-8-10 15:18:27 : INFO:ce = 0
+2017-8-10 15:18:37 : INFO:times=5
+2017-8-10 15:18:37 : INFO:第383次循环监听
+2017-8-10 15:18:37 : INFO:ce = 0
+2017-8-10 15:18:47 : INFO:times=6
+2017-8-10 15:18:47 : INFO:第384次循环监听
+2017-8-10 15:18:47 : INFO:log: level: 0, area: 131072, <iq type='get' id='468-1876' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:18:48 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='468-1876' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:18:48 : INFO:ce = 0
+2017-8-10 15:18:48 : INFO:times=0
+2017-8-10 15:18:48 : INFO:第385次循环监听
+2017-8-10 15:18:48 : INFO:ce = 0
+2017-8-10 15:18:58 : INFO:times=1
+2017-8-10 15:18:58 : INFO:第386次循环监听
+2017-8-10 15:18:58 : INFO:ce = 0
+2017-8-10 15:19:08 : INFO:times=2
+2017-8-10 15:19:08 : INFO:第387次循环监听
+2017-8-10 15:19:08 : INFO:ce = 0
+2017-8-10 15:19:18 : INFO:times=3
+2017-8-10 15:19:18 : INFO:第388次循环监听
+2017-8-10 15:19:18 : INFO:ce = 0
+2017-8-10 15:19:28 : INFO:times=4
+2017-8-10 15:19:28 : INFO:第389次循环监听
+2017-8-10 15:19:28 : INFO:ce = 0
+2017-8-10 15:19:38 : INFO:times=5
+2017-8-10 15:19:38 : INFO:第390次循环监听
+2017-8-10 15:19:38 : INFO:ce = 0
+2017-8-10 15:19:48 : INFO:times=6
+2017-8-10 15:19:48 : INFO:第391次循环监听
+2017-8-10 15:19:48 : INFO:log: level: 0, area: 131072, <iq type='get' id='230-1879' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:19:49 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='230-1879' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:19:49 : INFO:ce = 0
+2017-8-10 15:19:49 : INFO:times=0
+2017-8-10 15:19:49 : INFO:第392次循环监听
+2017-8-10 15:19:49 : INFO:ce = 0
+2017-8-10 15:19:59 : INFO:times=1
+2017-8-10 15:19:59 : INFO:第393次循环监听
+2017-8-10 15:19:59 : INFO:ce = 0
+2017-8-10 15:20:09 : INFO:times=2
+2017-8-10 15:20:09 : INFO:第394次循环监听
+2017-8-10 15:20:09 : INFO:ce = 0
+2017-8-10 15:20:19 : INFO:times=3
+2017-8-10 15:20:19 : INFO:第395次循环监听
+2017-8-10 15:20:19 : INFO:ce = 0
+2017-8-10 15:20:29 : INFO:times=4
+2017-8-10 15:20:29 : INFO:第396次循环监听
+2017-8-10 15:20:29 : INFO:ce = 0
+2017-8-10 15:20:39 : INFO:times=5
+2017-8-10 15:20:39 : INFO:第397次循环监听
+2017-8-10 15:20:39 : INFO:ce = 0
+2017-8-10 15:20:49 : INFO:times=6
+2017-8-10 15:20:49 : INFO:第398次循环监听
+2017-8-10 15:20:49 : INFO:log: level: 0, area: 131072, <iq type='get' id='694-1882' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:20:50 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='694-1882' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:20:50 : INFO:ce = 0
+2017-8-10 15:20:50 : INFO:times=0
+2017-8-10 15:20:50 : INFO:第399次循环监听
+2017-8-10 15:20:50 : INFO:ce = 0
+2017-8-10 15:21:00 : INFO:times=1
+2017-8-10 15:21:00 : INFO:第400次循环监听
+2017-8-10 15:21:00 : INFO:ce = 0
+2017-8-10 15:21:10 : INFO:times=2
+2017-8-10 15:21:10 : INFO:第401次循环监听
+2017-8-10 15:21:10 : INFO:ce = 0
+2017-8-10 15:21:20 : INFO:times=3
+2017-8-10 15:21:20 : INFO:第402次循环监听
+2017-8-10 15:21:20 : INFO:ce = 0
+2017-8-10 15:21:30 : INFO:times=4
+2017-8-10 15:21:30 : INFO:第403次循环监听
+2017-8-10 15:21:30 : INFO:log: level: 0, area: 131072, <presence id='82b6R-123' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>鍦ㄧ嚎</status><priority>1</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 15:21:30 : INFO:ce = 0
+2017-8-10 15:21:30 : INFO:times=0
+2017-8-10 15:21:30 : INFO:第404次循环监听
+2017-8-10 15:21:30 : INFO:ce = 0
+2017-8-10 15:21:40 : INFO:times=1
+2017-8-10 15:21:40 : INFO:第405次循环监听
+2017-8-10 15:21:40 : INFO:ce = 0
+2017-8-10 15:21:50 : INFO:times=2
+2017-8-10 15:21:50 : INFO:第406次循环监听
+2017-8-10 15:21:50 : INFO:log: level: 0, area: 131072, <iq type='get' id='175-1885' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:21:50 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='175-1885' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:21:50 : INFO:ce = 0
+2017-8-10 15:21:50 : INFO:times=0
+2017-8-10 15:21:50 : INFO:第407次循环监听
+2017-8-10 15:21:50 : INFO:ce = 0
+2017-8-10 15:22:00 : INFO:times=1
+2017-8-10 15:22:00 : INFO:第408次循环监听
+2017-8-10 15:22:00 : INFO:ce = 0
+2017-8-10 15:22:10 : INFO:times=2
+2017-8-10 15:22:10 : INFO:第409次循环监听
+2017-8-10 15:22:10 : INFO:ce = 0
+2017-8-10 15:22:20 : INFO:times=3
+2017-8-10 15:22:20 : INFO:第410次循环监听
+2017-8-10 15:22:20 : INFO:ce = 0
+2017-8-10 15:22:30 : INFO:times=4
+2017-8-10 15:22:30 : INFO:第411次循环监听
+2017-8-10 15:22:30 : INFO:ce = 0
+2017-8-10 15:22:40 : INFO:times=5
+2017-8-10 15:22:40 : INFO:第412次循环监听
+2017-8-10 15:22:40 : INFO:ce = 0
+2017-8-10 15:22:50 : INFO:times=6
+2017-8-10 15:22:50 : INFO:第413次循环监听
+2017-8-10 15:22:50 : INFO:log: level: 0, area: 131072, <iq type='get' id='138-1888' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:22:51 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='138-1888' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:22:51 : INFO:ce = 0
+2017-8-10 15:22:51 : INFO:times=0
+2017-8-10 15:22:51 : INFO:第414次循环监听
+2017-8-10 15:22:51 : INFO:ce = 0
+2017-8-10 15:23:01 : INFO:times=1
+2017-8-10 15:23:01 : INFO:第415次循环监听
+2017-8-10 15:23:01 : INFO:ce = 0
+2017-8-10 15:23:11 : INFO:times=2
+2017-8-10 15:23:11 : INFO:第416次循环监听
+2017-8-10 15:23:11 : INFO:ce = 0
+2017-8-10 15:23:21 : INFO:times=3
+2017-8-10 15:23:21 : INFO:第417次循环监听
+2017-8-10 15:23:21 : INFO:ce = 0
+2017-8-10 15:23:31 : INFO:times=4
+2017-8-10 15:23:31 : INFO:第418次循环监听
+2017-8-10 15:23:31 : INFO:ce = 0
+2017-8-10 15:23:41 : INFO:times=5
+2017-8-10 15:23:41 : INFO:第419次循环监听
+2017-8-10 15:23:41 : INFO:ce = 0
+2017-8-10 15:23:51 : INFO:times=6
+2017-8-10 15:23:51 : INFO:第420次循环监听
+2017-8-10 15:23:51 : INFO:log: level: 0, area: 131072, <iq type='get' id='351-1891' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:23:51 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='351-1891' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:23:51 : INFO:ce = 0
+2017-8-10 15:23:51 : INFO:times=0
+2017-8-10 15:23:51 : INFO:第421次循环监听
+2017-8-10 15:23:51 : INFO:ce = 0
+2017-8-10 15:24:01 : INFO:times=1
+2017-8-10 15:24:01 : INFO:第422次循环监听
+2017-8-10 15:24:01 : INFO:ce = 0
+2017-8-10 15:24:11 : INFO:times=2
+2017-8-10 15:24:11 : INFO:第423次循环监听
+2017-8-10 15:24:11 : INFO:ce = 0
+2017-8-10 15:24:21 : INFO:times=3
+2017-8-10 15:24:21 : INFO:第424次循环监听
+2017-8-10 15:24:21 : INFO:ce = 0
+2017-8-10 15:24:31 : INFO:times=4
+2017-8-10 15:24:31 : INFO:第425次循环监听
+2017-8-10 15:24:31 : INFO:ce = 0
+2017-8-10 15:24:41 : INFO:times=5
+2017-8-10 15:24:41 : INFO:第426次循环监听
+2017-8-10 15:24:41 : INFO:ce = 0
+2017-8-10 15:24:51 : INFO:times=6
+2017-8-10 15:24:51 : INFO:第427次循环监听
+2017-8-10 15:24:51 : INFO:log: level: 0, area: 131072, <iq type='get' id='516-1894' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:24:51 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='516-1894' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:24:51 : INFO:ce = 0
+2017-8-10 15:24:51 : INFO:times=0
+2017-8-10 15:24:51 : INFO:第428次循环监听
+2017-8-10 15:24:51 : INFO:ce = 0
+2017-8-10 15:25:01 : INFO:times=1
+2017-8-10 15:25:01 : INFO:第429次循环监听
+2017-8-10 15:25:01 : INFO:ce = 0
+2017-8-10 15:25:11 : INFO:times=2
+2017-8-10 15:25:11 : INFO:第430次循环监听
+2017-8-10 15:25:11 : INFO:ce = 0
+2017-8-10 15:25:21 : INFO:times=3
+2017-8-10 15:25:21 : INFO:第431次循环监听
+2017-8-10 15:25:21 : INFO:ce = 0
+2017-8-10 15:25:31 : INFO:times=4
+2017-8-10 15:25:31 : INFO:第432次循环监听
+2017-8-10 15:25:31 : INFO:log: level: 0, area: 131072, <presence id='82b6R-324' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>绂诲紑</status><priority>0</priority><show>away</show><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 15:25:37 : INFO:ce = 0
+2017-8-10 15:25:37 : INFO:times=0
+2017-8-10 15:25:37 : INFO:第433次循环监听
+2017-8-10 15:25:37 : INFO:ce = 0
+2017-8-10 15:25:47 : INFO:times=1
+2017-8-10 15:25:47 : INFO:第434次循环监听
+2017-8-10 15:25:47 : INFO:log: level: 0, area: 131072, <iq type='get' id='488-1897' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:25:52 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='488-1897' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:25:52 : INFO:ce = 0
+2017-8-10 15:25:52 : INFO:times=0
+2017-8-10 15:25:52 : INFO:第435次循环监听
+2017-8-10 15:25:52 : INFO:ce = 0
+2017-8-10 15:26:02 : INFO:times=1
+2017-8-10 15:26:02 : INFO:第436次循环监听
+2017-8-10 15:26:02 : INFO:ce = 0
+2017-8-10 15:26:12 : INFO:times=2
+2017-8-10 15:26:12 : INFO:第437次循环监听
+2017-8-10 15:26:12 : INFO:ce = 0
+2017-8-10 15:26:22 : INFO:times=3
+2017-8-10 15:26:22 : INFO:第438次循环监听
+2017-8-10 15:26:22 : INFO:ce = 0
+2017-8-10 15:26:32 : INFO:times=4
+2017-8-10 15:26:32 : INFO:第439次循环监听
+2017-8-10 15:26:32 : INFO:ce = 0
+2017-8-10 15:26:42 : INFO:times=5
+2017-8-10 15:26:42 : INFO:第440次循环监听
+2017-8-10 15:26:42 : INFO:ce = 0
+2017-8-10 15:26:52 : INFO:times=6
+2017-8-10 15:26:52 : INFO:第441次循环监听
+2017-8-10 15:26:52 : INFO:log: level: 0, area: 131072, <iq type='get' id='592-1900' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:26:52 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='592-1900' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:26:52 : INFO:ce = 0
+2017-8-10 15:26:52 : INFO:times=0
+2017-8-10 15:26:52 : INFO:第442次循环监听
+2017-8-10 15:26:52 : INFO:ce = 0
+2017-8-10 15:27:02 : INFO:times=1
+2017-8-10 15:27:02 : INFO:第443次循环监听
+2017-8-10 15:27:02 : INFO:ce = 0
+2017-8-10 15:27:12 : INFO:times=2
+2017-8-10 15:27:12 : INFO:第444次循环监听
+2017-8-10 15:27:12 : INFO:ce = 0
+2017-8-10 15:27:22 : INFO:times=3
+2017-8-10 15:27:22 : INFO:第445次循环监听
+2017-8-10 15:27:22 : INFO:ce = 0
+2017-8-10 15:27:32 : INFO:times=4
+2017-8-10 15:27:32 : INFO:第446次循环监听
+2017-8-10 15:27:32 : INFO:ce = 0
+2017-8-10 15:27:42 : INFO:times=5
+2017-8-10 15:27:42 : INFO:第447次循环监听
+2017-8-10 15:27:42 : INFO:ce = 0
+2017-8-10 15:27:52 : INFO:times=6
+2017-8-10 15:27:52 : INFO:第448次循环监听
+2017-8-10 15:27:52 : INFO:log: level: 0, area: 131072, <iq type='get' id='611-1903' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:27:52 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='611-1903' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:27:52 : INFO:ce = 0
+2017-8-10 15:27:52 : INFO:times=0
+2017-8-10 15:27:52 : INFO:第449次循环监听
+2017-8-10 15:27:52 : INFO:ce = 0
+2017-8-10 15:28:02 : INFO:times=1
+2017-8-10 15:28:02 : INFO:第450次循环监听
+2017-8-10 15:28:02 : INFO:ce = 0
+2017-8-10 15:28:12 : INFO:times=2
+2017-8-10 15:28:12 : INFO:第451次循环监听
+2017-8-10 15:28:12 : INFO:ce = 0
+2017-8-10 15:28:22 : INFO:times=3
+2017-8-10 15:28:22 : INFO:第452次循环监听
+2017-8-10 15:28:22 : INFO:ce = 0
+2017-8-10 15:28:32 : INFO:times=4
+2017-8-10 15:28:32 : INFO:第453次循环监听
+2017-8-10 15:28:32 : INFO:ce = 0
+2017-8-10 15:28:42 : INFO:times=5
+2017-8-10 15:28:42 : INFO:第454次循环监听
+2017-8-10 15:28:42 : INFO:ce = 0
+2017-8-10 15:28:52 : INFO:times=6
+2017-8-10 15:28:52 : INFO:第455次循环监听
+2017-8-10 15:28:52 : INFO:log: level: 0, area: 131072, <iq type='get' id='227-1906' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:28:53 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='227-1906' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:28:53 : INFO:ce = 0
+2017-8-10 15:28:53 : INFO:times=0
+2017-8-10 15:28:53 : INFO:第456次循环监听
+2017-8-10 15:28:53 : INFO:ce = 0
+2017-8-10 15:29:03 : INFO:times=1
+2017-8-10 15:29:03 : INFO:第457次循环监听
+2017-8-10 15:29:03 : INFO:ce = 0
+2017-8-10 15:29:13 : INFO:times=2
+2017-8-10 15:29:13 : INFO:第458次循环监听
+2017-8-10 15:29:13 : INFO:ce = 0
+2017-8-10 15:29:23 : INFO:times=3
+2017-8-10 15:29:23 : INFO:第459次循环监听
+2017-8-10 15:29:23 : INFO:ce = 0
+2017-8-10 15:29:33 : INFO:times=4
+2017-8-10 15:29:33 : INFO:第460次循环监听
+2017-8-10 15:29:33 : INFO:ce = 0
+2017-8-10 15:29:43 : INFO:times=5
+2017-8-10 15:29:43 : INFO:第461次循环监听
+2017-8-10 15:29:43 : INFO:ce = 0
+2017-8-10 15:29:53 : INFO:times=6
+2017-8-10 15:29:53 : INFO:第462次循环监听
+2017-8-10 15:29:53 : INFO:log: level: 0, area: 131072, <iq type='get' id='160-1909' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:29:54 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='160-1909' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:29:54 : INFO:ce = 0
+2017-8-10 15:29:54 : INFO:times=0
+2017-8-10 15:29:54 : INFO:第463次循环监听
+2017-8-10 15:29:54 : INFO:ce = 0
+2017-8-10 15:30:04 : INFO:times=1
+2017-8-10 15:30:04 : INFO:第464次循环监听
+2017-8-10 15:30:04 : INFO:ce = 0
+2017-8-10 15:30:14 : INFO:times=2
+2017-8-10 15:30:14 : INFO:第465次循环监听
+2017-8-10 15:30:14 : INFO:ce = 0
+2017-8-10 15:30:24 : INFO:times=3
+2017-8-10 15:30:24 : INFO:第466次循环监听
+2017-8-10 15:30:24 : INFO:ce = 0
+2017-8-10 15:30:34 : INFO:times=4
+2017-8-10 15:30:34 : INFO:第467次循环监听
+2017-8-10 15:30:34 : INFO:ce = 0
+2017-8-10 15:30:44 : INFO:times=5
+2017-8-10 15:30:44 : INFO:第468次循环监听
+2017-8-10 15:30:44 : INFO:ce = 0
+2017-8-10 15:30:54 : INFO:times=6
+2017-8-10 15:30:54 : INFO:第469次循环监听
+2017-8-10 15:30:54 : INFO:log: level: 0, area: 131072, <iq type='get' id='856-1912' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:30:54 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='856-1912' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:30:54 : INFO:ce = 0
+2017-8-10 15:30:54 : INFO:times=0
+2017-8-10 15:30:54 : INFO:第470次循环监听
+2017-8-10 15:30:54 : INFO:ce = 0
+2017-8-10 15:31:04 : INFO:times=1
+2017-8-10 15:31:04 : INFO:第471次循环监听
+2017-8-10 15:31:04 : INFO:ce = 0
+2017-8-10 15:31:14 : INFO:times=2
+2017-8-10 15:31:14 : INFO:第472次循环监听
+2017-8-10 15:31:14 : INFO:ce = 0
+2017-8-10 15:31:24 : INFO:times=3
+2017-8-10 15:31:24 : INFO:第473次循环监听
+2017-8-10 15:31:24 : INFO:ce = 0
+2017-8-10 15:31:34 : INFO:times=4
+2017-8-10 15:31:34 : INFO:第474次循环监听
+2017-8-10 15:31:34 : INFO:ce = 0
+2017-8-10 15:31:44 : INFO:times=5
+2017-8-10 15:31:44 : INFO:第475次循环监听
+2017-8-10 15:31:44 : INFO:ce = 0
+2017-8-10 15:31:54 : INFO:times=6
+2017-8-10 15:31:54 : INFO:第476次循环监听
+2017-8-10 15:31:54 : INFO:log: level: 0, area: 131072, <iq type='get' id='760-1915' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:31:55 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='760-1915' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:31:55 : INFO:ce = 0
+2017-8-10 15:31:55 : INFO:times=0
+2017-8-10 15:31:55 : INFO:第477次循环监听
+2017-8-10 15:31:55 : INFO:ce = 0
+2017-8-10 15:32:05 : INFO:times=1
+2017-8-10 15:32:05 : INFO:第478次循环监听
+2017-8-10 15:32:05 : INFO:ce = 0
+2017-8-10 15:32:15 : INFO:times=2
+2017-8-10 15:32:15 : INFO:第479次循环监听
+2017-8-10 15:32:15 : INFO:ce = 0
+2017-8-10 15:32:25 : INFO:times=3
+2017-8-10 15:32:25 : INFO:第480次循环监听
+2017-8-10 15:32:25 : INFO:ce = 0
+2017-8-10 15:32:35 : INFO:times=4
+2017-8-10 15:32:35 : INFO:第481次循环监听
+2017-8-10 15:32:35 : INFO:ce = 0
+2017-8-10 15:32:45 : INFO:times=5
+2017-8-10 15:32:45 : INFO:第482次循环监听
+2017-8-10 15:32:45 : INFO:ce = 0
+2017-8-10 15:32:55 : INFO:times=6
+2017-8-10 15:32:55 : INFO:第483次循环监听
+2017-8-10 15:32:55 : INFO:log: level: 0, area: 131072, <iq type='get' id='429-1918' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:32:56 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='429-1918' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:32:56 : INFO:ce = 0
+2017-8-10 15:32:56 : INFO:times=0
+2017-8-10 15:32:56 : INFO:第484次循环监听
+2017-8-10 15:32:56 : INFO:ce = 0
+2017-8-10 15:33:06 : INFO:times=1
+2017-8-10 15:33:06 : INFO:第485次循环监听
+2017-8-10 15:33:06 : INFO:ce = 0
+2017-8-10 15:33:16 : INFO:times=2
+2017-8-10 15:33:16 : INFO:第486次循环监听
+2017-8-10 15:33:16 : INFO:ce = 0
+2017-8-10 15:33:26 : INFO:times=3
+2017-8-10 15:33:26 : INFO:第487次循环监听
+2017-8-10 15:33:26 : INFO:ce = 0
+2017-8-10 15:33:36 : INFO:times=4
+2017-8-10 15:33:36 : INFO:第488次循环监听
+2017-8-10 15:33:36 : INFO:ce = 0
+2017-8-10 15:33:46 : INFO:times=5
+2017-8-10 15:33:46 : INFO:第489次循环监听
+2017-8-10 15:33:46 : INFO:ce = 0
+2017-8-10 15:33:56 : INFO:times=6
+2017-8-10 15:33:56 : INFO:第490次循环监听
+2017-8-10 15:33:56 : INFO:log: level: 0, area: 131072, <iq type='get' id='57-1921' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:33:57 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='57-1921' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:33:57 : INFO:ce = 0
+2017-8-10 15:33:57 : INFO:times=0
+2017-8-10 15:33:57 : INFO:第491次循环监听
+2017-8-10 15:33:57 : INFO:ce = 0
+2017-8-10 15:34:07 : INFO:times=1
+2017-8-10 15:34:07 : INFO:第492次循环监听
+2017-8-10 15:34:07 : INFO:ce = 0
+2017-8-10 15:34:17 : INFO:times=2
+2017-8-10 15:34:17 : INFO:第493次循环监听
+2017-8-10 15:34:17 : INFO:ce = 0
+2017-8-10 15:34:27 : INFO:times=3
+2017-8-10 15:34:27 : INFO:第494次循环监听
+2017-8-10 15:34:27 : INFO:ce = 0
+2017-8-10 15:34:37 : INFO:times=4
+2017-8-10 15:34:37 : INFO:第495次循环监听
+2017-8-10 15:34:37 : INFO:ce = 0
+2017-8-10 15:34:47 : INFO:times=5
+2017-8-10 15:34:47 : INFO:第496次循环监听
+2017-8-10 15:34:47 : INFO:ce = 0
+2017-8-10 15:34:57 : INFO:times=6
+2017-8-10 15:34:57 : INFO:第497次循环监听
+2017-8-10 15:34:57 : INFO:log: level: 0, area: 131072, <iq type='get' id='318-1924' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:34:58 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='318-1924' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:34:58 : INFO:ce = 0
+2017-8-10 15:34:58 : INFO:times=0
+2017-8-10 15:34:58 : INFO:第498次循环监听
+2017-8-10 15:34:58 : INFO:ce = 0
+2017-8-10 15:35:08 : INFO:times=1
+2017-8-10 15:35:08 : INFO:第499次循环监听
+2017-8-10 15:35:08 : INFO:ce = 0
+2017-8-10 15:35:18 : INFO:times=2
+2017-8-10 15:35:18 : INFO:第500次循环监听
+2017-8-10 15:35:18 : INFO:ce = 0
+2017-8-10 15:35:28 : INFO:times=3
+2017-8-10 15:35:28 : INFO:第501次循环监听
+2017-8-10 15:35:28 : INFO:ce = 0
+2017-8-10 15:35:38 : INFO:times=4
+2017-8-10 15:35:38 : INFO:第502次循环监听
+2017-8-10 15:35:38 : INFO:ce = 0
+2017-8-10 15:35:48 : INFO:times=5
+2017-8-10 15:35:48 : INFO:第503次循环监听
+2017-8-10 15:35:48 : INFO:ce = 0
+2017-8-10 15:35:58 : INFO:times=6
+2017-8-10 15:35:58 : INFO:第504次循环监听
+2017-8-10 15:35:58 : INFO:log: level: 0, area: 131072, <iq type='get' id='243-1927' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:35:58 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='243-1927' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:35:58 : INFO:ce = 0
+2017-8-10 15:35:58 : INFO:times=0
+2017-8-10 15:35:58 : INFO:第505次循环监听
+2017-8-10 15:35:58 : INFO:ce = 0
+2017-8-10 15:36:08 : INFO:times=1
+2017-8-10 15:36:08 : INFO:第506次循环监听
+2017-8-10 15:36:09 : INFO:ce = 0
+2017-8-10 15:36:19 : INFO:times=2
+2017-8-10 15:36:19 : INFO:第507次循环监听
+2017-8-10 15:36:19 : INFO:ce = 0
+2017-8-10 15:36:29 : INFO:times=3
+2017-8-10 15:36:29 : INFO:第508次循环监听
+2017-8-10 15:36:29 : INFO:ce = 0
+2017-8-10 15:36:39 : INFO:times=4
+2017-8-10 15:36:39 : INFO:第509次循环监听
+2017-8-10 15:36:39 : INFO:ce = 0
+2017-8-10 15:36:49 : INFO:times=5
+2017-8-10 15:36:49 : INFO:第510次循环监听
+2017-8-10 15:36:49 : INFO:ce = 0
+2017-8-10 15:36:59 : INFO:times=6
+2017-8-10 15:36:59 : INFO:第511次循环监听
+2017-8-10 15:36:59 : INFO:log: level: 0, area: 131072, <iq type='get' id='779-1930' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:36:59 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='779-1930' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:36:59 : INFO:ce = 0
+2017-8-10 15:36:59 : INFO:times=0
+2017-8-10 15:36:59 : INFO:第512次循环监听
+2017-8-10 15:36:59 : INFO:ce = 0
+2017-8-10 15:37:09 : INFO:times=1
+2017-8-10 15:37:09 : INFO:第513次循环监听
+2017-8-10 15:37:09 : INFO:ce = 0
+2017-8-10 15:37:19 : INFO:times=2
+2017-8-10 15:37:19 : INFO:第514次循环监听
+2017-8-10 15:37:19 : INFO:ce = 0
+2017-8-10 15:37:29 : INFO:times=3
+2017-8-10 15:37:29 : INFO:第515次循环监听
+2017-8-10 15:37:29 : INFO:ce = 0
+2017-8-10 15:37:39 : INFO:times=4
+2017-8-10 15:37:39 : INFO:第516次循环监听
+2017-8-10 15:37:39 : INFO:ce = 0
+2017-8-10 15:37:49 : INFO:times=5
+2017-8-10 15:37:49 : INFO:第517次循环监听
+2017-8-10 15:37:49 : INFO:ce = 0
+2017-8-10 15:37:59 : INFO:times=6
+2017-8-10 15:37:59 : INFO:第518次循环监听
+2017-8-10 15:37:59 : INFO:log: level: 0, area: 131072, <iq type='get' id='704-1933' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:38:00 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='704-1933' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:38:00 : INFO:ce = 0
+2017-8-10 15:38:00 : INFO:times=0
+2017-8-10 15:38:00 : INFO:第519次循环监听
+2017-8-10 15:38:00 : INFO:ce = 0
+2017-8-10 15:38:10 : INFO:times=1
+2017-8-10 15:38:10 : INFO:第520次循环监听
+2017-8-10 15:38:10 : INFO:ce = 0
+2017-8-10 15:38:20 : INFO:times=2
+2017-8-10 15:38:20 : INFO:第521次循环监听
+2017-8-10 15:38:20 : INFO:ce = 0
+2017-8-10 15:38:30 : INFO:times=3
+2017-8-10 15:38:30 : INFO:第522次循环监听
+2017-8-10 15:38:30 : INFO:ce = 0
+2017-8-10 15:38:40 : INFO:times=4
+2017-8-10 15:38:40 : INFO:第523次循环监听
+2017-8-10 15:38:40 : INFO:ce = 0
+2017-8-10 15:38:50 : INFO:times=5
+2017-8-10 15:38:50 : INFO:第524次循环监听
+2017-8-10 15:38:50 : INFO:ce = 0
+2017-8-10 15:39:00 : INFO:times=6
+2017-8-10 15:39:00 : INFO:第525次循环监听
+2017-8-10 15:39:00 : INFO:log: level: 0, area: 131072, <iq type='get' id='331-1936' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:39:01 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='331-1936' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:39:01 : INFO:ce = 0
+2017-8-10 15:39:01 : INFO:times=0
+2017-8-10 15:39:01 : INFO:第526次循环监听
+2017-8-10 15:39:01 : INFO:ce = 0
+2017-8-10 15:39:11 : INFO:times=1
+2017-8-10 15:39:11 : INFO:第527次循环监听
+2017-8-10 15:39:11 : INFO:ce = 0
+2017-8-10 15:39:21 : INFO:times=2
+2017-8-10 15:39:21 : INFO:第528次循环监听
+2017-8-10 15:39:21 : INFO:ce = 0
+2017-8-10 15:39:31 : INFO:times=3
+2017-8-10 15:39:31 : INFO:第529次循环监听
+2017-8-10 15:39:31 : INFO:ce = 0
+2017-8-10 15:39:41 : INFO:times=4
+2017-8-10 15:39:41 : INFO:第530次循环监听
+2017-8-10 15:39:41 : INFO:ce = 0
+2017-8-10 15:39:51 : INFO:times=5
+2017-8-10 15:39:51 : INFO:第531次循环监听
+2017-8-10 15:39:51 : INFO:ce = 0
+2017-8-10 15:40:01 : INFO:times=6
+2017-8-10 15:40:01 : INFO:第532次循环监听
+2017-8-10 15:40:01 : INFO:log: level: 0, area: 131072, <iq type='get' id='574-1939' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:40:02 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='574-1939' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:40:02 : INFO:ce = 0
+2017-8-10 15:40:02 : INFO:times=0
+2017-8-10 15:40:02 : INFO:第533次循环监听
+2017-8-10 15:40:02 : INFO:ce = 0
+2017-8-10 15:40:12 : INFO:times=1
+2017-8-10 15:40:12 : INFO:第534次循环监听
+2017-8-10 15:40:12 : INFO:ce = 0
+2017-8-10 15:40:22 : INFO:times=2
+2017-8-10 15:40:22 : INFO:第535次循环监听
+2017-8-10 15:40:22 : INFO:ce = 0
+2017-8-10 15:40:32 : INFO:times=3
+2017-8-10 15:40:32 : INFO:第536次循环监听
+2017-8-10 15:40:32 : INFO:ce = 0
+2017-8-10 15:40:42 : INFO:times=4
+2017-8-10 15:40:42 : INFO:第537次循环监听
+2017-8-10 15:40:42 : INFO:ce = 0
+2017-8-10 15:40:52 : INFO:times=5
+2017-8-10 15:40:52 : INFO:第538次循环监听
+2017-8-10 15:40:52 : INFO:ce = 0
+2017-8-10 15:41:02 : INFO:times=6
+2017-8-10 15:41:02 : INFO:第539次循环监听
+2017-8-10 15:41:02 : INFO:log: level: 0, area: 131072, <iq type='get' id='164-1942' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:41:02 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='164-1942' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:41:02 : INFO:ce = 0
+2017-8-10 15:41:02 : INFO:times=0
+2017-8-10 15:41:02 : INFO:第540次循环监听
+2017-8-10 15:41:02 : INFO:ce = 0
+2017-8-10 15:41:12 : INFO:times=1
+2017-8-10 15:41:12 : INFO:第541次循环监听
+2017-8-10 15:41:12 : INFO:ce = 0
+2017-8-10 15:41:22 : INFO:times=2
+2017-8-10 15:41:22 : INFO:第542次循环监听
+2017-8-10 15:41:22 : INFO:ce = 0
+2017-8-10 15:41:32 : INFO:times=3
+2017-8-10 15:41:32 : INFO:第543次循环监听
+2017-8-10 15:41:32 : INFO:ce = 0
+2017-8-10 15:41:42 : INFO:times=4
+2017-8-10 15:41:42 : INFO:第544次循环监听
+2017-8-10 15:41:42 : INFO:ce = 0
+2017-8-10 15:41:52 : INFO:times=5
+2017-8-10 15:41:53 : INFO:第545次循环监听
+2017-8-10 15:41:53 : INFO:ce = 0
+2017-8-10 15:42:03 : INFO:times=6
+2017-8-10 15:42:03 : INFO:第546次循环监听
+2017-8-10 15:42:03 : INFO:log: level: 0, area: 131072, <iq type='get' id='231-1945' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:42:03 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='231-1945' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:42:03 : INFO:ce = 0
+2017-8-10 15:42:03 : INFO:times=0
+2017-8-10 15:42:03 : INFO:第547次循环监听
+2017-8-10 15:42:03 : INFO:ce = 0
+2017-8-10 15:42:13 : INFO:times=1
+2017-8-10 15:42:13 : INFO:第548次循环监听
+2017-8-10 15:42:13 : INFO:ce = 0
+2017-8-10 15:42:23 : INFO:times=2
+2017-8-10 15:42:23 : INFO:第549次循环监听
+2017-8-10 15:42:23 : INFO:ce = 0
+2017-8-10 15:42:33 : INFO:times=3
+2017-8-10 15:42:33 : INFO:第550次循环监听
+2017-8-10 15:42:33 : INFO:ce = 0
+2017-8-10 15:42:43 : INFO:times=4
+2017-8-10 15:42:43 : INFO:第551次循环监听
+2017-8-10 15:42:43 : INFO:ce = 0
+2017-8-10 15:42:53 : INFO:times=5
+2017-8-10 15:42:53 : INFO:第552次循环监听
+2017-8-10 15:42:53 : INFO:ce = 0
+2017-8-10 15:43:03 : INFO:times=6
+2017-8-10 15:43:03 : INFO:第553次循环监听
+2017-8-10 15:43:03 : INFO:log: level: 0, area: 131072, <iq type='get' id='133-1948' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:43:04 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='133-1948' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:43:04 : INFO:ce = 0
+2017-8-10 15:43:04 : INFO:times=0
+2017-8-10 15:43:04 : INFO:第554次循环监听
+2017-8-10 15:43:04 : INFO:ce = 0
+2017-8-10 15:43:14 : INFO:times=1
+2017-8-10 15:43:14 : INFO:第555次循环监听
+2017-8-10 15:43:14 : INFO:ce = 0
+2017-8-10 15:43:24 : INFO:times=2
+2017-8-10 15:43:24 : INFO:第556次循环监听
+2017-8-10 15:43:24 : INFO:ce = 0
+2017-8-10 15:43:34 : INFO:times=3
+2017-8-10 15:43:34 : INFO:第557次循环监听
+2017-8-10 15:43:34 : INFO:ce = 0
+2017-8-10 15:43:44 : INFO:times=4
+2017-8-10 15:43:44 : INFO:第558次循环监听
+2017-8-10 15:43:44 : INFO:ce = 0
+2017-8-10 15:43:54 : INFO:times=5
+2017-8-10 15:43:54 : INFO:第559次循环监听
+2017-8-10 15:43:54 : INFO:ce = 0
+2017-8-10 15:44:04 : INFO:times=6
+2017-8-10 15:44:04 : INFO:第560次循环监听
+2017-8-10 15:44:04 : INFO:log: level: 0, area: 131072, <iq type='get' id='919-1951' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:44:05 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='919-1951' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:44:05 : INFO:ce = 0
+2017-8-10 15:44:05 : INFO:times=0
+2017-8-10 15:44:05 : INFO:第561次循环监听
+2017-8-10 15:44:05 : INFO:ce = 0
+2017-8-10 15:44:15 : INFO:times=1
+2017-8-10 15:44:15 : INFO:第562次循环监听
+2017-8-10 15:44:15 : INFO:ce = 0
+2017-8-10 15:44:25 : INFO:times=2
+2017-8-10 15:44:25 : INFO:第563次循环监听
+2017-8-10 15:44:25 : INFO:ce = 0
+2017-8-10 15:44:35 : INFO:times=3
+2017-8-10 15:44:35 : INFO:第564次循环监听
+2017-8-10 15:44:35 : INFO:ce = 0
+2017-8-10 15:44:45 : INFO:times=4
+2017-8-10 15:44:45 : INFO:第565次循环监听
+2017-8-10 15:44:45 : INFO:ce = 0
+2017-8-10 15:44:55 : INFO:times=5
+2017-8-10 15:44:55 : INFO:第566次循环监听
+2017-8-10 15:44:55 : INFO:ce = 0
+2017-8-10 15:45:05 : INFO:times=6
+2017-8-10 15:45:05 : INFO:第567次循环监听
+2017-8-10 15:45:05 : INFO:log: level: 0, area: 131072, <iq type='get' id='323-1954' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:45:05 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='323-1954' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:45:05 : INFO:ce = 0
+2017-8-10 15:45:05 : INFO:times=0
+2017-8-10 15:45:05 : INFO:第568次循环监听
+2017-8-10 15:45:05 : INFO:ce = 0
+2017-8-10 15:45:15 : INFO:times=1
+2017-8-10 15:45:15 : INFO:第569次循环监听
+2017-8-10 15:45:15 : INFO:ce = 0
+2017-8-10 15:45:25 : INFO:times=2
+2017-8-10 15:45:25 : INFO:第570次循环监听
+2017-8-10 15:45:25 : INFO:ce = 0
+2017-8-10 15:45:35 : INFO:times=3
+2017-8-10 15:45:35 : INFO:第571次循环监听
+2017-8-10 15:45:35 : INFO:ce = 0
+2017-8-10 15:45:45 : INFO:times=4
+2017-8-10 15:45:45 : INFO:第572次循环监听
+2017-8-10 15:45:45 : INFO:ce = 0
+2017-8-10 15:45:55 : INFO:times=5
+2017-8-10 15:45:55 : INFO:第573次循环监听
+2017-8-10 15:45:55 : INFO:ce = 0
+2017-8-10 15:46:05 : INFO:times=6
+2017-8-10 15:46:05 : INFO:第574次循环监听
+2017-8-10 15:46:05 : INFO:log: level: 0, area: 131072, <iq type='get' id='743-1957' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:46:06 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='743-1957' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:46:06 : INFO:ce = 0
+2017-8-10 15:46:06 : INFO:times=0
+2017-8-10 15:46:06 : INFO:第575次循环监听
+2017-8-10 15:46:06 : INFO:ce = 0
+2017-8-10 15:46:16 : INFO:times=1
+2017-8-10 15:46:16 : INFO:第576次循环监听
+2017-8-10 15:46:16 : INFO:ce = 0
+2017-8-10 15:46:26 : INFO:times=2
+2017-8-10 15:46:26 : INFO:第577次循环监听
+2017-8-10 15:46:26 : INFO:ce = 0
+2017-8-10 15:46:36 : INFO:times=3
+2017-8-10 15:46:36 : INFO:第578次循环监听
+2017-8-10 15:46:36 : INFO:ce = 0
+2017-8-10 15:46:46 : INFO:times=4
+2017-8-10 15:46:46 : INFO:第579次循环监听
+2017-8-10 15:46:46 : INFO:ce = 0
+2017-8-10 15:46:56 : INFO:times=5
+2017-8-10 15:46:56 : INFO:第580次循环监听
+2017-8-10 15:46:56 : INFO:ce = 0
+2017-8-10 15:47:06 : INFO:times=6
+2017-8-10 15:47:06 : INFO:第581次循环监听
+2017-8-10 15:47:06 : INFO:log: level: 0, area: 131072, <iq type='get' id='778-1960' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:47:07 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='778-1960' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:47:07 : INFO:ce = 0
+2017-8-10 15:47:07 : INFO:times=0
+2017-8-10 15:47:07 : INFO:第582次循环监听
+2017-8-10 15:47:07 : INFO:ce = 0
+2017-8-10 15:47:17 : INFO:times=1
+2017-8-10 15:47:17 : INFO:第583次循环监听
+2017-8-10 15:47:17 : INFO:ce = 0
+2017-8-10 15:47:27 : INFO:times=2
+2017-8-10 15:47:27 : INFO:第584次循环监听
+2017-8-10 15:47:27 : INFO:ce = 0
+2017-8-10 15:47:37 : INFO:times=3
+2017-8-10 15:47:37 : INFO:第585次循环监听
+2017-8-10 15:47:37 : INFO:ce = 0
+2017-8-10 15:47:47 : INFO:times=4
+2017-8-10 15:47:47 : INFO:第586次循环监听
+2017-8-10 15:47:47 : INFO:ce = 0
+2017-8-10 15:47:57 : INFO:times=5
+2017-8-10 15:47:57 : INFO:第587次循环监听
+2017-8-10 15:47:57 : INFO:ce = 0
+2017-8-10 15:48:07 : INFO:times=6
+2017-8-10 15:48:07 : INFO:第588次循环监听
+2017-8-10 15:48:07 : INFO:log: level: 0, area: 131072, <iq type='get' id='679-1963' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:48:08 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='679-1963' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:48:08 : INFO:ce = 0
+2017-8-10 15:48:08 : INFO:times=0
+2017-8-10 15:48:08 : INFO:第589次循环监听
+2017-8-10 15:48:08 : INFO:log: level: 0, area: 131072, <presence id='82b6R-123' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>鍦ㄧ嚎</status><priority>1</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 15:48:12 : INFO:ce = 0
+2017-8-10 15:48:13 : INFO:times=0
+2017-8-10 15:48:13 : INFO:第590次循环监听
+2017-8-10 15:48:13 : INFO:ce = 0
+2017-8-10 15:48:23 : INFO:times=1
+2017-8-10 15:48:23 : INFO:第591次循环监听
+2017-8-10 15:48:23 : INFO:ce = 0
+2017-8-10 15:48:33 : INFO:times=2
+2017-8-10 15:48:33 : INFO:第592次循环监听
+2017-8-10 15:48:33 : INFO:ce = 0
+2017-8-10 15:48:43 : INFO:times=3
+2017-8-10 15:48:43 : INFO:第593次循环监听
+2017-8-10 15:48:43 : INFO:ce = 0
+2017-8-10 15:48:53 : INFO:times=4
+2017-8-10 15:48:53 : INFO:第594次循环监听
+2017-8-10 15:48:53 : INFO:ce = 0
+2017-8-10 15:49:03 : INFO:times=5
+2017-8-10 15:49:03 : INFO:第595次循环监听
+2017-8-10 15:49:03 : INFO:log: level: 0, area: 131072, <iq type='get' id='395-1965' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:49:08 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='395-1965' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:49:08 : INFO:ce = 0
+2017-8-10 15:49:08 : INFO:times=0
+2017-8-10 15:49:08 : INFO:第596次循环监听
+2017-8-10 15:49:08 : INFO:ce = 0
+2017-8-10 15:49:18 : INFO:times=1
+2017-8-10 15:49:18 : INFO:第597次循环监听
+2017-8-10 15:49:18 : INFO:ce = 0
+2017-8-10 15:49:28 : INFO:times=2
+2017-8-10 15:49:28 : INFO:第598次循环监听
+2017-8-10 15:49:28 : INFO:ce = 0
+2017-8-10 15:49:38 : INFO:times=3
+2017-8-10 15:49:38 : INFO:第599次循环监听
+2017-8-10 15:49:38 : INFO:ce = 0
+2017-8-10 15:49:48 : INFO:times=4
+2017-8-10 15:49:48 : INFO:第600次循环监听
+2017-8-10 15:49:48 : INFO:ce = 0
+2017-8-10 15:49:58 : INFO:times=5
+2017-8-10 15:49:58 : INFO:第601次循环监听
+2017-8-10 15:49:58 : INFO:ce = 0
+2017-8-10 15:50:08 : INFO:times=6
+2017-8-10 15:50:08 : INFO:第602次循环监听
+2017-8-10 15:50:08 : INFO:log: level: 0, area: 131072, <iq type='get' id='976-1968' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:50:08 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='976-1968' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:50:08 : INFO:ce = 0
+2017-8-10 15:50:08 : INFO:times=0
+2017-8-10 15:50:08 : INFO:第603次循环监听
+2017-8-10 15:50:08 : INFO:ce = 0
+2017-8-10 15:50:18 : INFO:times=1
+2017-8-10 15:50:18 : INFO:第604次循环监听
+2017-8-10 15:50:18 : INFO:ce = 0
+2017-8-10 15:50:28 : INFO:times=2
+2017-8-10 15:50:28 : INFO:第605次循环监听
+2017-8-10 15:50:28 : INFO:ce = 0
+2017-8-10 15:50:38 : INFO:times=3
+2017-8-10 15:50:38 : INFO:第606次循环监听
+2017-8-10 15:50:38 : INFO:ce = 0
+2017-8-10 15:50:48 : INFO:times=4
+2017-8-10 15:50:48 : INFO:第607次循环监听
+2017-8-10 15:50:48 : INFO:ce = 0
+2017-8-10 15:50:58 : INFO:times=5
+2017-8-10 15:50:58 : INFO:第608次循环监听
+2017-8-10 15:50:58 : INFO:ce = 0
+2017-8-10 15:51:08 : INFO:times=6
+2017-8-10 15:51:08 : INFO:第609次循环监听
+2017-8-10 15:51:08 : INFO:log: level: 0, area: 131072, <iq type='get' id='192-1971' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:51:09 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='192-1971' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:51:09 : INFO:ce = 0
+2017-8-10 15:51:09 : INFO:times=0
+2017-8-10 15:51:09 : INFO:第610次循环监听
+2017-8-10 15:51:09 : INFO:ce = 0
+2017-8-10 15:51:19 : INFO:times=1
+2017-8-10 15:51:19 : INFO:第611次循环监听
+2017-8-10 15:51:19 : INFO:ce = 0
+2017-8-10 15:51:29 : INFO:times=2
+2017-8-10 15:51:29 : INFO:第612次循环监听
+2017-8-10 15:51:29 : INFO:ce = 0
+2017-8-10 15:51:39 : INFO:times=3
+2017-8-10 15:51:39 : INFO:第613次循环监听
+2017-8-10 15:51:39 : INFO:ce = 0
+2017-8-10 15:51:49 : INFO:times=4
+2017-8-10 15:51:49 : INFO:第614次循环监听
+2017-8-10 15:51:49 : INFO:ce = 0
+2017-8-10 15:51:59 : INFO:times=5
+2017-8-10 15:51:59 : INFO:第615次循环监听
+2017-8-10 15:51:59 : INFO:log: level: 0, area: 131072, <presence id='82b6R-379' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>绂诲紑</status><priority>0</priority><show>away</show><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 15:52:07 : INFO:ce = 0
+2017-8-10 15:52:07 : INFO:times=0
+2017-8-10 15:52:07 : INFO:第616次循环监听
+2017-8-10 15:52:07 : INFO:log: level: 0, area: 131072, <iq type='get' id='113-1974' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:52:09 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='113-1974' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:52:09 : INFO:ce = 0
+2017-8-10 15:52:09 : INFO:times=0
+2017-8-10 15:52:09 : INFO:第617次循环监听
+2017-8-10 15:52:09 : INFO:ce = 0
+2017-8-10 15:52:19 : INFO:times=1
+2017-8-10 15:52:19 : INFO:第618次循环监听
+2017-8-10 15:52:19 : INFO:ce = 0
+2017-8-10 15:52:29 : INFO:times=2
+2017-8-10 15:52:29 : INFO:第619次循环监听
+2017-8-10 15:52:29 : INFO:ce = 0
+2017-8-10 15:52:39 : INFO:times=3
+2017-8-10 15:52:39 : INFO:第620次循环监听
+2017-8-10 15:52:39 : INFO:ce = 0
+2017-8-10 15:52:49 : INFO:times=4
+2017-8-10 15:52:49 : INFO:第621次循环监听
+2017-8-10 15:52:49 : INFO:ce = 0
+2017-8-10 15:52:59 : INFO:times=5
+2017-8-10 15:52:59 : INFO:第622次循环监听
+2017-8-10 15:52:59 : INFO:ce = 0
+2017-8-10 15:53:09 : INFO:times=6
+2017-8-10 15:53:09 : INFO:第623次循环监听
+2017-8-10 15:53:09 : INFO:log: level: 0, area: 131072, <iq type='get' id='729-1977' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:53:09 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='729-1977' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:53:09 : INFO:ce = 0
+2017-8-10 15:53:09 : INFO:times=0
+2017-8-10 15:53:09 : INFO:第624次循环监听
+2017-8-10 15:53:09 : INFO:ce = 0
+2017-8-10 15:53:19 : INFO:times=1
+2017-8-10 15:53:19 : INFO:第625次循环监听
+2017-8-10 15:53:19 : INFO:ce = 0
+2017-8-10 15:53:29 : INFO:times=2
+2017-8-10 15:53:29 : INFO:第626次循环监听
+2017-8-10 15:53:29 : INFO:ce = 0
+2017-8-10 15:53:39 : INFO:times=3
+2017-8-10 15:53:39 : INFO:第627次循环监听
+2017-8-10 15:53:39 : INFO:ce = 0
+2017-8-10 15:53:49 : INFO:times=4
+2017-8-10 15:53:49 : INFO:第628次循环监听
+2017-8-10 15:53:49 : INFO:ce = 0
+2017-8-10 15:53:59 : INFO:times=5
+2017-8-10 15:53:59 : INFO:第629次循环监听
+2017-8-10 15:53:59 : INFO:ce = 0
+2017-8-10 15:54:09 : INFO:times=6
+2017-8-10 15:54:09 : INFO:第630次循环监听
+2017-8-10 15:54:09 : INFO:log: level: 0, area: 131072, <iq type='get' id='111-1980' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:54:11 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='111-1980' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:54:11 : INFO:ce = 0
+2017-8-10 15:54:11 : INFO:times=0
+2017-8-10 15:54:11 : INFO:第631次循环监听
+2017-8-10 15:54:11 : INFO:ce = 0
+2017-8-10 15:54:21 : INFO:times=1
+2017-8-10 15:54:21 : INFO:第632次循环监听
+2017-8-10 15:54:21 : INFO:ce = 0
+2017-8-10 15:54:31 : INFO:times=2
+2017-8-10 15:54:31 : INFO:第633次循环监听
+2017-8-10 15:54:31 : INFO:ce = 0
+2017-8-10 15:54:41 : INFO:times=3
+2017-8-10 15:54:41 : INFO:第634次循环监听
+2017-8-10 15:54:41 : INFO:ce = 0
+2017-8-10 15:54:51 : INFO:times=4
+2017-8-10 15:54:51 : INFO:第635次循环监听
+2017-8-10 15:54:51 : INFO:ce = 0
+2017-8-10 15:55:01 : INFO:times=5
+2017-8-10 15:55:01 : INFO:第636次循环监听
+2017-8-10 15:55:01 : INFO:ce = 0
+2017-8-10 15:55:11 : INFO:times=6
+2017-8-10 15:55:11 : INFO:第637次循环监听
+2017-8-10 15:55:11 : INFO:log: level: 0, area: 131072, <iq type='get' id='47-1983' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:55:11 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='47-1983' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:55:11 : INFO:ce = 0
+2017-8-10 15:55:11 : INFO:times=0
+2017-8-10 15:55:11 : INFO:第638次循环监听
+2017-8-10 15:55:11 : INFO:ce = 0
+2017-8-10 15:55:21 : INFO:times=1
+2017-8-10 15:55:21 : INFO:第639次循环监听
+2017-8-10 15:55:21 : INFO:log: level: 0, area: 131072, <presence id='82b6R-123' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>鍦ㄧ嚎</status><priority>1</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 15:55:30 : INFO:ce = 0
+2017-8-10 15:55:30 : INFO:times=0
+2017-8-10 15:55:30 : INFO:第640次循环监听
+2017-8-10 15:55:30 : INFO:ce = 0
+2017-8-10 15:55:40 : INFO:times=1
+2017-8-10 15:55:40 : INFO:第641次循环监听
+2017-8-10 15:55:40 : INFO:ce = 0
+2017-8-10 15:55:50 : INFO:times=2
+2017-8-10 15:55:50 : INFO:第642次循环监听
+2017-8-10 15:55:50 : INFO:ce = 0
+2017-8-10 15:56:00 : INFO:times=3
+2017-8-10 15:56:00 : INFO:第643次循环监听
+2017-8-10 15:56:00 : INFO:ce = 0
+2017-8-10 15:56:10 : INFO:times=4
+2017-8-10 15:56:10 : INFO:第644次循环监听
+2017-8-10 15:56:10 : INFO:log: level: 0, area: 131072, <iq type='get' id='416-1985' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:56:12 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='416-1985' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:56:12 : INFO:ce = 0
+2017-8-10 15:56:12 : INFO:times=0
+2017-8-10 15:56:12 : INFO:第645次循环监听
+2017-8-10 15:56:12 : INFO:ce = 0
+2017-8-10 15:56:22 : INFO:times=1
+2017-8-10 15:56:22 : INFO:第646次循环监听
+2017-8-10 15:56:22 : INFO:ce = 0
+2017-8-10 15:56:32 : INFO:times=2
+2017-8-10 15:56:32 : INFO:第647次循环监听
+2017-8-10 15:56:32 : INFO:ce = 0
+2017-8-10 15:56:42 : INFO:times=3
+2017-8-10 15:56:42 : INFO:第648次循环监听
+2017-8-10 15:56:42 : INFO:ce = 0
+2017-8-10 15:56:52 : INFO:times=4
+2017-8-10 15:56:52 : INFO:第649次循环监听
+2017-8-10 15:56:52 : INFO:ce = 0
+2017-8-10 15:57:02 : INFO:times=5
+2017-8-10 15:57:02 : INFO:第650次循环监听
+2017-8-10 15:57:02 : INFO:ce = 0
+2017-8-10 15:57:12 : INFO:times=6
+2017-8-10 15:57:12 : INFO:第651次循环监听
+2017-8-10 15:57:12 : INFO:log: level: 0, area: 131072, <iq type='get' id='163-1988' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:57:12 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='163-1988' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:57:12 : INFO:ce = 0
+2017-8-10 15:57:12 : INFO:times=0
+2017-8-10 15:57:12 : INFO:第652次循环监听
+2017-8-10 15:57:12 : INFO:ce = 0
+2017-8-10 15:57:22 : INFO:times=1
+2017-8-10 15:57:22 : INFO:第653次循环监听
+2017-8-10 15:57:22 : INFO:ce = 0
+2017-8-10 15:57:32 : INFO:times=2
+2017-8-10 15:57:32 : INFO:第654次循环监听
+2017-8-10 15:57:32 : INFO:ce = 0
+2017-8-10 15:57:42 : INFO:times=3
+2017-8-10 15:57:42 : INFO:第655次循环监听
+2017-8-10 15:57:42 : INFO:ce = 0
+2017-8-10 15:57:52 : INFO:times=4
+2017-8-10 15:57:52 : INFO:第656次循环监听
+2017-8-10 15:57:52 : INFO:ce = 0
+2017-8-10 15:58:02 : INFO:times=5
+2017-8-10 15:58:02 : INFO:第657次循环监听
+2017-8-10 15:58:02 : INFO:ce = 0
+2017-8-10 15:58:12 : INFO:times=6
+2017-8-10 15:58:12 : INFO:第658次循环监听
+2017-8-10 15:58:12 : INFO:log: level: 0, area: 131072, <iq type='get' id='991-1991' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:58:13 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='991-1991' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:58:13 : INFO:ce = 0
+2017-8-10 15:58:13 : INFO:times=0
+2017-8-10 15:58:13 : INFO:第659次循环监听
+2017-8-10 15:58:13 : INFO:ce = 0
+2017-8-10 15:58:23 : INFO:times=1
+2017-8-10 15:58:23 : INFO:第660次循环监听
+2017-8-10 15:58:23 : INFO:ce = 0
+2017-8-10 15:58:33 : INFO:times=2
+2017-8-10 15:58:33 : INFO:第661次循环监听
+2017-8-10 15:58:33 : INFO:ce = 0
+2017-8-10 15:58:43 : INFO:times=3
+2017-8-10 15:58:43 : INFO:第662次循环监听
+2017-8-10 15:58:43 : INFO:log: level: 0, area: 131072, <presence id='82b6R-394' from='admin@127.0.0.1/Spark' to='test@127.0.0.1'><status>绂诲紑</status><priority>0</priority><show>away</show><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://www.igniterealtime.org/projects/smack' ver='TJuVIXqTCVfJSthaPu4MtTbaf9A='/></presence>
+2017-8-10 15:58:52 : INFO:ce = 0
+2017-8-10 15:58:52 : INFO:times=0
+2017-8-10 15:58:52 : INFO:第663次循环监听
+2017-8-10 15:58:52 : INFO:ce = 0
+2017-8-10 15:59:02 : INFO:times=1
+2017-8-10 15:59:02 : INFO:第664次循环监听
+2017-8-10 15:59:02 : INFO:ce = 0
+2017-8-10 15:59:12 : INFO:times=2
+2017-8-10 15:59:12 : INFO:第665次循环监听
+2017-8-10 15:59:12 : INFO:log: level: 0, area: 131072, <iq type='get' id='754-1994' from='127.0.0.1' to='test@127.0.0.1/5b2lrz4skk'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-8-10 15:59:14 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='754-1994' type='result' from='test@127.0.0.1/5b2lrz4skk' xmlns='jabber:client'/>
+2017-8-10 15:59:14 : INFO:ce = 0
+2017-8-10 15:59:14 : INFO:times=0
+2017-8-10 15:59:14 : INFO:第666次循环监听
+2017-8-10 15:59:14 : INFO:ce = 0
+2017-8-10 15:59:24 : INFO:times=1
+2017-8-10 15:59:24 : INFO:第667次循环监听
+2017-8-10 15:59:24 : INFO:ce = 0
+2017-8-10 15:59:34 : INFO:times=2
+2017-8-10 15:59:34 : INFO:第668次循环监听
+2017-8-10 15:59:34 : INFO:ce = 0
+2017-8-10 15:59:44 : INFO:times=3
+2017-8-10 15:59:44 : INFO:第669次循环监听
+2017-8-10 15:59:44 : INFO:ce = 0
+2017-8-10 15:59:54 : INFO:times=4
+2017-8-10 15:59:54 : INFO:第670次循环监听
+2017-8-10 15:59:54 : INFO:ce = 0
+2017-8-10 16:00:04 : INFO:times=5
+2017-8-10 16:00:04 : INFO:第671次循环监听
+2017-8-10 16:00:04 : 

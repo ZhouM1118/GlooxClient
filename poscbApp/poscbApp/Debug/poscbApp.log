@@ -1,0 +1,26 @@
+﻿生成启动时间为 2017/8/7 16:40:20。
+     1>项目“D:\Cworkspace\poscbApp\poscbApp\poscbApp.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\poscbApp.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\poscbApp.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MyMessageDialog.cpp poscbApp.cpp poscbAppDlg.cpp
+         poscbAppDlg.cpp
+     1>poscbAppDlg.cpp(338): warning C4018: “<”: 有符号/无符号不匹配
+         poscbApp.cpp
+         MyMessageDialog.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\poscbApp.res" poscbApp.rc 
+       Link:
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Cworkspace\poscbApp\Debug\poscbApp.exe" /INCREMENTAL /NOLOGO poscb.lib sqlite3.lib Delayimp.lib /DEF:"sqlite3.def" /DELAYLOAD:sqlite3.dll /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"E:\Program Files\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Cworkspace\poscbApp\Debug\poscbApp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Cworkspace\poscbApp\Debug\poscbApp.lib" /MACHINE:X86 Debug\poscbApp.res
+         Debug\MyMessageDialog.obj
+         Debug\poscbApp.obj
+         Debug\poscbAppDlg.obj
+         Debug\stdafx.obj
+            正在创建库 D:\Cworkspace\poscbApp\Debug\poscbApp.lib 和对象 D:\Cworkspace\poscbApp\Debug\poscbApp.exp
+         poscbApp.vcxproj -> D:\Cworkspace\poscbApp\Debug\poscbApp.exe
+     1>已完成生成项目“D:\Cworkspace\poscbApp\poscbApp\poscbApp.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.00

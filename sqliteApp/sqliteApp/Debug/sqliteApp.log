@@ -1,0 +1,25 @@
+﻿生成启动时间为 2017/8/11 8:52:18。
+     1>项目“D:\Cworkspace\sqliteApp\sqliteApp\sqliteApp.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\sqliteApp.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\sqliteApp.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MessageDialog.cpp sqliteApp.cpp sqliteAppDlg.cpp
+         sqliteAppDlg.cpp
+         sqliteApp.cpp
+         MessageDialog.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\sqliteApp.res" sqliteApp.rc 
+       Link:
+         E:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Cworkspace\sqliteApp\Debug\sqliteApp.exe" /INCREMENTAL /NOLOGO sqlite3.lib Delayimp.lib /DEF:"sqlite3.def" /DELAYLOAD:sqlite3.dll /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"E:\Program Files\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Cworkspace\sqliteApp\Debug\sqliteApp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Cworkspace\sqliteApp\Debug\sqliteApp.lib" /MACHINE:X86 Debug\sqliteApp.res
+         Debug\MessageDialog.obj
+         Debug\sqliteApp.obj
+         Debug\sqliteAppDlg.obj
+         Debug\stdafx.obj
+            正在创建库 D:\Cworkspace\sqliteApp\Debug\sqliteApp.lib 和对象 D:\Cworkspace\sqliteApp\Debug\sqliteApp.exp
+         sqliteApp.vcxproj -> D:\Cworkspace\sqliteApp\Debug\sqliteApp.exe
+     1>已完成生成项目“D:\Cworkspace\sqliteApp\sqliteApp\sqliteApp.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.76

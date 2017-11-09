@@ -1,0 +1,440 @@
+INFO:¿ªÊ¼µÇÂ¼
+2017-7-28 13:37:55 : INFO:¶ÁÈ¡ÅäÖÃÎÄ¼ş
+2017-7-28 13:40:37 : INFO:Á¬½ÓÊ§°Ü£¬ÖØĞÂÁ¬½Ó
+2017-7-28 13:40:40 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5222...
+2017-7-28 13:40:52 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5222)
+2017-7-28 13:40:52 : INFO:log: level: 0, area: 32, Connected to 172.27.52.47 (172.27.52.47:5222)
+2017-7-28 13:40:52 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-28 13:40:52 : INFO:µÚ0´ÎÑ­»·¼àÌı
+2017-7-28 13:41:02 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='4ru2a0bvtd' xml:lang='en' version='1.0'/>
+2017-7-28 13:45:10 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-28 13:45:10 : INFO:log: level: 0, area: 262144, <starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-28 13:45:10 : INFO:log: level: 0, area: 131072, <iq type='get' id='78-482' from='127.0.0.1' to='127.0.0.1/4ru2a0bvtd'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-7-28 13:45:10 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='78-482' type='result' xmlns='jabber:client'/>
+2017-7-28 13:45:10 : INFO:ce = 0
+2017-7-28 13:46:47 : INFO:µÚ1´ÎÑ­»·¼àÌı
+2017-7-28 13:46:58 : INFO:log: level: 2, area: 256, recv() failed. WSAGetLastError: 10053
+2017-7-28 13:46:59 : ERROR:Á¬½ÓÊ§°Ü
+2017-7-28 13:46:59 : INFO:ce = 7
+2017-7-28 13:47:01 : ERROR:ce = 7
+2017-7-28 13:47:31 : INFO:¶ÁÈ¡ÅäÖÃÎÄ¼ş
+2017-7-28 13:48:42 : INFO:Á¬½ÓÊ§°Ü£¬ÖØĞÂÁ¬½Ó
+2017-7-28 13:48:42 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5222...
+2017-7-28 13:48:42 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5222)
+2017-7-28 13:48:42 : INFO:log: level: 0, area: 32, Connected to 172.27.52.47 (172.27.52.47:5222)
+2017-7-28 13:48:42 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-28 13:48:42 : INFO:µÚ0´ÎÑ­»·¼àÌı
+2017-7-28 13:48:42 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='9x2domlreg' xml:lang='en' version='1.0'/>
+2017-7-28 13:48:42 : INFO:ce = 0
+2017-7-28 13:48:42 : INFO:µÚ1´ÎÑ­»·¼àÌı
+2017-7-28 13:48:42 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-28 13:48:43 : INFO:log: level: 0, area: 262144, <starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-28 13:48:43 : INFO:ce = 0
+2017-7-28 13:48:43 : INFO:µÚ2´ÎÑ­»·¼àÌı
+2017-7-28 13:48:43 : INFO:log: level: 0, area: 131072, <proceed xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-28 13:48:43 : INFO:log: level: 0, area: 4, starting TLS handshake...
+2017-7-28 13:48:43 : INFO:ce = 0
+2017-7-28 13:48:43 : INFO:µÚ3´ÎÑ­»·¼àÌı
+2017-7-28 13:48:43 : INFO:ce = 0
+2017-7-28 13:48:43 : INFO:µÚ4´ÎÑ­»·¼àÌı
+2017-7-28 13:48:43 : INFO:ce = 0
+2017-7-28 13:48:43 : INFO:µÚ5´ÎÑ­»·¼àÌı
+2017-7-28 13:48:43 : INFO:status: -842150451,issuer: CN=127.0.0.1,peer: CN=127.0.0.1,protocol: TLSv1,mac: SHA,cipher: AES_128,compression: ,from: Tue Jul 11 06:43:25 2017
+,to: Tue Jul 11 06:43:25 2017
+
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 8, connection encryption active
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-28 13:48:59 : INFO:ce = 0
+2017-7-28 13:48:59 : INFO:µÚ6´ÎÑ­»·¼àÌı
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='9x2domlreg' xml:lang='en' version='1.0'/>
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 262144, <auth xmlns='urn:ietf:params:xml:ns:xmpp-sasl' mechanism='SCRAM-SHA-1'>biwsbj10ZXN0LHI9MDAwMDZiMjgwMDAwNGUxYzAwMDAzNjM5MDAwMDc0Mjk=</auth>
+2017-7-28 13:48:59 : INFO:ce = 0
+2017-7-28 13:48:59 : INFO:µÚ7´ÎÑ­»·¼àÌı
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 131072, <challenge xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>cj0wMDAwNmIyODAwMDA0ZTFjMDAwMDM2MzkwMDAwNzQyOTgzY2YyNWE2LWM3OTAtNDlhNC1iODhiLTQyMzY5YmEyNTk3ZSxzPVVXeURwQWtsdW5kN2h6VUk1ak5OV2I4TUFuYjkrNGllLGk9NDA5Ng==</challenge>
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 4, Processing SASL challenge
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 262144, <response xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>Yz1iaXdzLHI9MDAwMDZiMjgwMDAwNGUxYzAwMDAzNjM5MDAwMDc0Mjk4M2NmMjVhNi1jNzkwLTQ5YTQtYjg4Yi00MjM2OWJhMjU5N2UscD14OXpBZU5VZW03KzRZK003dHVXVUpXM2hyYWs9</response>
+2017-7-28 13:48:59 : INFO:ce = 0
+2017-7-28 13:48:59 : INFO:µÚ8´ÎÑ­»·¼àÌı
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 131072, <success xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>dj1jOGI3djEzMVYrSWlhS2t0THFMTjhQc1hxZkE9</success>
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 4, SASL authentication successful
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-28 13:48:59 : INFO:ce = 0
+2017-7-28 13:48:59 : INFO:µÚ9´ÎÑ­»·¼àÌı
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='9x2domlreg' xml:lang='en' version='1.0'/>
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'/><session xmlns='urn:ietf:params:xml:ns:xmpp-session'><optional/></session><sm xmlns='urn:xmpp:sm:2'/><sm xmlns='urn:xmpp:sm:3'/></stream:features>
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 262144, <iq id='a5fa8bbc5fb423fd7b9f8e3258f5c6c777fbaa7c00000001' type='set' xmlns='jabber:client'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><resource/></bind></iq>
+2017-7-28 13:48:59 : INFO:ce = 0
+2017-7-28 13:48:59 : INFO:µÚ10´ÎÑ­»·¼àÌı
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 131072, <iq type='result' id='a5fa8bbc5fb423fd7b9f8e3258f5c6c777fbaa7c00000001' to='127.0.0.1/9x2domlreg'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><jid>test@127.0.0.1/9x2domlreg</jid></bind></iq>
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 262144, <iq id='a5fa8bbc5fb423fd7b9f8e3258f5c6c777fbaa7c00000002' type='set' from='test@127.0.0.1/9x2domlreg' xmlns='jabber:client'><session xmlns='urn:ietf:params:xml:ns:xmpp-session'/></iq>
+2017-7-28 13:48:59 : INFO:ce = 0
+2017-7-28 13:48:59 : INFO:µÚ11´ÎÑ­»·¼àÌı
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 131072, <iq type='result' id='a5fa8bbc5fb423fd7b9f8e3258f5c6c777fbaa7c00000002' to='test@127.0.0.1/9x2domlreg'/>
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 262144, <iq id='a5fa8bbc5fb423fd7b9f8e3258f5c6c777fbaa7c00000003' type='get' from='test@127.0.0.1/9x2domlreg' xmlns='jabber:client'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 262144, <iq id='a5fa8bbc5fb423fd7b9f8e3258f5c6c777fbaa7c00000004' type='get' from='test@127.0.0.1/9x2domlreg' xmlns='jabber:client'><query xmlns='jabber:iq:roster'/></iq>
+2017-7-28 13:48:59 : INFO:ce = 0
+2017-7-28 13:48:59 : INFO:µÚ12´ÎÑ­»·¼àÌı
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 131072, <iq type='result' id='a5fa8bbc5fb423fd7b9f8e3258f5c6c777fbaa7c00000003' to='test@127.0.0.1/9x2domlreg'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-7-28 13:48:59 : INFO:ce = 0
+2017-7-28 13:48:59 : INFO:µÚ13´ÎÑ­»·¼àÌı
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 131072, <iq type='result' id='a5fa8bbc5fb423fd7b9f8e3258f5c6c777fbaa7c00000004' to='test@127.0.0.1/9x2domlreg'><query xmlns='jabber:iq:roster'><item jid='admin@127.0.0.1' name='admin' subscription='both'><group>Friends</group></item></query></iq>
+2017-7-28 13:48:59 : INFO:log: level: 0, area: 262144, <presence from='test@127.0.0.1/9x2domlreg' xmlns='jabber:client'><priority>0</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://camaya.net/gloox' ver='MCjlOscOkUNT+8QzA5fFJj2oMSU='/></presence>
+2017-7-28 13:48:59 : INFO:Á¬½Ó³É¹¦
+2017-7-28 13:48:59 : INFO:ce = 0
+2017-7-28 13:49:01 : INFO:µÚ14´ÎÑ­»·¼àÌı
+2017-7-28 13:49:01 : INFO:ce = 0
+2017-7-28 13:49:01 : INFO:µÚ15´ÎÑ­»·¼àÌı
+2017-7-28 13:49:01 : INFO:ce = 0
+2017-7-28 13:49:11 : INFO:µÚ16´ÎÑ­»·¼àÌı
+2017-7-28 13:49:11 : INFO:ce = 0
+2017-7-28 13:49:21 : INFO:µÚ17´ÎÑ­»·¼àÌı
+2017-7-28 13:49:21 : INFO:ce = 0
+2017-7-28 13:49:31 : INFO:µÚ18´ÎÑ­»·¼àÌı
+2017-7-28 13:49:31 : INFO:ce = 0
+2017-7-28 13:49:41 : INFO:µÚ19´ÎÑ­»·¼àÌı
+2017-7-28 13:49:41 : INFO:log: level: 0, area: 131072, <message from='127.0.0.1'>    <body>{&quot;payload&quot;:{&quot;billDate&quot;:&quot;2017-07-06&quot;,&quot;billDesc&quot;:&quot;é¤é¥®è´¦å•&quot;,&quot;billNo&quot;:&quot;10001707064821019095005212&quot;,&quot;billPayment&quot;:{&quot;billBizType&quot;:&quot;bills&quot;,&quot;buyerId&quot;:&quot;2088022074153491&quot;,&quot;buyerPayAmount&quot;:1,&quot;buyerUsername&quot;:&quot;153****3604&quot;,&quot;couponAmount&quot;:0,&quot;invoiceAmount&quot;:1,&quot;merOrderId&quot;:&quot;100017070648210190950052120&quot;,&quot;payDetail&quot;:&quot;èŠ±å‘—æ”¯ä»˜0.01å…ƒã€‚&quot;,&quot;paySeqId&quot;:&quot;00278557658N&quot;,&quot;payTime&quot;:&quot;2017-07-06 09:10:28&quot;,&quot;settleDate&quot;:&quot;2017-07-06&quot;,&quot;status&quot;:&quot;TRADE_SUCCESS&quot;,&quot;targetOrderId&quot;:&quot;2017070621001004490292347542&quot;,&quot;targetSys&quot;:&quot;Alipay 2.0&quot;,&quot;totalAmount&quot;:1},&quot;billQRCode&quot;:&quot;http://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498&quot;,&quot;billStatus&quot;:&quot;PAID&quot;,&quot;createTime&quot;:&quot;2017-07-06 09:10:19&quot;,&quot;instMid&quot;:&quot;QRPAYDEFAULT&quot;,&quot;merName&quot;:&quot;é“¶è”å…¨æ¸ é“æµ‹è¯•è½¬å•†æˆ·&quot;,&quot;mid&quot;:&quot;911000000000000&quot;,&quot;notifyId&quot;:&quot;3f16385f-259e-4f5d-bb41-cfcd371cb5c4&quot;,&quot;tid&quot;:&quot;00000001&quot;,&quot;totalAmount&quot;:1},&quot;timestamp&quot;:&quot;2017-07-06 09:10:30&quot;,&quot;type&quot;:&quot;BILL_NOTIFY&quot;}</body></message>
+2017-7-28 13:49:46 : INFO:½ÓÊÕµ½ĞÂĞÅÏ¢
+2017-7-28 13:49:46 : INFO:type: 16,subject: ,message: {"payload":{"billDate":"2017-07-06","billDesc":"²ÍÒûÕËµ¥","billNo":"10001707064821019095005212","billPayment":{"billBizType":"bills","buyerId":"2088022074153491","buyerPayAmount":1,"buyerUsername":"153****3604","couponAmount":0,"invoiceAmount":1,"merOrderId":"100017070648210190950052120","payDetail":"»¨ßÂÖ§¸¶0.01Ôª¡£","paySeqId":"00278557658N","payTime":"2017-07-06 09:10:28","settleDate":"2017-07-06","status":"TRADE_SUCCESS","targetOrderId":"2017070621001004490292347542","targetSys":"Alipay 2.0","totalAmount":1},"billQRCode":"http://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498","billStatus":"PAID","createTime":"2017-07-06 09:10:19","instMid":"QRPAYDEFAULT","merName":"ÒøÁªÈ«ÇşµÀ²âÊÔ×ªÉÌ»§","mid":"911000000000000","notifyId":"3f16385f-259e-4f5d-bb41-cfcd371cb5c4","tid":"00000001","totalAmount":1},"timestamp":"2017-07-06 09:10:30","type":"BILL_NOTIFY"},thread id: glooxa5fa8bbc5fb423fd7b9f8e3258f5c6c777fbaa7c00000005
+2017-7-28 13:49:46 : INFO:½âÎöJSONÊı¾İ£ºbillDate=2017-07-06,billDesc=²ÍÒûÕËµ¥,billNo=10001707064821019095005212,billBizType=bills,buyerId=2088022074153491,buyerPayAmount=1,buyerUsername=153****3604,couponAmount=0,invoiceAmount=1,merOrderId=100017070648210190950052120,payDetail=»¨ßÂÖ§¸¶0.01Ôª¡£,paySeqId=00278557658N,payTime=2017-07-06 09:10:28,settleDate=2017-07-06,status=TRADE_SUCCESS,targetOrderId=2017070621001004490292347542,targetSys=Alipay 2.0,totalAmount=1,billQRCode=http://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498,billStatus=PAID,createTime=2017-07-06 09:10:19,instMid=QRPAYDEFAULT,merName=ÒøÁªÈ«ÇşµÀ²âÊÔ×ªÉÌ»§,mid=911000000000000,notifyId=3f16385f-259e-4f5d-bb41-cfcd371cb5c4,tid=00000001,timestamp=2017-07-06 09:10:30,type=BILL_NOTIFY
+2017-7-28 13:49:46 : INFO:log: level: 0, area: 262144, <message to='127.0.0.1' type='chat' from='test@127.0.0.1/9x2domlreg' xmlns='jabber:client'><composing xmlns='http://jabber.org/protocol/chatstates'/></message>
+2017-7-28 13:49:47 : INFO:ce = 0
+2017-7-28 13:49:49 : INFO:½ÓÊÕµÄÊı¾İÄÚÈİ£ºbillDate=2017-07-06,billDesc=²ÍÒûÕËµ¥,billNo=10001707064821019095005212,billBizType=bills,buyerId=2088022074153491,buyerPayAmount=1,buyerUsername=153****3604,couponAmount=0,invoiceAmount=1,merOrderId=100017070648210190950052120,payDetail=»¨ßÂÖ§¸¶0.01Ôª¡£,paySeqId=00278557658N,payTime=2017-07-06 09:10:28,settleDate=2017-07-06,status=TRADE_SUCCESS,targetOrderId=2017070621001004490292347542,targetSys=Alipay 2.0,totalAmount=1,billQRCode=http://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498,billStatus=PAID,createTime=2017-07-06 09:10:19,instMid=QRPAYDEFAULT,merName=ÒøÁªÈ«ÇşµÀ²âÊÔ×ªÉÌ»§,mid=911000000000000,notifyId=3f16385f-259e-4f5d-bb41-cfcd371cb5c4,tid=00000001,timestamp=2017-07-06 09:10:30,type=BILL_NOTIFY
+2017-7-28 13:49:58 : INFO:´ò¿ªposcb.dbÊı¾İ¿â³É¹¦
+2017-7-28 13:49:58 : INFO:²åÈëÊı¾İ¿âsql£ºINSERT INTO "poscb" VALUES(NULL , '2017-07-06', '²ÍÒûÕËµ¥', '10001707064821019095005212', 'bills', '2088022074153491', '1', '153****3604', '0', '1', '100017070648210190950052120', '»¨ßÂÖ§¸¶0.01Ôª¡£', '00278557658N', '2017-07-06 09:10:28', '2017-07-06', 'TRADE_SUCCESS', '2017070621001004490292347542', 'Alipay 2.0', '1', 'http://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498', 'PAID', '2017-07-06 09:10:19', 'QRPAYDEFAULT', 'ÒøÁªÈ«ÇşµÀ²âÊÔ×ªÉÌ»§', '911000000000000', '3f16385f-259e-4f5d-bb41-cfcd371cb5c4', '00000001', '2017-07-06 09:10:30', 'BILL_NOTIFY','', '')
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºid
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºbillDate
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºbillDesc
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºbillNo
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºbillBizType
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºbuyerId
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºbuyerPayAmount
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºbuyerUsername
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºcouponAmount
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºinvoiceAmount
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºmerOrderId
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºpayDetail
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºpaySeqId
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºpayTime
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºsettleDate
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºstatus
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºtargetOrderId
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºtargetSys
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºtotalAmount
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºbillQRCode
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºbillStatus
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºcreateTime
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºinstMid
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºmerName
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºmid
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºnotifyId
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºtid
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºtimestamp
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºtype
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºremarks1
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºremarks2
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º1
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º2017-07-06
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º²ÍÒûÕËµ¥
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º10001707064821019095005212
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºbills
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º2088022074153491
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º1
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º153****3604
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º0
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º1
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º100017070648210190950052120
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º»¨ßÂÖ§¸¶0.01Ôª¡£
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º00278557658N
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º2017-07-06 09:10:28
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º2017-07-06
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºTRADE_SUCCESS
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º2017070621001004490292347542
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºAlipay 2.0
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º1
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºhttp://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºPAID
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º2017-07-06 09:10:19
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºQRPAYDEFAULT
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºÒøÁªÈ«ÇşµÀ²âÊÔ×ªÉÌ»§
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º911000000000000
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º3f16385f-259e-4f5d-bb41-cfcd371cb5c4
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º00000001
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º2017-07-06 09:10:30
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£ºBILL_NOTIFY
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º
+2017-7-28 13:49:58 : INFO:Êı¾İÎª£º
+2017-7-28 13:49:58 : INFO:Ö§¸¶±¦µ½ÕË:0.01
+2017-7-28 13:49:58 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5222...
+2017-7-28 13:50:10 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5222)
+2017-7-28 13:50:10 : INFO:log: level: 0, area: 32, Connected to 172.27.52.47 (172.27.52.47:5222)
+2017-7-28 13:50:10 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-28 13:50:10 : INFO:µÚ0´ÎÑ­»·¼àÌı
+2017-7-28 13:50:10 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='7m1tndudry' xml:lang='en' version='1.0'/>
+2017-7-28 13:50:10 : INFO:ce = 0
+2017-7-28 13:50:10 : INFO:µÚ1´ÎÑ­»·¼àÌı
+2017-7-28 13:50:10 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-28 13:50:10 : INFO:log: level: 0, area: 262144, <starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-28 13:50:10 : INFO:ce = 0
+2017-7-28 13:50:10 : INFO:µÚ2´ÎÑ­»·¼àÌı
+2017-7-28 13:50:10 : INFO:log: level: 0, area: 131072, <proceed xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-28 13:50:10 : INFO:log: level: 0, area: 4, starting TLS handshake...
+2017-7-28 13:50:10 : INFO:ce = 0
+2017-7-28 13:50:10 : INFO:µÚ3´ÎÑ­»·¼àÌı
+2017-7-28 13:50:10 : INFO:ce = 0
+2017-7-28 13:50:10 : INFO:µÚ4´ÎÑ­»·¼àÌı
+2017-7-28 13:50:10 : INFO:ce = 0
+2017-7-28 13:50:10 : INFO:µÚ5´ÎÑ­»·¼àÌı
+2017-7-28 13:50:10 : INFO:status: -842150451,issuer: CN=127.0.0.1,peer: CN=127.0.0.1,protocol: TLSv1,mac: SHA,cipher: AES_128,compression: ,from: Tue Jul 11 06:43:25 2017
+,to: Tue Jul 11 06:43:25 2017
+
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 8, connection encryption active
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-28 13:50:26 : INFO:ce = 0
+2017-7-28 13:50:26 : INFO:µÚ6´ÎÑ­»·¼àÌı
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='7m1tndudry' xml:lang='en' version='1.0'/>
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 262144, <auth xmlns='urn:ietf:params:xml:ns:xmpp-sasl' mechanism='SCRAM-SHA-1'>biwsbj10ZXN0LHI9MDAwMDU5ZWMwMDAwNGFlYjAwMDAwNWZjMDAwMDRkY2I=</auth>
+2017-7-28 13:50:26 : INFO:ce = 0
+2017-7-28 13:50:26 : INFO:µÚ7´ÎÑ­»·¼àÌı
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 131072, <challenge xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>cj0wMDAwNTllYzAwMDA0YWViMDAwMDA1ZmMwMDAwNGRjYjZjYjFlOWI0LWFiYmItNDg4ZS1iYTQ1LWQzNGQ0ZmQ2NWRkYSxzPVVXeURwQWtsdW5kN2h6VUk1ak5OV2I4TUFuYjkrNGllLGk9NDA5Ng==</challenge>
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 4, Processing SASL challenge
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 262144, <response xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>Yz1iaXdzLHI9MDAwMDU5ZWMwMDAwNGFlYjAwMDAwNWZjMDAwMDRkY2I2Y2IxZTliNC1hYmJiLTQ4OGUtYmE0NS1kMzRkNGZkNjVkZGEscD01Zk1MS3BOV29vZnZ2MGJPTXBlNUU5Zlh1czQ9</response>
+2017-7-28 13:50:26 : INFO:ce = 0
+2017-7-28 13:50:26 : INFO:µÚ8´ÎÑ­»·¼àÌı
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 131072, <success xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>dj02cGc5dHp3emFrOW1oUVRtWGRjNEhER0dkQ0U9</success>
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 4, SASL authentication successful
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-28 13:50:26 : INFO:ce = 0
+2017-7-28 13:50:26 : INFO:µÚ9´ÎÑ­»·¼àÌı
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='7m1tndudry' xml:lang='en' version='1.0'/>
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'/><session xmlns='urn:ietf:params:xml:ns:xmpp-session'><optional/></session><sm xmlns='urn:xmpp:sm:2'/><sm xmlns='urn:xmpp:sm:3'/></stream:features>
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 262144, <iq id='f1ac7bda7aef28f24aa505fe55fdc4b96f799b4d00000001' type='set' xmlns='jabber:client'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><resource/></bind></iq>
+2017-7-28 13:50:26 : INFO:ce = 0
+2017-7-28 13:50:26 : INFO:µÚ10´ÎÑ­»·¼àÌı
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 131072, <iq type='result' id='f1ac7bda7aef28f24aa505fe55fdc4b96f799b4d00000001' to='127.0.0.1/7m1tndudry'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><jid>test@127.0.0.1/7m1tndudry</jid></bind></iq>
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 262144, <iq id='f1ac7bda7aef28f24aa505fe55fdc4b96f799b4d00000002' type='set' from='test@127.0.0.1/7m1tndudry' xmlns='jabber:client'><session xmlns='urn:ietf:params:xml:ns:xmpp-session'/></iq>
+2017-7-28 13:50:26 : INFO:ce = 0
+2017-7-28 13:50:26 : INFO:µÚ11´ÎÑ­»·¼àÌı
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 131072, <iq type='result' id='f1ac7bda7aef28f24aa505fe55fdc4b96f799b4d00000002' to='test@127.0.0.1/7m1tndudry'/>
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 262144, <iq id='f1ac7bda7aef28f24aa505fe55fdc4b96f799b4d00000003' type='get' from='test@127.0.0.1/7m1tndudry' xmlns='jabber:client'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 262144, <iq id='f1ac7bda7aef28f24aa505fe55fdc4b96f799b4d00000004' type='get' from='test@127.0.0.1/7m1tndudry' xmlns='jabber:client'><query xmlns='jabber:iq:roster'/></iq>
+2017-7-28 13:50:26 : INFO:ce = 0
+2017-7-28 13:50:26 : INFO:µÚ12´ÎÑ­»·¼àÌı
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 131072, <iq type='result' id='f1ac7bda7aef28f24aa505fe55fdc4b96f799b4d00000003' to='test@127.0.0.1/7m1tndudry'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-7-28 13:50:26 : INFO:ce = 0
+2017-7-28 13:50:26 : INFO:µÚ13´ÎÑ­»·¼àÌı
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 131072, <iq type='result' id='f1ac7bda7aef28f24aa505fe55fdc4b96f799b4d00000004' to='test@127.0.0.1/7m1tndudry'><query xmlns='jabber:iq:roster'><item jid='admin@127.0.0.1' name='admin' subscription='both'><group>Friends</group></item></query></iq>
+2017-7-28 13:50:26 : INFO:log: level: 0, area: 262144, <presence from='test@127.0.0.1/7m1tndudry' xmlns='jabber:client'><priority>0</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://camaya.net/gloox' ver='MCjlOscOkUNT+8QzA5fFJj2oMSU='/></presence>
+2017-7-28 13:50:27 : INFO:Á¬½Ó³É¹¦
+2017-7-28 13:50:27 : INFO:ce = 0
+2017-7-28 13:50:27 : INFO:µÚ14´ÎÑ­»·¼àÌı
+2017-7-28 13:50:27 : INFO:log: level: 0, area: 131072, <presence from='test@127.0.0.1/9x2domlreg' to='test@127.0.0.1/7m1tndudry'><priority>0</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://camaya.net/gloox' ver='MCjlOscOkUNT+8QzA5fFJj2oMSU='/></presence>
+2017-7-28 13:50:27 : INFO:ce = 0
+2017-7-28 13:50:27 : INFO:µÚ15´ÎÑ­»·¼àÌı
+2017-7-28 13:50:27 : INFO:ce = 0
+2017-7-28 13:51:12 : INFO:µÚ16´ÎÑ­»·¼àÌı
+2017-7-28 13:51:12 : INFO:ce = 0
+2017-7-28 13:51:14 : INFO:µÚ17´ÎÑ­»·¼àÌı
+2017-7-28 13:51:14 : INFO:ce = 0
+2017-7-28 13:51:18 : INFO:µÚ18´ÎÑ­»·¼àÌı
+2017-7-28 13:51:18 : INFO:ce = 0
+2017-7-28 13:51:21 : INFO:µÚ19´ÎÑ­»·¼àÌı
+2017-7-28 13:51:21 : INFO:log: level: 0, area: 131072, <iq type='get' id='278-486' from='127.0.0.1' to='test@127.0.0.1/7m1tndudry'>   <ping xmlns='urn:xmpp:ping'/></iq>
+2017-7-28 13:51:27 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='278-486' type='result' from='test@127.0.0.1/7m1tndudry' xmlns='jabber:client'/>
+2017-7-28 13:51:27 : INFO:ce = 0
+2017-7-28 13:51:27 : INFO:µÚ20´ÎÑ­»·¼àÌı
+2017-7-28 13:51:27 : INFO:ce = 0
+2017-7-28 13:51:31 : INFO:µÚ21´ÎÑ­»·¼àÌı
+2017-7-28 13:51:31 : INFO:ce = 0
+2017-7-28 13:51:41 : INFO:µÚ22´ÎÑ­»·¼àÌı
+2017-7-28 13:51:41 : INFO:ce = 0
+2017-7-28 13:51:46 : INFO:µÚ23´ÎÑ­»·¼àÌı
+2017-7-28 13:51:46 : INFO:log: level: 0, area: 131072, <presence type='unavailable' from='test@127.0.0.1/9x2domlreg' to='test@127.0.0.1/7m1tndudry'/>
+2017-7-28 13:51:47 : INFO:ce = 0
+2017-7-28 13:51:47 : INFO:µÚ24´ÎÑ­»·¼àÌı
+2017-7-28 13:51:47 : INFO:ce = 0
+2017-7-28 13:51:47 : INFO:µÚ25´ÎÑ­»·¼àÌı
+2017-7-28 13:51:47 : INFO:log: level: 0, area: 131072, <message from='127.0.0.1'><body>{&quot;payload&quot;:{&quot;billDate&quot;:&quot;2017-07-06&quot;,&quot;billDesc&quot;:&quot;é¤é¥®è´¦å•&quot;,&quot;billNo&quot;:&quot;10001707064821019095005212&quot;,&quot;billPayment&quot;:{&quot;billBizType&quot;:&quot;bills&quot;,&quot;buyerId&quot;:&quot;2088022074153491&quot;,&quot;buyerPayAmount&quot;:1,&quot;buyerUsername&quot;:&quot;153****3604&quot;,&quot;couponAmount&quot;:0,&quot;invoiceAmount&quot;:1,&quot;merOrderId&quot;:&quot;100017070648210190950052120&quot;,&quot;payDetail&quot;:&quot;èŠ±å‘—æ”¯ä»˜0.01å…ƒã€‚&quot;,&quot;paySeqId&quot;:&quot;00278557658N&quot;,&quot;payTime&quot;:&quot;2017-07-06 09:10:28&quot;,&quot;settleDate&quot;:&quot;2017-07-06&quot;,&quot;status&quot;:&quot;TRADE_SUCCESS&quot;,&quot;targetOrderId&quot;:&quot;2017070621001004490292347542&quot;,&quot;targetSys&quot;:&quot;Alipay 2.0&quot;,&quot;totalAmount&quot;:1},&quot;billQRCode&quot;:&quot;http://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498&quot;,&quot;billStatus&quot;:&quot;PAID&quot;,&quot;createTime&quot;:&quot;2017-07-06 09:10:19&quot;,&quot;instMid&quot;:&quot;QRPAYDEFAULT&quot;,&quot;merName&quot;:&quot;é“¶è”å…¨æ¸ é“æµ‹è¯•è½¬å•†æˆ·&quot;,&quot;mid&quot;:&quot;911000000000000&quot;,&quot;notifyId&quot;:&quot;3f16385f-259e-4f5d-bb41-cfcd371cb5c4&quot;,&quot;tid&quot;:&quot;00000001&quot;,&quot;totalAmount&quot;:1},&quot;timestamp&quot;:&quot;2017-07-06 09:10:30&quot;,&quot;type&quot;:&quot;BILL_NOTIFY&quot;}</body></message>
+2017-7-28 13:51:50 : INFO:½ÓÊÕµ½ĞÂĞÅÏ¢
+2017-7-28 13:51:50 : INFO:type: 16,subject: ,message: {"payload":{"billDate":"2017-07-06","billDesc":"²ÍÒûÕËµ¥","billNo":"10001707064821019095005212","billPayment":{"billBizType":"bills","buyerId":"2088022074153491","buyerPayAmount":1,"buyerUsername":"153****3604","couponAmount":0,"invoiceAmount":1,"merOrderId":"100017070648210190950052120","payDetail":"»¨ßÂÖ§¸¶0.01Ôª¡£","paySeqId":"00278557658N","payTime":"2017-07-06 09:10:28","settleDate":"2017-07-06","status":"TRADE_SUCCESS","targetOrderId":"2017070621001004490292347542","targetSys":"Alipay 2.0","totalAmount":1},"billQRCode":"http://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498","billStatus":"PAID","createTime":"2017-07-06 09:10:19","instMid":"QRPAYDEFAULT","merName":"ÒøÁªÈ«ÇşµÀ²âÊÔ×ªÉÌ»§","mid":"911000000000000","notifyId":"3f16385f-259e-4f5d-bb41-cfcd371cb5c4","tid":"00000001","totalAmount":1},"timestamp":"2017-07-06 09:10:30","type":"BILL_NOTIFY"},thread id: glooxf1ac7bda7aef28f24aa505fe55fdc4b96f799b4d00000005
+2017-7-28 13:51:50 : INFO:½âÎöJSONÊı¾İ£ºbillDate=2017-07-06,billDesc=²ÍÒûÕËµ¥,billNo=10001707064821019095005212,billBizType=bills,buyerId=2088022074153491,buyerPayAmount=1,buyerUsername=153****3604,couponAmount=0,invoiceAmount=1,merOrderId=100017070648210190950052120,payDetail=»¨ßÂÖ§¸¶0.01Ôª¡£,paySeqId=00278557658N,payTime=2017-07-06 09:10:28,settleDate=2017-07-06,status=TRADE_SUCCESS,targetOrderId=2017070621001004490292347542,targetSys=Alipay 2.0,totalAmount=1,billQRCode=http://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498,billStatus=PAID,createTime=2017-07-06 09:10:19,instMid=QRPAYDEFAULT,merName=ÒøÁªÈ«ÇşµÀ²âÊÔ×ªÉÌ»§,mid=911000000000000,notifyId=3f16385f-259e-4f5d-bb41-cfcd371cb5c4,tid=00000001,timestamp=2017-07-06 09:10:30,type=BILL_NOTIFY
+2017-7-28 13:51:50 : INFO:log: level: 0, area: 262144, <message to='127.0.0.1' type='chat' from='test@127.0.0.1/7m1tndudry' xmlns='jabber:client'><composing xmlns='http://jabber.org/protocol/chatstates'/></message>
+2017-7-28 13:51:51 : INFO:ce = 0
+2017-7-28 13:51:53 : INFO:½ÓÊÕµÄÊı¾İÄÚÈİ£ºbillDate=2017-07-06,billDesc=²ÍÒûÕËµ¥,billNo=10001707064821019095005212,billBizType=bills,buyerId=2088022074153491,buyerPayAmount=1,buyerUsername=153****3604,couponAmount=0,invoiceAmount=1,merOrderId=100017070648210190950052120,payDetail=»¨ßÂÖ§¸¶0.01Ôª¡£,paySeqId=00278557658N,payTime=2017-07-06 09:10:28,settleDate=2017-07-06,status=TRADE_SUCCESS,targetOrderId=2017070621001004490292347542,targetSys=Alipay 2.0,totalAmount=1,billQRCode=http://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498,billStatus=PAID,createTime=2017-07-06 09:10:19,instMid=QRPAYDEFAULT,merName=ÒøÁªÈ«ÇşµÀ²âÊÔ×ªÉÌ»§,mid=911000000000000,notifyId=3f16385f-259e-4f5d-bb41-cfcd371cb5c4,tid=00000001,timestamp=2017-07-06 09:10:30,type=BILL_NOTIFY
+2017-7-28 13:51:53 : INFO:´ò¿ªposcb.dbÊı¾İ¿â³É¹¦
+2017-7-28 13:51:53 : INFO:²åÈëÊı¾İ¿âsql£ºINSERT INTO "poscb" VALUES(NULL , '2017-07-06', '²ÍÒûÕËµ¥', '10001707064821019095005212', 'bills', '2088022074153491', '1', '153****3604', '0', '1', '100017070648210190950052120', '»¨ßÂÖ§¸¶0.01Ôª¡£', '00278557658N', '2017-07-06 09:10:28', '2017-07-06', 'TRADE_SUCCESS', '2017070621001004490292347542', 'Alipay 2.0', '1', 'http://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498', 'PAID', '2017-07-06 09:10:19', 'QRPAYDEFAULT', 'ÒøÁªÈ«ÇşµÀ²âÊÔ×ªÉÌ»§', '911000000000000', '3f16385f-259e-4f5d-bb41-cfcd371cb5c4', '00000001', '2017-07-06 09:10:30', 'BILL_NOTIFY','', '')
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºid
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºbillDate
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºbillDesc
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºbillNo
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºbillBizType
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºbuyerId
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºbuyerPayAmount
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºbuyerUsername
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºcouponAmount
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºinvoiceAmount
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºmerOrderId
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºpayDetail
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºpaySeqId
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºpayTime
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºsettleDate
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºstatus
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºtargetOrderId
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºtargetSys
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºtotalAmount
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºbillQRCode
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºbillStatus
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºcreateTime
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºinstMid
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºmerName
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºmid
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºnotifyId
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºtid
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºtimestamp
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºtype
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºremarks1
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºremarks2
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º1
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2017-07-06
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º²ÍÒûÕËµ¥
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º10001707064821019095005212
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºbills
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2088022074153491
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º1
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º153****3604
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º0
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º1
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º100017070648210190950052120
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º»¨ßÂÖ§¸¶0.01Ôª¡£
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º00278557658N
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2017-07-06 09:10:28
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2017-07-06
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºTRADE_SUCCESS
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2017070621001004490292347542
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºAlipay 2.0
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º1
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºhttp://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºPAID
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2017-07-06 09:10:19
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºQRPAYDEFAULT
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºÒøÁªÈ«ÇşµÀ²âÊÔ×ªÉÌ»§
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º911000000000000
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º3f16385f-259e-4f5d-bb41-cfcd371cb5c4
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º00000001
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2017-07-06 09:10:30
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºBILL_NOTIFY
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2017-07-06
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º²ÍÒûÕËµ¥
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º10001707064821019095005212
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºbills
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2088022074153491
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º1
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º153****3604
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º0
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º1
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º100017070648210190950052120
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º»¨ßÂÖ§¸¶0.01Ôª¡£
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º00278557658N
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2017-07-06 09:10:28
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2017-07-06
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºTRADE_SUCCESS
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2017070621001004490292347542
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºAlipay 2.0
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º1
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºhttp://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºPAID
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2017-07-06 09:10:19
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºQRPAYDEFAULT
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºÒøÁªÈ«ÇşµÀ²âÊÔ×ªÉÌ»§
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º911000000000000
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º3f16385f-259e-4f5d-bb41-cfcd371cb5c4
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º00000001
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º2017-07-06 09:10:30
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£ºBILL_NOTIFY
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º
+2017-7-28 13:51:53 : INFO:Êı¾İÎª£º
+2017-7-28 13:51:53 : INFO:Ö§¸¶±¦µ½ÕË:0.01
+2017-7-28 13:51:53 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47:5222...
+2017-7-28 13:52:16 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5222)
+2017-7-28 13:52:16 : INFO:log: level: 0, area: 32, Connected to 172.27.52.47 (172.27.52.47:5222)
+2017-7-28 13:52:16 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-28 13:52:16 : INFO:µÚ0´ÎÑ­»·¼àÌı
+2017-7-28 13:52:24 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='1z3zyvwkub' xml:lang='en' version='1.0'/>
+2017-7-28 13:52:24 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-28 13:52:24 : INFO:log: level: 0, area: 262144, <starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-28 13:52:24 : INFO:ce = 0
+2017-7-28 13:52:24 : INFO:µÚ1´ÎÑ­»·¼àÌı
+2017-7-28 13:52:26 : INFO:log: level: 0, area: 131072, <proceed xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-28 13:52:26 : INFO:log: level: 0, area: 4, starting TLS handshake...
+2017-7-28 13:52:26 : INFO:ce = 0
+2017-7-28 13:52:26 : INFO:µÚ2´ÎÑ­»·¼àÌı
+2017-7-28 13:52:41 : INFO:ce = 0
+2017-7-28 13:52:41 : INFO:µÚ3´ÎÑ­»·¼àÌı
+2017-7-28 13:52:42 : INFO:status: -842150451,issuer: CN=127.0.0.1,peer: CN=127.0.0.1,protocol: TLSv1,mac: SHA,cipher: AES_128,compression: ,from: Tue Jul 11 06:43:25 2017
+,to: Tue Jul 11 06:43:25 2017
+
+2017-7-28 13:52:45 : INFO:log: level: 0, area: 8, connection encryption active
+2017-7-28 13:52:45 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-28 13:52:45 : INFO:ce = 0
+2017-7-28 13:52:45 : INFO:µÚ4´ÎÑ­»·¼àÌı
+2017-7-28 13:53:02 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='1z3zyvwkub' xml:lang='en' version='1.0'/>
+2017-7-28 13:53:02 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-28 13:53:02 : INFO:log: level: 0, area: 262144, <auth xmlns='urn:ietf:params:xml:ns:xmpp-sasl' mechanism='SCRAM-SHA-1'>biwsbj10ZXN0LHI9MDAwMDYwNGIwMDAwNjk5ZjAwMDAxZGFkMDAwMDBmOTY=</auth>
+2017-7-28 13:53:02 : INFO:ce = 0
+2017-7-28 13:53:02 : INFO:µÚ5´ÎÑ­»·¼àÌı
+2017-7-28 13:53:05 : INFO:log: level: 0, area: 131072, <challenge xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>cj0wMDAwNjA0YjAwMDA2OTlmMDAwMDFkYWQwMDAwMGY5NjhmM2NmODMyLWMxNjMtNDRkYy1iMjFmLTI5N2UxMzM2NWM1NCxzPVVXeURwQWtsdW5kN2h6VUk1ak5OV2I4TUFuYjkrNGllLGk9NDA5Ng==</challenge>
+2017-7-28 13:53:05 : INFO:log: level: 0, area: 4, Processing SASL challenge
+2017-7-28 13:53:05 : INFO:log: level: 0, area: 262144, <response xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>Yz1iaXdzLHI9MDAwMDYwNGIwMDAwNjk5ZjAwMDAxZGFkMDAwMDBmOTY4ZjNjZjgzMi1jMTYzLTQ0ZGMtYjIxZi0yOTdlMTMzNjVjNTQscD0vT0l2bm43M3g2TFBKNGNRNGs3Nm5ONVliVGs9</response>
+2017-7-28 13:53:05 : INFO:ce = 0
+2017-7-28 13:53:05 : INFO:µÚ6´ÎÑ­»·¼àÌı
+2017-7-28 13:53:42 : INFO:log: level: 0, area: 131072, <success xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>dj1EaGg2azR6ZHNXeERFOG9vTDdJOVNoY3NjNHc9</success>
+2017-7-28 13:53:42 : INFO:log: level: 0, area: 4, SASL authentication successful
+2017-7-28 13:53:42 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-28 13:53:42 : INFO:ce = 0
+2017-7-28 13:53:42 : INFO:µÚ7´ÎÑ­»·¼àÌı
+2017-7-28 13:53:47 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='1z3zyvwkub' xml:lang='en' version='1.0'/>
+2017-7-28 13:53:47 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'/><session xmlns='urn:ietf:params:xml:ns:xmpp-session'><optional/></session><sm xmlns='urn:xmpp:sm:2'/><sm xmlns='urn:xmpp:sm:3'/></stream:features>
+2017-7-28 13:53:47 : INFO:log: level: 0, area: 262144, <iq id='e7152407ba144cf6042b6a902480e176f04755f100000001' type='set' xmlns='jabber:client'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><resource/></bind></iq>
+2017-7-28 13:53:47 : INFO:ce = 0
+2017-7-28 13:53:47 : INFO:µÚ8´ÎÑ­»·¼àÌı
+2017-7-28 13:53:49 : INFO:log: level: 0, area: 131072, <iq type='result' id='e7152407ba144cf6042b6a902480e176f04755f100000001' to='127.0.0.1/1z3zyvwkub'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><jid>test@127.0.0.1/1z3zyvwkub</jid></bind></iq>
+2017-7-28 13:53:49 : INFO:log: level: 0, area: 262144, <iq id='e7152407ba144cf6042b6a902480e176f04755f100000002' type='set' from='test@127.0.0.1/1z3zyvwkub' xmlns='jabber:client'><session xmlns='urn:ietf:params:xml:ns:xmpp-session'/></iq>
+2017-7-28 13:53:49 : INFO:ce = 0
+2017-7-28 13:53:49 : INFO:µÚ9´ÎÑ­»·¼àÌı
+2017-7-28 13:53:51 : INFO:log: level: 0, area: 131072, <iq type='result' id='e7152407ba144cf6042b6a902480e176f04755f100000002' to='test@127.0.0.1/1z3zyvwkub'/>
+2017-7-28 13:53:51 : INFO:log: level: 0, area: 262144, <iq id='e7152407ba144cf6042b6a902480e176f04755f100000003' type='get' from='test@127.0.0.1/1z3zyvwkub' xmlns='jabber:client'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-7-28 13:53:51 : INFO:log: level: 0, area: 262144, <iq id='e7152407ba144cf6042b6a902480e176f04755f100000004' type='get' from='test@127.0.0.1/1z3zyvwkub' xmlns='jabber:client'><query xmlns='jabber:iq:roster'/></iq>
+2017-7-28 13:53:51 : INFO:ce = 0
+2017-7-28 13:53:51 : INFO:µÚ10´ÎÑ­»·¼àÌı
+2017-7-28 13:53:52 : INFO:log: level: 0, area: 131072, <iq type='result' id='e7152407ba144cf6042b6a902480e176f04755f100000003' to='test@127.0.0.1/1z3zyvwkub'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-7-28 13:53:52 : INFO:log: level: 0, area: 131072, <iq type='result' id='e7152407ba144cf6042b6a902480e176f04755f100000004' to='test@127.0.0.1/1z3zyvwkub'><query xmlns='jabber:iq:roster'><item jid='admin@127.0.0.1' name='admin' subscription='both'><group>Friends</group></item></query></iq>
+2017-7-28 13:53:52 : INFO:log: level: 0, area: 262144, <presence from='test@127.0.0.1/1z3zyvwkub' xmlns='jabber:client'><priority>0</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://camaya.net/gloox' ver='MCjlOscOkUNT+8QzA5fFJj2oMSU='/></presence>
+2017-7-28 13:53:52 : INFO:Á¬½Ó³É¹¦
+2017-7-28 13:53:52 : INFO:ce = 0
+2017-7-28 13:53:52 : INFO:µÚ11´ÎÑ­»·¼àÌı
+2017-7-28 13:53:54 : INFO:log: level: 0, area: 131072, <iq type='get' id='101-489' from='127.0.0.1' to='test@127.0.0.1/1z3zyvwkub'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-7-28 13:54:52 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='101-489' type='result' from='test@127.0.0.1/1z3zyvwkub' xmlns='jabber:client'/>
+2017-7-28 13:54:52 : INFO:ce = 0
+2017-7-28 13:54:52 : INFO:µÚ12´ÎÑ­»·¼àÌı
+2017-7-28 13:55:36 : INFO:log: level: 0, area: 131072, <iq type='get' id='626-490' from='127.0.0.1' to='test@127.0.0.1/1z3zyvwkub'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-7-28 13:56:35 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='626-490' type='result' from='test@127.0.0.1/1z3zyvwkub' xmlns='jabber:client'/>
+2017-7-28 13:56:35 : INFO:ce = 0
+2017-7-28 13:56:53 : INFO:µÚ13´ÎÑ­»·¼àÌı
+2017-7-28 13:56:55 : INFO:log: level: 0, area: 131072, <iq type='get' id='848-491' from='127.0.0.1' to='test@127.0.0.1/1z3zyvwkub'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-7-28 13:57:36 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='848-491' type='result' from='test@127.0.0.1/1z3zyvwkub' xmlns='jabber:client'/>
+2017-7-28 13:57:36 : INFO:ce = 0
+2017-7-28 13:57:36 : INFO:µÚ14´ÎÑ­»·¼àÌı
+2017-7-28 13:58:31 : INFO:ce = 0
+2017-7-28 13:59:52 : INFO:µÚ15´ÎÑ­»·¼àÌı
+2017-7-28 14:00:01 : INFO:ce = 0
+2017-7-28 14:01:34 : INFO:µÚ16´ÎÑ­»·¼àÌı
+2017-7-28 14:01:54 : INFO:ce = 0
+2017-7-28 14:06:22 : INFO:µÚ17´ÎÑ­»·¼àÌı
+2017-7-28 14:06:33 : INFO:ce = 0
+2017-7-28 14:07:33 : INFO:µÚ18´ÎÑ­»·¼àÌı
+2017-7-28 14:07:37 : INFO:ce = 0
+2017-7-28 14:08:37 : 

@@ -1,0 +1,128 @@
+INFO:∂¡»°≈‰÷√Œƒº˛
+2017-7-26 9:05:19 : INFO:¡¨Ω” ß∞‹£¨÷ÿ–¬¡¨Ω”
+2017-7-26 9:05:19 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47...
+2017-7-26 9:05:19 : INFO:log: level: 1, area: 32, DnsQuery_UTF8() failed: 123
+2017-7-26 9:05:19 : INFO:log: level: 1, area: 32, Notice: no SRV record found for 172.27.52.47, using default port.
+2017-7-26 9:05:19 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5222)
+2017-7-26 9:05:19 : INFO:log: level: 0, area: 32, Connected to 172.27.52.47 (172.27.52.47:5222)
+2017-7-26 9:05:19 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-26 9:05:19 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='91gcbiw6qd' xml:lang='en' version='1.0'/>
+2017-7-26 9:05:19 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-26 9:05:20 : INFO:log: level: 0, area: 262144, <starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-26 9:05:20 : INFO:log: level: 0, area: 131072, <proceed xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-26 9:05:20 : INFO:log: level: 0, area: 4, starting TLS handshake...
+2017-7-26 9:05:20 : INFO:status: -842150451,issuer: CN=127.0.0.1,peer: CN=127.0.0.1,protocol: TLSv1,mac: SHA,cipher: AES_128,compression: ,from: Tue Jul 11 06:43:25 2017
+,to: Tue Jul 11 06:43:25 2017
+
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 8, connection encryption active
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='91gcbiw6qd' xml:lang='en' version='1.0'/>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 262144, <auth xmlns='urn:ietf:params:xml:ns:xmpp-sasl' mechanism='SCRAM-SHA-1'>biwsbj10ZXN0LHI9MDAwMDQ1ODYwMDAwM2M2NDAwMDA2OTA4MDAwMDQxNTk=</auth>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 131072, <challenge xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>cj0wMDAwNDU4NjAwMDAzYzY0MDAwMDY5MDgwMDAwNDE1OTNmMjAzNjhlLTE3ZmUtNGRiNS04MjBkLTA0ZGM2NTJkZGM5YSxzPVVXeURwQWtsdW5kN2h6VUk1ak5OV2I4TUFuYjkrNGllLGk9NDA5Ng==</challenge>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 4, Processing SASL challenge
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 262144, <response xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>Yz1iaXdzLHI9MDAwMDQ1ODYwMDAwM2M2NDAwMDA2OTA4MDAwMDQxNTkzZjIwMzY4ZS0xN2ZlLTRkYjUtODIwZC0wNGRjNjUyZGRjOWEscD1NdjVza01xZ3dOQmlGeVlGelo0c2FNbFg0a0k9</response>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 131072, <success xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>dj1MMjE3Njl1emdyOGt4NmV3NnpWWncwSWo3R289</success>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 4, SASL authentication successful
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='91gcbiw6qd' xml:lang='en' version='1.0'/>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'/><session xmlns='urn:ietf:params:xml:ns:xmpp-session'><optional/></session><sm xmlns='urn:xmpp:sm:2'/><sm xmlns='urn:xmpp:sm:3'/></stream:features>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 262144, <iq id='2918ef6f8c33d226f461740f90269ed5425dcb9e00000001' type='set' xmlns='jabber:client'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><resource/></bind></iq>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 131072, <iq type='result' id='2918ef6f8c33d226f461740f90269ed5425dcb9e00000001' to='127.0.0.1/91gcbiw6qd'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><jid>test@127.0.0.1/91gcbiw6qd</jid></bind></iq>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 262144, <iq id='2918ef6f8c33d226f461740f90269ed5425dcb9e00000002' type='set' from='test@127.0.0.1/91gcbiw6qd' xmlns='jabber:client'><session xmlns='urn:ietf:params:xml:ns:xmpp-session'/></iq>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 131072, <iq type='result' id='2918ef6f8c33d226f461740f90269ed5425dcb9e00000002' to='test@127.0.0.1/91gcbiw6qd'/>
+2017-7-26 9:05:22 : INFO:log: level: 0, area: 262144, <iq id='2918ef6f8c33d226f461740f90269ed5425dcb9e00000003' type='get' from='test@127.0.0.1/91gcbiw6qd' xmlns='jabber:client'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-7-26 9:05:23 : INFO:log: level: 0, area: 262144, <iq id='2918ef6f8c33d226f461740f90269ed5425dcb9e00000004' type='get' from='test@127.0.0.1/91gcbiw6qd' xmlns='jabber:client'><query xmlns='jabber:iq:roster'/></iq>
+2017-7-26 9:05:23 : INFO:log: level: 0, area: 131072, <iq type='result' id='2918ef6f8c33d226f461740f90269ed5425dcb9e00000003' to='test@127.0.0.1/91gcbiw6qd'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-7-26 9:05:23 : INFO:log: level: 0, area: 131072, <iq type='result' id='2918ef6f8c33d226f461740f90269ed5425dcb9e00000004' to='test@127.0.0.1/91gcbiw6qd'><query xmlns='jabber:iq:roster'><item jid='admin@127.0.0.1' name='admin' subscription='both'><group>Friends</group></item></query></iq>
+2017-7-26 9:05:23 : INFO:log: level: 0, area: 262144, <presence from='test@127.0.0.1/91gcbiw6qd' xmlns='jabber:client'><priority>0</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://camaya.net/gloox' ver='MCjlOscOkUNT+8QzA5fFJj2oMSU='/></presence>
+2017-7-26 9:05:23 : INFO:¡¨Ω”≥…π¶
+2017-7-26 9:05:23 : INFO:log: level: 0, area: 131072, <iq type='get' id='433-3' to='test@127.0.0.1/91gcbiw6qd' from='127.0.0.1'><query xmlns='http://jabber.org/protocol/disco#info'/></iq>
+2017-7-26 9:05:28 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' from='test@127.0.0.1/91gcbiw6qd' id='433-3' type='result' xmlns='jabber:client'><query xmlns='http://jabber.org/protocol/disco#info'><identity category='client' type='bot'/><feature var='http://jabber.org/protocol/chatstates'/><feature var='http://jabber.org/protocol/disco#info'/><feature var='http://jabber.org/protocol/disco#items'/><feature var='jabber:iq:version'/><feature var='urn:xmpp:ping'/></query></iq>
+2017-7-26 9:05:28 : INFO:log: level: 0, area: 131072, <iq type='get' id='561-4' from='127.0.0.1' to='test@127.0.0.1/91gcbiw6qd'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-7-26 9:06:29 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='561-4' type='result' from='test@127.0.0.1/91gcbiw6qd' xmlns='jabber:client'/>
+2017-7-26 9:06:29 : INFO:log: level: 0, area: 131072, <iq type='get' id='761-5' from='127.0.0.1' to='test@127.0.0.1/91gcbiw6qd'><ping xmlns='urn:xmpp:ping'/></iq>
+2017-7-26 9:07:29 : INFO:log: level: 0, area: 262144, <iq to='127.0.0.1' id='761-5' type='result' from='test@127.0.0.1/91gcbiw6qd' xmlns='jabber:client'/>
+2017-7-26 9:07:29 : INFO:log: level: 0, area: 131072, <message from='127.0.0.1'><body>{&quot;payload&quot;:{&quot;billDate&quot;:&quot;2017-07-06&quot;,&quot;billDesc&quot;:&quot;È§êÈ•ÆË¥¶Âçï&quot;,&quot;billNo&quot;:&quot;10001707064821019095005212&quot;,&quot;billPayment&quot;:{&quot;billBizType&quot;:&quot;bills&quot;,&quot;buyerId&quot;:&quot;2088022074153491&quot;,&quot;buyerPayAmount&quot;:1,&quot;buyerUsername&quot;:&quot;153****3604&quot;,&quot;couponAmount&quot;:0,&quot;invoiceAmount&quot;:1,&quot;merOrderId&quot;:&quot;100017070648210190950052120&quot;,&quot;payDetail&quot;:&quot;Ëä±ÂëóÊîØ‰ªò0.01ÂÖÉ„ÄÇ&quot;,&quot;paySeqId&quot;:&quot;00278557658N&quot;,&quot;payTime&quot;:&quot;2017-07-06 09:10:28&quot;,&quot;settleDate&quot;:&quot;2017-07-06&quot;,&quot;status&quot;:&quot;TRADE_SUCCESS&quot;,&quot;targetOrderId&quot;:&quot;2017070621001004490292347542&quot;,&quot;targetSys&quot;:&quot;Alipay 2.0&quot;,&quot;totalAmount&quot;:1},&quot;billQRCode&quot;:&quot;http://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498&quot;,&quot;billStatus&quot;:&quot;PAID&quot;,&quot;createTime&quot;:&quot;2017-07-06 09:10:19&quot;,&quot;instMid&quot;:&quot;QRPAYDEFAULT&quot;,&quot;merName&quot;:&quot;Èì∂ËÅîÂÖ®Ê∏†ÈÅìÊµãËØïËΩ¨ÂïÜÊà∑&quot;,&quot;mid&quot;:&quot;911000000000000&quot;,&quot;notifyId&quot;:&quot;3f16385f-259e-4f5d-bb41-cfcd371cb5c4&quot;,&quot;tid&quot;:&quot;00000001&quot;,&quot;totalAmount&quot;:1},&quot;timestamp&quot;:&quot;2017-07-06 09:10:30&quot;,&quot;type&quot;:&quot;BILL_NOTIFY&quot;}</body></message>
+2017-7-26 9:07:59 : INFO:Ω” ’µΩ–¬–≈œ¢
+2017-7-26 9:07:59 : INFO:type: 16,subject: ,message: {"payload":{"billDate":"2017-07-06","billDesc":"≤Õ“˚’Àµ•","billNo":"10001707064821019095005212","billPayment":{"billBizType":"bills","buyerId":"2088022074153491","buyerPayAmount":1,"buyerUsername":"153****3604","couponAmount":0,"invoiceAmount":1,"merOrderId":"100017070648210190950052120","payDetail":"ª®ﬂ¬÷ß∏∂0.01‘™°£","paySeqId":"00278557658N","payTime":"2017-07-06 09:10:28","settleDate":"2017-07-06","status":"TRADE_SUCCESS","targetOrderId":"2017070621001004490292347542","targetSys":"Alipay 2.0","totalAmount":1},"billQRCode":"http://umspay.izhong.me/bills/qrCode.do?id=10001705187181406118324498","billStatus":"PAID","createTime":"2017-07-06 09:10:19","instMid":"QRPAYDEFAULT","merName":"“¯¡™»´«˛µ¿≤‚ ‘◊™…Ãªß","mid":"911000000000000","notifyId":"3f16385f-259e-4f5d-bb41-cfcd371cb5c4","tid":"00000001","totalAmount":1},"timestamp":"2017-07-06 09:10:30","type":"BILL_NOTIFY"},thread id: gloox2918ef6f8c33d226f461740f90269ed5425dcb9e00000005
+2017-7-26 9:07:59 : INFO:Ω‚ŒˆJSON ˝æ›£∫mid=911000000000000,tid=00000001,paySeqId=00278557658N,billDesc=≤Õ“˚’Àµ•,billNo=10001707064821019095005212,payTime=2017-07-06 09:10:28,merName=“¯¡™»´«˛µ¿≤‚ ‘◊™…Ãªß,targetOrderId=2017070621001004490292347542,merOrderId=100017070648210190950052120,targetSys=Alipay 2.0
+2017-7-26 9:07:59 : INFO:log: level: 0, area: 262144, <message to='127.0.0.1' type='chat' from='test@127.0.0.1/91gcbiw6qd' xmlns='jabber:client'><composing xmlns='http://jabber.org/protocol/chatstates'/></message>
+2017-7-26 9:08:00 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47...
+2017-7-26 9:08:02 : INFO:log: level: 1, area: 32, DnsQuery_UTF8() failed: 123
+2017-7-26 9:08:02 : INFO:log: level: 1, area: 32, Notice: no SRV record found for 172.27.52.47, using default port.
+2017-7-26 9:08:02 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5222)
+2017-7-26 9:08:02 : INFO:log: level: 0, area: 32, Connected to 172.27.52.47 (172.27.52.47:5222)
+2017-7-26 9:08:02 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-26 9:08:02 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='5mdqctpnpo' xml:lang='en' version='1.0'/>
+2017-7-26 9:08:02 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-26 9:08:02 : INFO:log: level: 0, area: 262144, <starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-26 9:08:02 : INFO:log: level: 0, area: 131072, <proceed xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-26 9:08:02 : INFO:log: level: 0, area: 4, starting TLS handshake...
+2017-7-26 9:08:02 : INFO:status: -842150451,issuer: CN=127.0.0.1,peer: CN=127.0.0.1,protocol: TLSv1,mac: SHA,cipher: AES_128,compression: ,from: Tue Jul 11 06:43:25 2017
+,to: Tue Jul 11 06:43:25 2017
+
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 8, connection encryption active
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='5mdqctpnpo' xml:lang='en' version='1.0'/>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 262144, <auth xmlns='urn:ietf:params:xml:ns:xmpp-sasl' mechanism='SCRAM-SHA-1'>biwsbj10ZXN0LHI9MDAwMDAxM2QwMDAwMmFkODAwMDA0Mjk4MDAwMDY4ZDQ=</auth>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 131072, <challenge xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>cj0wMDAwMDEzZDAwMDAyYWQ4MDAwMDQyOTgwMDAwNjhkNDQ2M2MzZGQwLTIxNWItNDE0Yy1iZTYyLWJlZWE3MjkxYTNhYyxzPVVXeURwQWtsdW5kN2h6VUk1ak5OV2I4TUFuYjkrNGllLGk9NDA5Ng==</challenge>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 4, Processing SASL challenge
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 262144, <response xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>Yz1iaXdzLHI9MDAwMDAxM2QwMDAwMmFkODAwMDA0Mjk4MDAwMDY4ZDQ0NjNjM2RkMC0yMTViLTQxNGMtYmU2Mi1iZWVhNzI5MWEzYWMscD1KNERHY1lTWm9vZWZ1V2JwVGZFT2lHejBlajA9</response>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 131072, <success xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>dj1kRnNQQmtUaUNjN3QrOVpZYk4zU3plUVZvcU09</success>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 4, SASL authentication successful
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='5mdqctpnpo' xml:lang='en' version='1.0'/>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'/><session xmlns='urn:ietf:params:xml:ns:xmpp-session'><optional/></session><sm xmlns='urn:xmpp:sm:2'/><sm xmlns='urn:xmpp:sm:3'/></stream:features>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 262144, <iq id='969ce1c87b0ddb50193458a637a4f19717e97f7200000001' type='set' xmlns='jabber:client'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><resource/></bind></iq>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 131072, <iq type='result' id='969ce1c87b0ddb50193458a637a4f19717e97f7200000001' to='127.0.0.1/5mdqctpnpo'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><jid>test@127.0.0.1/5mdqctpnpo</jid></bind></iq>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 262144, <iq id='969ce1c87b0ddb50193458a637a4f19717e97f7200000002' type='set' from='test@127.0.0.1/5mdqctpnpo' xmlns='jabber:client'><session xmlns='urn:ietf:params:xml:ns:xmpp-session'/></iq>
+2017-7-26 9:08:03 : INFO:log: level: 0, area: 131072, <iq type='result' id='969ce1c87b0ddb50193458a637a4f19717e97f7200000002' to='test@127.0.0.1/5mdqctpnpo'/>
+2017-7-26 9:08:04 : INFO:log: level: 0, area: 262144, <iq id='969ce1c87b0ddb50193458a637a4f19717e97f7200000003' type='get' from='test@127.0.0.1/5mdqctpnpo' xmlns='jabber:client'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-7-26 9:08:04 : INFO:log: level: 0, area: 262144, <iq id='969ce1c87b0ddb50193458a637a4f19717e97f7200000004' type='get' from='test@127.0.0.1/5mdqctpnpo' xmlns='jabber:client'><query xmlns='jabber:iq:roster'/></iq>
+2017-7-26 9:08:04 : INFO:log: level: 0, area: 131072, <iq type='result' id='969ce1c87b0ddb50193458a637a4f19717e97f7200000003' to='test@127.0.0.1/5mdqctpnpo'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-7-26 9:08:04 : INFO:log: level: 0, area: 131072, <iq type='result' id='969ce1c87b0ddb50193458a637a4f19717e97f7200000004' to='test@127.0.0.1/5mdqctpnpo'><query xmlns='jabber:iq:roster'><item jid='admin@127.0.0.1' name='admin' subscription='both'><group>Friends</group></item></query></iq>
+2017-7-26 9:08:04 : INFO:log: level: 0, area: 262144, <presence from='test@127.0.0.1/5mdqctpnpo' xmlns='jabber:client'><priority>0</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://camaya.net/gloox' ver='MCjlOscOkUNT+8QzA5fFJj2oMSU='/></presence>
+2017-7-26 9:08:04 : INFO:¡¨Ω”≥…π¶
+2017-7-26 9:08:04 : INFO:log: level: 0, area: 131072, <presence from='test@127.0.0.1/91gcbiw6qd' to='test@127.0.0.1/5mdqctpnpo'><priority>0</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://camaya.net/gloox' ver='MCjlOscOkUNT+8QzA5fFJj2oMSU='/></presence>
+2017-7-26 9:08:04 : INFO:∂¡»°≈‰÷√Œƒº˛
+2017-7-26 9:15:34 : INFO:¡¨Ω” ß∞‹£¨÷ÿ–¬¡¨Ω”
+2017-7-26 9:15:34 : INFO:log: level: 0, area: 8, This is gloox 1.0.20, connecting to 172.27.52.47...
+2017-7-26 9:15:34 : INFO:log: level: 1, area: 32, DnsQuery_UTF8() failed: 123
+2017-7-26 9:15:34 : INFO:log: level: 1, area: 32, Notice: no SRV record found for 172.27.52.47, using default port.
+2017-7-26 9:15:34 : INFO:log: level: 0, area: 32, Connecting to 172.27.52.47 (172.27.52.47:5222)
+2017-7-26 9:15:34 : INFO:log: level: 0, area: 32, Connected to 172.27.52.47 (172.27.52.47:5222)
+2017-7-26 9:15:34 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-26 9:15:34 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='6y5mk7ysf7' xml:lang='en' version='1.0'/>
+2017-7-26 9:15:35 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-26 9:15:35 : INFO:log: level: 0, area: 262144, <starttls xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-26 9:15:35 : INFO:log: level: 0, area: 131072, <proceed xmlns='urn:ietf:params:xml:ns:xmpp-tls'/>
+2017-7-26 9:15:35 : INFO:log: level: 0, area: 4, starting TLS handshake...
+2017-7-26 9:15:35 : INFO:status: -842150451,issuer: CN=127.0.0.1,peer: CN=127.0.0.1,protocol: TLSv1,mac: SHA,cipher: AES_128,compression: ,from: Tue Jul 11 06:43:25 2017
+,to: Tue Jul 11 06:43:25 2017
+
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 8, connection encryption active
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='6y5mk7ysf7' xml:lang='en' version='1.0'/>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><mechanisms xmlns='urn:ietf:params:xml:ns:xmpp-sasl'><mechanism>PLAIN</mechanism><mechanism>SCRAM-SHA-1</mechanism><mechanism>CRAM-MD5</mechanism><mechanism>DIGEST-MD5</mechanism></mechanisms><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><register xmlns='http://jabber.org/features/iq-register'/></stream:features>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 262144, <auth xmlns='urn:ietf:params:xml:ns:xmpp-sasl' mechanism='SCRAM-SHA-1'>biwsbj10ZXN0LHI9MDAwMDIyZTQwMDAwNjA0NTAwMDAzOTYyMDAwMDBjODA=</auth>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 131072, <challenge xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>cj0wMDAwMjJlNDAwMDA2MDQ1MDAwMDM5NjIwMDAwMGM4MGZjZGExZmZhLTMwZjAtNGNhMS05YmU3LTc0Yjk0NDMwMDdmMixzPVVXeURwQWtsdW5kN2h6VUk1ak5OV2I4TUFuYjkrNGllLGk9NDA5Ng==</challenge>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 4, Processing SASL challenge
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 262144, <response xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>Yz1iaXdzLHI9MDAwMDIyZTQwMDAwNjA0NTAwMDAzOTYyMDAwMDBjODBmY2RhMWZmYS0zMGYwLTRjYTEtOWJlNy03NGI5NDQzMDA3ZjIscD1mQmtDdUFraHFTVHI4eTg3WktBZUJWNUdtdzg9</response>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 131072, <success xmlns='urn:ietf:params:xml:ns:xmpp-sasl'>dj1LRGNTdXQ1ZDhxVmtxZitmMFV0N1lOc1dwUGs9</success>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 4, SASL authentication successful
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 262144, <?xml version='1.0' ?><stream:stream to='172.27.52.47' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'  xml:lang='en' version='1.0'>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 131072, <stream:stream xmlns:stream='http://etherx.jabber.org/streams' xmlns='jabber:client' from='127.0.0.1' id='6y5mk7ysf7' xml:lang='en' version='1.0'/>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 131072, <stream:features xmlns:stream='http://etherx.jabber.org/streams'><compression xmlns='http://jabber.org/features/compress'><method>zlib</method></compression><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'/><session xmlns='urn:ietf:params:xml:ns:xmpp-session'><optional/></session><sm xmlns='urn:xmpp:sm:2'/><sm xmlns='urn:xmpp:sm:3'/></stream:features>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 262144, <iq id='cd407f950014f6fa0bf99283c0f944d4f146ffaa00000001' type='set' xmlns='jabber:client'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><resource/></bind></iq>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 131072, <iq type='result' id='cd407f950014f6fa0bf99283c0f944d4f146ffaa00000001' to='127.0.0.1/6y5mk7ysf7'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><jid>test@127.0.0.1/6y5mk7ysf7</jid></bind></iq>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 262144, <iq id='cd407f950014f6fa0bf99283c0f944d4f146ffaa00000002' type='set' from='test@127.0.0.1/6y5mk7ysf7' xmlns='jabber:client'><session xmlns='urn:ietf:params:xml:ns:xmpp-session'/></iq>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 131072, <iq type='result' id='cd407f950014f6fa0bf99283c0f944d4f146ffaa00000002' to='test@127.0.0.1/6y5mk7ysf7'/>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 262144, <iq id='cd407f950014f6fa0bf99283c0f944d4f146ffaa00000003' type='get' from='test@127.0.0.1/6y5mk7ysf7' xmlns='jabber:client'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 262144, <iq id='cd407f950014f6fa0bf99283c0f944d4f146ffaa00000004' type='get' from='test@127.0.0.1/6y5mk7ysf7' xmlns='jabber:client'><query xmlns='jabber:iq:roster'/></iq>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 131072, <iq type='result' id='cd407f950014f6fa0bf99283c0f944d4f146ffaa00000003' to='test@127.0.0.1/6y5mk7ysf7'><query xmlns='jabber:iq:private'><roster xmlns='roster:delimiter'/></query></iq>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 131072, <iq type='result' id='cd407f950014f6fa0bf99283c0f944d4f146ffaa00000004' to='test@127.0.0.1/6y5mk7ysf7'><query xmlns='jabber:iq:roster'><item jid='admin@127.0.0.1' name='admin' subscription='both'><group>Friends</group></item></query></iq>
+2017-7-26 9:15:36 : INFO:log: level: 0, area: 262144, <presence from='test@127.0.0.1/6y5mk7ysf7' xmlns='jabber:client'><priority>0</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://camaya.net/gloox' ver='MCjlOscOkUNT+8QzA5fFJj2oMSU='/></presence>
+2017-7-26 9:15:36 : INFO:¡¨Ω”≥…π¶
+2017-7-26 9:15:36 : 

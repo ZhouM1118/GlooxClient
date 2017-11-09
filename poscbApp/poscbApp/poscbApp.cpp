@@ -120,7 +120,7 @@ BOOL CposcbAppApp::IsAlreadyRunning()
     if (GetLastError() == ERROR_ALREADY_EXISTS)
     {
         bRet = TRUE;
-        HWND hWnd = FindWindow(TEXT("poscbApp"), TEXT("银商C扫B客户端"));
+        HWND hWnd = FindWindow(TEXT("poscbApp"), TEXT("C扫B客户端"));
         SetForegroundWindow(hWnd);
     }
     if (hMutex)

@@ -192,8 +192,7 @@ namespace poscb
 		//MessageBox(NULL, TEXT("连接成功"), TEXT("提示信息"), MB_OK);
 		if (firstConnect)
 		{
-			//MessageBoxTimeout(NULL, TEXT("连接服务器成功"), TEXT("银商C扫B客户端-提示信息"), MB_ICONINFORMATION, GetSystemDefaultLangID(), 5000);
-			//WinExec("message.exe", SW_SHOW);
+			
 			ShellExecute(NULL, TEXT("open"), TEXT("message.exe"), TEXT("1 0"), NULL, SW_SHOW);
 			firstConnect = false;
 		}
@@ -291,17 +290,6 @@ namespace poscb
 		const char* billDate = value["payload"]["billDate"].asCString();
 		const char* billDesc = value["payload"]["billDesc"].asCString();
 		const char* billNo = value["payload"]["billNo"].asCString();
-		
-		const char* billQRCode = value["payload"]["billQRCode"].asCString();
-		const char* billStatus = value["payload"]["billStatus"].asCString();
-		const char* createTime = value["payload"]["createTime"].asCString();
-		const char* instMid = value["payload"]["instMid"].asCString();
-		const char* merName = value["payload"]["merName"].asCString();
-		const char* mid = value["payload"]["mid"].asCString();
-		const char* notifyId = value["payload"]["notifyId"].asCString();
-		const char* tid = value["payload"]["tid"].asCString();
-		const char* timestamp = value["timestamp"].asCString();
-		const char* type = value["type"].asCString();
 
 		const char* billBizType = value["payload"]["billPayment"]["billBizType"].asCString();
 		const char* buyerId = value["payload"]["billPayment"]["buyerId"].asCString();
@@ -323,16 +311,6 @@ namespace poscb
 						+ ",buyerPayAmount=" + buyerPayAmountStr
 						+ ",buyerUsername=" + value["payload"]["billPayment"]["buyerUsername"].asString()
 						+ ",couponAmount=" + couponAmountStr
-						+ ",invoiceAmount=" + invoiceAmountStr
-						+ ",merOrderId=" + value["payload"]["billPayment"]["merOrderId"].asString()
-						+ ",payDetail=" + value["payload"]["billPayment"]["payDetail"].asString()
-						+ ",paySeqId=" + value["payload"]["billPayment"]["paySeqId"].asString()
-						+ ",payTime=" + value["payload"]["billPayment"]["payTime"].asString()
-						+ ",settleDate=" + value["payload"]["billPayment"]["settleDate"].asString()
-						+ ",status=" + value["payload"]["billPayment"]["status"].asString()
-						+ ",targetOrderId=" + value["payload"]["billPayment"]["targetOrderId"].asString()
-						+ ",targetSys=" + value["payload"]["billPayment"]["targetSys"].asString()
-						+ ",totalAmount=" + totalAmountStr
 						+ ",billQRCode=" + value["payload"]["billQRCode"].asString()
 						+ ",billStatus=" + value["payload"]["billStatus"].asString() 
 						+ ",createTime=" + value["payload"]["createTime"].asString()
@@ -350,34 +328,6 @@ namespace poscb
 		strcpy_s(message.billDate, billDate);
 		strcpy_s(message.billDesc, billDesc);
 		strcpy_s(message.billNo, billNo);
-
-		strcpy_s(message.billBizType, billBizType);
-		strcpy_s(message.buyerId, buyerId);
-		strcpy_s(message.buyerPayAmount, buyerPayAmountStr.c_str());
-		strcpy_s(message.buyerUsername, buyerUsername);
-		strcpy_s(message.couponAmount, couponAmountStr.c_str());
-		strcpy_s(message.invoiceAmount, invoiceAmountStr.c_str());
-		strcpy_s(message.merOrderId, merOrderId);
-		strcpy_s(message.payDetail, payDetail);
-		strcpy_s(message.resF037, paySeqId);
-		strcpy_s(message.payTime, payTime);
-		strcpy_s(message.settleDate, settleDate);
-		strcpy_s(message.status, status);
-		strcpy_s(message.targetOrderId, targetOrderId);
-		strcpy_s(message.targetSys, targetSys);
-		strcpy_s(message.totalAmount, totalAmountStr.c_str());
-
-		strcpy_s(message.billQRCode, billQRCode);
-		strcpy_s(message.billStatus, billStatus);
-		strcpy_s(message.createTime, createTime);
-		strcpy_s(message.instMid, instMid);
-		strcpy_s(message.merName, merName);
-		strcpy_s(message.resF042, mid);
-		strcpy_s(message.notifyId, notifyId);
-		strcpy_s(message.resF041, tid);
-		
-		strcpy_s(message.timestamp, timestamp);
-		strcpy_s(message.type, type);
 
 		char* filein = result;
 		memcpy(filein, &message, sizeof(message));
